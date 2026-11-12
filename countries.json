@@ -327,7 +327,7 @@
   "access": "freemium",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
  },
  {
   "code": "KR",
@@ -377,7 +377,7 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
  },
  {
   "code": "ID",
@@ -407,7 +407,7 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
  },
  {
   "code": "PK",
@@ -497,7 +497,7 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
  },
  {
   "code": "NG",
@@ -517,7 +517,7 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
  },
  {
   "code": "AU",
@@ -527,13 +527,553 @@
   "access": "paid",
   "region": "Oceania",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
  },
  {
   "code": "NZ",
   "country": "New Zealand",
   "body": "Standards NZ (NZS)",
   "url": "https://www.standards.govt.nz",
+  "access": "paid",
+  "region": "Oceania",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
+ },
+ {
+  "code": "BG",
+  "country": "Bulgaria",
+  "body": "BDS",
+  "url": "https://www.bds-bg.org",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "HR",
+  "country": "Croatia",
+  "body": "HZN (HRN)",
+  "url": "https://www.hzn.hr",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "SI",
+  "country": "Slovenia",
+  "body": "SIST",
+  "url": "https://www.sist.si",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "SK",
+  "country": "Slovakia",
+  "body": "UNMS SR (STN)",
+  "url": "https://www.unms.sk",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "LT",
+  "country": "Lithuania",
+  "body": "LST",
+  "url": "https://www.lsd.lt",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "LV",
+  "country": "Latvia",
+  "body": "LVS",
+  "url": "https://www.lvs.lv",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "EE",
+  "country": "Estonia",
+  "body": "EVS",
+  "url": "https://www.evs.ee",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "LU",
+  "country": "Luxembourg",
+  "body": "ILNAS",
+  "url": "https://portail-qualite.public.lu",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "CY",
+  "country": "Cyprus",
+  "body": "CYS",
+  "url": "https://www.cys.org.cy",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "IS",
+  "country": "Iceland",
+  "body": "Staðlaráð Íslands (IST)",
+  "url": "https://www.stadlar.is",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "RS",
+  "country": "Serbia",
+  "body": "ISS",
+  "url": "https://www.iss.rs",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "UA",
+  "country": "Ukraine",
+  "body": "UkrNDNC (DSTU)",
+  "url": "https://uas.gov.ua",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "EC",
+  "country": "Ecuador",
+  "body": "INEN (NTE)",
+  "url": "https://www.normalizacion.gob.ec",
+  "access": "free",
+  "region": "Americas",
+  "verified": false,
+  "notes": "INEN standards published free via Public.Resource.Org"
+ },
+ {
+  "code": "UY",
+  "country": "Uruguay",
+  "body": "UNIT",
+  "url": "https://www.unit.org.uy",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "PY",
+  "country": "Paraguay",
+  "body": "INTN",
+  "url": "https://www.intn.gov.py",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "BO",
+  "country": "Bolivia",
+  "body": "IBNORCA",
+  "url": "https://www.ibnorca.org",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "VE",
+  "country": "Venezuela",
+  "body": "FONDONORMA",
+  "url": "https://www.sencamer.gob.ve",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "CR",
+  "country": "Costa Rica",
+  "body": "INTECO",
+  "url": "https://www.inteco.org",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "PA",
+  "country": "Panama",
+  "body": "COPANIT / DGNTI",
+  "url": "https://www.mici.gob.pa",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "GT",
+  "country": "Guatemala",
+  "body": "COGUANOR",
+  "url": "https://www.mineco.gob.gt",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "DO",
+  "country": "Dominican Rep.",
+  "body": "INDOCAL",
+  "url": "https://www.indocal.gob.do",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "JM",
+  "country": "Jamaica",
+  "body": "BSJ",
+  "url": "https://www.bsj.org.jm",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "TT",
+  "country": "Trinidad & Tobago",
+  "body": "TTBS",
+  "url": "https://www.ttbs.org.tt",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "MA",
+  "country": "Morocco",
+  "body": "IMANOR",
+  "url": "https://www.imanor.gov.ma",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "DZ",
+  "country": "Algeria",
+  "body": "IANOR",
+  "url": "https://www.ianor.dz",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "TN",
+  "country": "Tunisia",
+  "body": "INNORPI",
+  "url": "https://www.innorpi.tn",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "GH",
+  "country": "Ghana",
+  "body": "GSA",
+  "url": "https://www.gsa.gov.gh",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "ET",
+  "country": "Ethiopia",
+  "body": "ESA (ES)",
+  "url": "https://www.ethiostandards.org",
+  "access": "freemium",
+  "region": "Africa",
+  "verified": false,
+  "notes": "Ethiopian standards in Public.Resource.Org"
+ },
+ {
+  "code": "UG",
+  "country": "Uganda",
+  "body": "UNBS (US)",
+  "url": "https://www.unbs.go.ug",
+  "access": "freemium",
+  "region": "Africa",
+  "verified": false,
+  "notes": "Some UNBS standards in Public.Resource.Org"
+ },
+ {
+  "code": "TZ",
+  "country": "Tanzania",
+  "body": "TBS",
+  "url": "https://www.tbs.go.tz",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "ZW",
+  "country": "Zimbabwe",
+  "body": "SAZ",
+  "url": "https://www.saz.org.zw",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "ZM",
+  "country": "Zambia",
+  "body": "ZABS",
+  "url": "https://www.zabs.org.zm",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "SN",
+  "country": "Senegal",
+  "body": "ASN",
+  "url": "https://www.asn.sn",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "CI",
+  "country": "Cote d'Ivoire",
+  "body": "CODINORM",
+  "url": "https://www.codinorm.ci",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "MU",
+  "country": "Mauritius",
+  "body": "MSB",
+  "url": "https://msb.govmu.org",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "RW",
+  "country": "Rwanda",
+  "body": "RSB",
+  "url": "https://www.rsb.gov.rw",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "JO",
+  "country": "Jordan",
+  "body": "JISM",
+  "url": "https://www.jsmo.gov.jo",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "LB",
+  "country": "Lebanon",
+  "body": "LIBNOR",
+  "url": "https://www.libnor.gov.lb",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "KW",
+  "country": "Kuwait",
+  "body": "PAI / KOWSMD",
+  "url": "https://www.pai.gov.kw",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "QA",
+  "country": "Qatar",
+  "body": "QS (MoCI)",
+  "url": "https://www.moci.gov.qa",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "OM",
+  "country": "Oman",
+  "body": "DGSM (MOCI)",
+  "url": "https://www.moci.gov.om",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "BH",
+  "country": "Bahrain",
+  "body": "MOIC",
+  "url": "https://www.moic.gov.bh",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "IQ",
+  "country": "Iraq",
+  "body": "COSQC",
+  "url": "https://www.cosqc.gov.iq",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "KZ",
+  "country": "Kazakhstan",
+  "body": "KazStandard (ST RK)",
+  "url": "https://www.kazstandard.kz",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "UZ",
+  "country": "Uzbekistan",
+  "body": "Uzstandard",
+  "url": "https://standart.uz",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "HK",
+  "country": "Hong Kong",
+  "body": "ITC / HKSAR",
+  "url": "https://www.itc.gov.hk",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "NP",
+  "country": "Nepal",
+  "body": "NBSM (NS)",
+  "url": "https://www.nbsm.gov.np",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "MM",
+  "country": "Myanmar",
+  "body": "MSTRD",
+  "url": "https://www.mstrd.gov.mm",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "KH",
+  "country": "Cambodia",
+  "body": "ISC (CS)",
+  "url": "https://www.isc.gov.kh",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "MN",
+  "country": "Mongolia",
+  "body": "MASM",
+  "url": "https://www.masm.gov.mn",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "BN",
+  "country": "Brunei",
+  "body": "JPKE / CPRU (PBD)",
+  "url": "https://www.mofe.gov.bn",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "AF",
+  "country": "Afghanistan",
+  "body": "ANSA",
+  "url": "https://www.ansa.gov.af",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "FJ",
+  "country": "Fiji",
+  "body": "DNTMS",
+  "url": "https://www.fiji.gov.fj",
+  "access": "paid",
+  "region": "Oceania",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "PG",
+  "country": "Papua New Guinea",
+  "body": "NISIT",
+  "url": "https://www.nisit.gov.pg",
   "access": "paid",
   "region": "Oceania",
   "verified": false,

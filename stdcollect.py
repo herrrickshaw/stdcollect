@@ -11,7 +11,7 @@ list which standards bodies are free vs paid, by industry.
 Only metadata is collected by default; `download` fetches only documents from
 sources the registry marks free. Paid standards are listed, never scraped.
 """
-import argparse, csv, json, re, sys, time, urllib.request, urllib.parse
+import urllib.error, argparse, csv, json, re, sys, time, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -22,9 +22,18 @@ FIELDS = ["source", "id", "title", "year", "status", "url", "access", "industrie
 
 def get(url, binary=False):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        data = r.read()
-    return data if binary else data.decode("utf-8", "replace")
+    for attempt in range(5):  # back off politely on 429/503
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = r.read()
+            return data if binary else data.decode("utf-8", "replace")
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 503) or attempt == 4: raise
+            try:
+                ra = float(e.headers.get("Retry-After", 0) or 0)
+            except ValueError:
+                ra = 0
+            time.sleep(max(ra, 10 * 2 ** attempt))
 
 
 def registry():
@@ -264,7 +273,80 @@ def collect_japan(limit):
     raise NotImplementedError("JISC is reachable again - write the JIS search collector")
 
 
-COLLECTORS = {"china": collect_china, "korea": collect_korea, "saudi": collect_saudi, "japan": collect_japan, "itu": collect_itu, "nasa": collect_nasa, "etsi": collect_etsi, "rfc": collect_rfc, "ecfr": collect_ecfr, "lawresorg_bis": collect_lawresorg_bis}
+def collect_eu_harmonised(limit):
+    """EU harmonised standards (EN) cited under each New-Legislative-Framework
+    directive/regulation, from the Commission's per-legislation summary
+    spreadsheets. Metadata is free; the EN texts are sold by the national
+    bodies, so access='paid'. Needs `pip install openpyxl`."""
+    import html, io
+    try:
+        import openpyxl
+    except ImportError:
+        raise RuntimeError("pip install openpyxl")
+    root = "https://single-market-economy.ec.europa.eu"
+    idx = get(root + "/single-market/european-standards/harmonised-standards_en")
+    pages = sorted(set(re.findall(r'href="(/single-market/goods/european-standards/harmonised-standards/[^"]+_en)"', idx)))
+    pages = [p for p in pages if not re.search(r"formal-objections|-old_en|new-legislative", p)]
+    rows, seen = [], set()
+    for p in pages:
+        time.sleep(3)
+        try:
+            ph = get(root + p)
+        except Exception as e:
+            print(f"  skip {p}: {e}", file=sys.stderr); continue
+        links = [html.unescape(u) for u in re.findall(r'href="([^"]+)"', ph)
+                 if "SummaryList" in u and ".xlsx" in u.lower()]
+        links = [u if u.startswith("http") else root + u for u in links]
+        if not links: continue
+        time.sleep(1)
+        try:
+            wb = openpyxl.load_workbook(io.BytesIO(get(links[-1], binary=True)), read_only=True)
+        except Exception as e:
+            print(f"  skip xlsx {p}: {e}", file=sys.stderr); continue
+        slug = p.rsplit("/", 1)[1][:-3]
+        for ws in wb:
+            for r in ws.iter_rows(values_only=True):
+                if not r or len(r) < 8 or not r[2] or r[0] in (None, "Legislation") or "Generated" in str(r[0]): continue
+                lines = [x.strip() for x in str(r[2]).split("\n") if x.strip()]
+                ident = lines[0]; title = lines[1] if len(lines) > 1 else ""
+                key = (r[0], ident)
+                if key in seen: continue
+                seen.add(key)
+                ym = re.search(r":(\d{4})", ident)
+                rows.append(dict(source="eu-harmonised", id=ident, title=title, year=ym.group(1) if ym else "",
+                                 status="withdrawn" if r[7] else "cited in OJEU", access="paid",
+                                 url=links[-1], industries=f"eu;{slug};{str(r[1]).lower()};{str(r[0])[:60]}"))
+                if limit and len(rows) >= limit: return rows
+    return rows
+
+
+def collect_lawresorg_world(limit):
+    """Standards incorporated into national safety law, republished free by
+    Public.Resource.Org for many countries (AU, JP, NZ, ZA, KE, PH, TH, UG, ET,
+    GCC, ARSO, EAC, COMESA, CARICOM ...). One page per country/bloc."""
+    top = get("https://law.resource.org/pub/table01.html")
+    blocs = re.findall(r'<td><a href="([a-z]+)/manifest\.[a-z]+\.html">([^<]+)</a></td>', top)
+    rows, seen = [], set()
+    for cc, name in blocs:
+        time.sleep(1)
+        try:
+            page = get(f"https://law.resource.org/pub/{cc}/")
+        except Exception as e:
+            print(f"  skip {cc}: {e}", file=sys.stderr); continue
+        n0 = len(rows)
+        for tr in re.findall(r"<tr><td>(.*?)</tr>", page, re.S):
+            m = re.search(r'href="(https://archive\.org/details/[^"]+)">([^<]+?)(?:\s*\((?:pdf|html)\))?</a>', tr)
+            cells = [_clean(c) for c in re.findall(r"<td[^>]*>(.*?)</td>", "<td>" + tr, re.S)]
+            if not m or len(cells) < 4 or m.group(1) in seen: continue
+            seen.add(m.group(1))
+            rows.append(dict(source=f"pro-{cc}", id=m.group(2), title=cells[3], year=cells[1], status="as incorporated",
+                             url=m.group(1), access="free", industries=f"{name};{cells[2]}"[:120]))
+            if limit and len(rows) >= limit: return rows
+        print(f"  {cc} ({name}): {len(rows) - n0}", file=sys.stderr)
+    return rows
+
+
+COLLECTORS = {"lawresorg_world": collect_lawresorg_world, "eu_harmonised": collect_eu_harmonised, "china": collect_china, "korea": collect_korea, "saudi": collect_saudi, "japan": collect_japan, "itu": collect_itu, "nasa": collect_nasa, "etsi": collect_etsi, "rfc": collect_rfc, "ecfr": collect_ecfr, "lawresorg_bis": collect_lawresorg_bis}
 
 
 # ---------------- commands ----------------

@@ -122,7 +122,8 @@
   "industries": [
    "automotive"
   ],
-  "typical_price": "free"
+  "typical_price": "free",
+  "notes": "unece.org returns 403 to automated clients; no collector. Browse manually."
  },
  {
   "id": "codex",
@@ -464,7 +465,7 @@
   "region": "US/India",
   "url": "https://law.resource.org",
   "access": "free",
-  "free_part": "Incorporated-by-reference US standards; ~19,000 Indian Standards (BIS) on archive.org",
+  "free_part": "Incorporated-by-reference US standards; ~19,000 Indian Standards (BIS) on archive.org; plus AU/JP/NZ/ZA/KE/PH/TH/UG/ET/EC and GCC/ARSO/COMESA incorporated standards",
   "free_url": "https://law.resource.org/pub/in/bis/",
   "industries": [
    "all",
@@ -474,7 +475,7 @@
    "textiles"
   ],
   "typical_price": "free",
-  "collector": "lawresorg_bis"
+  "collector": "lawresorg_bis, lawresorg_world"
  },
  {
   "id": "bis",
@@ -531,7 +532,9 @@
    "construction",
    "medical"
   ],
-  "typical_price": "EUR 50-400"
+  "typical_price": "EUR 50-400",
+  "collector": "eu_harmonised",
+  "notes": "Harmonised-standard lists per EU legislation (metadata); EN texts sold by national bodies. CEN standards search is a dynamic app (HTTP 500 to scripts) so is not crawled."
  },
  {
   "id": "afnor",
