@@ -184,7 +184,87 @@ def collect_etsi(limit):
     return rows
 
 
-COLLECTORS = {"itu": collect_itu, "nasa": collect_nasa, "etsi": collect_etsi, "rfc": collect_rfc, "ecfr": collect_ecfr, "lawresorg_bis": collect_lawresorg_bis}
+def collect_china(limit):
+    """China national standards (GB, GB/T, GB/Z) from openstd.samr.gov.cn. The
+    portal gives free *online reading* of metadata/text, not PDF download, so
+    access is 'view-only'. ~72k records; 50/page, 1 req/s (~25 min for all)."""
+    rows, page = [], 1
+    while True:
+        h = get(f"https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&page={page}&pageSize=50")
+        found = 0
+        for tr in re.findall(r"<tr>(.*?)</tr>", h, re.S):
+            m = re.search(r"showInfo\('([0-9A-F]+)'\)", tr)
+            cells = [_clean(c) for c in re.findall(r"<td[^>]*>(.*?)</td>", tr, re.S)]
+            if not m or len(cells) < 9: continue
+            found += 1
+            rows.append(dict(source="china-gb", id=cells[1], title=cells[4], year=cells[7][:4],
+                             status=cells[6] or cells[5], access="view-only",
+                             url=f"https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno={m.group(1)}",
+                             industries="china;national-standard"))
+            if limit and len(rows) >= limit: return rows
+        if not found: return rows
+        page += 1; time.sleep(1)
+
+
+KS_CLASS = {"A": "basic", "B": "mechanical", "C": "electrical;electronics", "D": "metals;steel", "E": "mining",
+            "F": "construction;civil", "G": "packaging;logistics", "H": "food", "I": "environment;safety",
+            "J": "daily-life", "K": "textiles;chemicals", "L": "ceramics", "M": "chemicals", "P": "medical",
+            "Q": "management;quality", "R": "transport;automotive", "S": "services", "T": "distribution",
+            "V": "shipbuilding;maritime", "W": "aerospace", "X": "information-technology"}
+
+
+def collect_korea(limit):
+    """Korean Standards (KS) from KSSN standard.go.kr (free viewing, 34k records, 100/page)."""
+    rows, page = [], 1
+    while True:
+        data = urllib.parse.urlencode({"pageUnit": "100", "pageIndex": str(page)}).encode()
+        req = urllib.request.Request("https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do",
+                                     data=data, headers={"User-Agent": UA})
+        h = urllib.request.urlopen(req, timeout=60).read().decode("utf-8", "replace")
+        found = 0
+        for tr in re.findall(r"<tr class=\"mflex bottom\">(.*?)</tr>", h, re.S):
+            m = re.search(r"fnGoStdView\('([^']+)','([^']+)','([^']+)'\)", tr)
+            cells = [_clean(c) for c in re.findall(r'<td class="(?:mobiletd|tl mobiletd)"[^>]*>(.*?)</td>', tr, re.S)]
+            if not m or len(cells) < 3: continue
+            found += 1
+            cls = re.match(r"KS\s+([A-Z])", cells[0])
+            rows.append(dict(source="korea-ks", id=cells[0], title=cells[1], year=cells[2][:4],
+                             status="abolished" if "폐지" in cells[1] else "in force", access="view-only",
+                             url="https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=" + urllib.parse.quote(cells[0]),
+                             industries=KS_CLASS.get(cls.group(1), "other") if cls else "other"))
+            if limit and len(rows) >= limit: return rows
+        if not found: return rows
+        page += 1; time.sleep(1)
+
+
+def collect_saudi(limit):
+    """SASO (Saudi Arabia): the published standards catalogue is not publicly
+    crawlable; this collects the draft standards open for public consultation
+    ('public_multimedia' pages in the site map)."""
+    h = get("https://www.saso.gov.sa/en/sitemap/Pages/default.aspx")
+    rows = []
+    pat = r'href="(/en/Laws-And-Regulations/public_multimedia/Pages/\d+_\d+\.aspx)"[^>]*>\s*([^<]{3,})'
+    for path, title in re.findall(pat, h):
+        num = re.search(r"/(\d+)_\d+\.aspx", path).group(1)
+        rows.append(dict(source="saso-drafts", id=f"SASO-draft-{num}", title=_clean(title), year="",
+                         status="draft for public consultation", access="free",
+                         url="https://www.saso.gov.sa" + path, industries="saudi;draft"))
+        if limit and len(rows) >= limit: break
+    return rows
+
+
+def collect_japan(limit):
+    """JISC (Japan) JIS database. Not implemented: the site is in an extended
+    maintenance outage (service-stop notice, HTTP 502). Re-probe later."""
+    r = urllib.request.Request("https://www.jisc.go.jp/app/jis/general/GnrJISSearch.html", headers={"User-Agent": UA})
+    try:
+        urllib.request.urlopen(r, timeout=30)
+    except Exception as e:
+        raise RuntimeError(f"JISC unavailable ({e}); no JIS collector built while the site is down")
+    raise NotImplementedError("JISC is reachable again - write the JIS search collector")
+
+
+COLLECTORS = {"china": collect_china, "korea": collect_korea, "saudi": collect_saudi, "japan": collect_japan, "itu": collect_itu, "nasa": collect_nasa, "etsi": collect_etsi, "rfc": collect_rfc, "ecfr": collect_ecfr, "lawresorg_bis": collect_lawresorg_bis}
 
 
 # ---------------- commands ----------------

@@ -9,6 +9,6 @@ Collect engineering-standards metadata from public sources and list which standa
     python3 stdcollect.py search "pressure"
     python3 stdcollect.py download catalog/lawresorg_bis.csv --match IS.456 --max 1
 
-Collectors: ITU-T, ETSI (/deliver tree), NASA NTSS, IETF RFCs, US eCFR titles, Indian Standards (Public.Resource.Org). Paid standards are listed, never scraped. ASSIST (DoD) blocks automated clients and has no collector.
+Collectors: ITU-T, ETSI (/deliver tree), NASA NTSS, IETF RFCs, US eCFR titles, Indian Standards (Public.Resource.Org), China GB (view-only), Korea KS (view-only), SASO consultation drafts. Japan (JISC) is blocked by a site outage; ASSIST blocks automated clients. Paid standards are listed, never scraped.
 
 Registry data (`registry.json`, `countries.json`, `sectors.json`) is best-knowledge; confirm access/pricing on each body's site.

@@ -557,7 +557,8 @@
   "industries": [
    "all"
   ],
-  "typical_price": "JPY 5000-20000"
+  "typical_price": "JPY 5000-20000",
+  "notes": "JISC site in maintenance outage (Nov 2026); no collector until it returns."
  },
  {
   "id": "kssn",
@@ -570,7 +571,9 @@
   "industries": [
    "all"
   ],
-  "typical_price": "KRW 10000-100000"
+  "typical_price": "KRW 10000-100000",
+  "collector": "korea",
+  "notes": "~34k KS standards, free viewing; metadata only."
  },
  {
   "id": "sac",
@@ -583,7 +586,9 @@
   "industries": [
    "all"
   ],
-  "typical_price": "CNY 20-500"
+  "typical_price": "CNY 20-500",
+  "collector": "china",
+  "notes": "Online reading only (no PDF download); metadata for ~72k GB/GB-T standards."
  },
  {
   "id": "sa",
@@ -730,5 +735,23 @@
    "geospatial"
   ],
   "typical_price": "free"
+ },
+ {
+  "id": "saso",
+  "name": "SASO – Saudi Standards, Metrology and Quality Organization",
+  "region": "Saudi Arabia",
+  "url": "https://www.saso.gov.sa",
+  "access": "freemium",
+  "free_part": "Draft standards for public consultation; published SASO standards via store/e-services",
+  "free_url": "https://www.saso.gov.sa/en/Laws-And-Regulations/public_multimedia/Pages/default.aspx",
+  "industries": [
+   "all",
+   "construction",
+   "electrical",
+   "food"
+  ],
+  "typical_price": "SAR (varies)",
+  "collector": "saudi",
+  "notes": "Only consultation drafts are publicly crawlable."
  }
 ]
