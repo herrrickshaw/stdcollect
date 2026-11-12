@@ -1,0 +1,146 @@
+[
+ {
+  "id": "iso",
+  "name": "ISO",
+  "region": "Global",
+  "role": "Publishes international standards; members are national bodies. Source of the numbering that national adoptions keep (IS/ISO 13485, KS P ISO13485, EN ISO 13485).",
+  "link_type": "adoption",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "iec",
+  "name": "IEC",
+  "region": "Global",
+  "role": "Electrotechnical counterpart; IEC numbers survive in EN 6xxxx, IS/IEC, KS C IEC, GB/T xxxx/IEC.",
+  "link_type": "adoption",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "iso-iec-guide21",
+  "name": "ISO/IEC Guide 21-1 (2005)",
+  "region": "Global",
+  "role": "Defines how national/regional standards state their degree of correspondence to an International Standard (identical/modified/not equivalent) and how identical adoptions are numbered.",
+  "link_type": "equivalence labelling",
+  "provenance": "verified via web search 2026-11-13"
+ },
+ {
+  "id": "vienna",
+  "name": "Vienna Agreement (ISO-CEN, 1991)",
+  "region": "Europe/Global",
+  "role": "Parallel voting and common planning so one text becomes both ISO and EN; about 31% of CEN standards are developed this way.",
+  "link_type": "parallel development",
+  "provenance": "verified via web search 2026-11-13"
+ },
+ {
+  "id": "frankfurt",
+  "name": "Frankfurt Agreement (IEC-CENELEC)",
+  "region": "Europe/Global",
+  "role": "Common planning and parallel voting in electrotechnology; CENELEC cites ~80% of its standards as identical to or based on IEC (older slide: 72% identical, 6% based on, 22% unrelated).",
+  "link_type": "parallel development",
+  "provenance": "verified via web search 2026-11-13"
+ },
+ {
+  "id": "wto-tbt",
+  "name": "WTO TBT Agreement, Annex 3 Code of Good Practice",
+  "region": "Global",
+  "role": "Obliges members' central standardizing bodies to use international standards as the basis for national ones where they exist; acceptance is notified to the ISO/IEC Information Centre in Geneva.",
+  "link_type": "legal driver of alignment",
+  "provenance": "verified via web search 2026-11-13"
+ },
+ {
+  "id": "iso-iec-infocentre",
+  "name": "ISO/IEC Information Centre (TBT enquiry point, tbtcode.iso.org)",
+  "region": "Global",
+  "role": "Registry of bodies that accepted the TBT Code and their work programmes.",
+  "link_type": "registry",
+  "provenance": "verified via web search 2026-11-13"
+ },
+ {
+  "id": "eurocodes-na",
+  "name": "Eurocodes + National Annexes (CEN/TC 250)",
+  "region": "Europe",
+  "role": "Same EN text everywhere; each country sets Nationally Determined Parameters in its own National Annex, so one standard becomes many country variants.",
+  "link_type": "national variants",
+  "provenance": "verified via web search 2026-11-13"
+ },
+ {
+  "id": "eu-harmonised",
+  "name": "EU harmonised standards (European Commission)",
+  "region": "EU",
+  "role": "EN standards cited in the OJEU give presumption of conformity with EU directives (machinery, pressure equipment, ATEX...). Links standards to law and product segments. Collected in catalog/eu_harmonised.csv.",
+  "link_type": "regulation-to-standard link",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "ibr",
+  "name": "Incorporation by reference (US eCFR, ANSI IBR portal)",
+  "region": "US",
+  "role": "US regulations name specific ASTM/ASME/API/NFPA editions, tying private standards to law and to sectors.",
+  "link_type": "regulation-to-standard link",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "iaf-ilac",
+  "name": "IAF MLA and ILAC MRA",
+  "region": "Global",
+  "role": "Mutual recognition of accreditation, so a certificate or test report to the same standard is accepted across countries.",
+  "link_type": "mutual recognition",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "bipm",
+  "name": "BIPM CIPM MRA",
+  "region": "Global",
+  "role": "Mutual recognition of national measurement standards, underpinning test methods in all sectors.",
+  "link_type": "mutual recognition",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "itc-map",
+  "name": "ITC Standards Map",
+  "region": "Global",
+  "role": "Database of voluntary sustainability standards and their requirements; compares standards across sectors.",
+  "link_type": "comparison tool",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "ics-hs",
+  "name": "ICS (ISO) and HS (WCO) classification",
+  "region": "Global",
+  "role": "ICS codes group standards by subject across bodies; HS codes link traded products to the standards and regulations that apply to them.",
+  "link_type": "classification",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "codex",
+  "name": "Codex Alimentarius",
+  "region": "Global",
+  "role": "Food standards referenced by national food regulations and recognised under the WTO SPS Agreement.",
+  "link_type": "sector",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "unece",
+  "name": "UNECE WP.29",
+  "region": "Global",
+  "role": "Vehicle regulations accepted across contracting parties under the 1958 Agreement.",
+  "link_type": "sector",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "regional",
+  "name": "Regional bodies: ARSO (Africa), COPANT (Americas), PASC (Pacific), ACCSQ (ASEAN), GSO (Gulf), EAC, COMESA, EASC (CIS)",
+  "region": "Regional",
+  "role": "Harmonise national standards inside a bloc; Public.Resource.Org carries ARSO, GCC, COMESA texts (catalog/lawresorg_world.csv).",
+  "link_type": "regional harmonisation",
+  "provenance": "from general knowledge; not verified in this session"
+ },
+ {
+  "id": "ansi-nssn",
+  "name": "ANSI NSSN and NIST Standards Coordinating Office",
+  "region": "US",
+  "role": "Search and coordination services across US standards developers.",
+  "link_type": "registry",
+  "provenance": "from general knowledge; not verified in this session"
+ }
+]
