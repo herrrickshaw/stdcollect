@@ -1,0 +1,150 @@
+{
+ "oil-gas": [
+  "api",
+  "asme",
+  "iso",
+  "ampp",
+  "dnv",
+  "iogp",
+  "nfpa"
+ ],
+ "refining-petrochem": [
+  "api",
+  "asme",
+  "tema",
+  "astm",
+  "aiche",
+  "isa"
+ ],
+ "pressure-vessels-piping": [
+  "asme",
+  "api",
+  "cen",
+  "bis",
+  "tema"
+ ],
+ "process-safety": [
+  "isa",
+  "iec",
+  "nfpa",
+  "aiche",
+  "osha"
+ ],
+ "electrical-power": [
+  "iec",
+  "ieee",
+  "ul",
+  "nfpa",
+  "csa",
+  "bis",
+  "cen"
+ ],
+ "instrumentation-automation": [
+  "isa",
+  "iec",
+  "ieee"
+ ],
+ "civil-structural": [
+  "aisc",
+  "aci",
+  "asce",
+  "aashto",
+  "cen",
+  "bis",
+  "bsi"
+ ],
+ "construction-materials": [
+  "astm",
+  "bis",
+  "cen",
+  "bsi",
+  "iso"
+ ],
+ "welding-fabrication": [
+  "aws",
+  "asme",
+  "iso",
+  "cen"
+ ],
+ "corrosion-coatings": [
+  "ampp",
+  "iso",
+  "astm"
+ ],
+ "hvac-buildings": [
+  "ashrae",
+  "nfpa",
+  "iso",
+  "cen"
+ ],
+ "automotive": [
+  "unece",
+  "sae",
+  "iso",
+  "cen"
+ ],
+ "aerospace-space": [
+  "nasa",
+  "assist",
+  "sae",
+  "iso",
+  "icao"
+ ],
+ "defense": [
+  "assist",
+  "nasa",
+  "cen"
+ ],
+ "maritime-offshore": [
+  "imo",
+  "dnv",
+  "iso",
+  "iogp"
+ ],
+ "telecom-it": [
+  "itu",
+  "etsi",
+  "3gpp",
+  "ietf",
+  "w3c",
+  "ieee",
+  "oasis",
+  "nist"
+ ],
+ "it-security": [
+  "nist",
+  "ietf",
+  "iso",
+  "isa",
+  "iec"
+ ],
+ "medical-pharma": [
+  "fda",
+  "iso",
+  "iec",
+  "cen",
+  "astm"
+ ],
+ "food": [
+  "codex",
+  "iso",
+  "fda",
+  "cen"
+ ],
+ "environment-energy": [
+  "iso",
+  "osha",
+  "astm",
+  "iec",
+  "cen"
+ ],
+ "mining": [
+  "osha",
+  "iso",
+  "astm"
+ ],
+ "logistics-retail": [
+  "gs1",
+  "iso"
+ ]
+}

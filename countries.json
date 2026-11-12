@@ -1,0 +1,542 @@
+[
+ {
+  "code": "US",
+  "country": "United States",
+  "body": "ANSI (+ NIST, ASTM, ASME, API, UL, IEEE, SAE)",
+  "url": "https://www.ansi.org",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "CA",
+  "country": "Canada",
+  "body": "SCC / CSA Group",
+  "url": "https://www.scc.ca",
+  "access": "freemium",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "MX",
+  "country": "Mexico",
+  "body": "SE-DGN (NMX)",
+  "url": "https://www.gob.mx/se",
+  "access": "freemium",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "BR",
+  "country": "Brazil",
+  "body": "ABNT (NBR)",
+  "url": "https://www.abnt.org.br",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "AR",
+  "country": "Argentina",
+  "body": "IRAM",
+  "url": "https://www.iram.org.ar",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "CL",
+  "country": "Chile",
+  "body": "INN (NCh)",
+  "url": "https://www.inn.cl",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "CO",
+  "country": "Colombia",
+  "body": "ICONTEC (NTC)",
+  "url": "https://www.icontec.org",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "PE",
+  "country": "Peru",
+  "body": "INACAL (NTP)",
+  "url": "https://www.inacal.gob.pe",
+  "access": "paid",
+  "region": "Americas",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "GB",
+  "country": "United Kingdom",
+  "body": "BSI",
+  "url": "https://www.bsigroup.com",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "DE",
+  "country": "Germany",
+  "body": "DIN",
+  "url": "https://www.din.de",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "FR",
+  "country": "France",
+  "body": "AFNOR (NF)",
+  "url": "https://www.afnor.org",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "IT",
+  "country": "Italy",
+  "body": "UNI / CEI",
+  "url": "https://www.uni.com",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "ES",
+  "country": "Spain",
+  "body": "UNE",
+  "url": "https://www.une.org",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "NL",
+  "country": "Netherlands",
+  "body": "NEN",
+  "url": "https://www.nen.nl",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "BE",
+  "country": "Belgium",
+  "body": "NBN",
+  "url": "https://www.nbn.be",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "CH",
+  "country": "Switzerland",
+  "body": "SNV",
+  "url": "https://www.snv.ch",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "AT",
+  "country": "Austria",
+  "body": "Austrian Standards",
+  "url": "https://www.austrian-standards.at",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "SE",
+  "country": "Sweden",
+  "body": "SIS",
+  "url": "https://www.sis.se",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "NO",
+  "country": "Norway",
+  "body": "Standards Norway (NS, NORSOK)",
+  "url": "https://www.standard.no",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "DK",
+  "country": "Denmark",
+  "body": "Danish Standards (DS)",
+  "url": "https://www.ds.dk",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "FI",
+  "country": "Finland",
+  "body": "SFS",
+  "url": "https://www.sfs.fi",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "IE",
+  "country": "Ireland",
+  "body": "NSAI",
+  "url": "https://www.nsai.ie",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "PT",
+  "country": "Portugal",
+  "body": "IPQ (NP)",
+  "url": "https://www.ipq.pt",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "PL",
+  "country": "Poland",
+  "body": "PKN",
+  "url": "https://www.pkn.pl",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "CZ",
+  "country": "Czechia",
+  "body": "UNMZ (ČSN)",
+  "url": "https://www.unmz.gov.cz",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "HU",
+  "country": "Hungary",
+  "body": "MSZT",
+  "url": "https://www.mszt.hu",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "GR",
+  "country": "Greece",
+  "body": "ELOT",
+  "url": "https://www.elot.gr",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "RO",
+  "country": "Romania",
+  "body": "ASRO",
+  "url": "https://www.asro.ro",
+  "access": "paid",
+  "region": "Europe",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "RU",
+  "country": "Russia",
+  "body": "Rosstandart (GOST)",
+  "url": "https://www.rst.gov.ru",
+  "access": "paid",
+  "region": "Europe/Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "TR",
+  "country": "Turkey",
+  "body": "TSE",
+  "url": "https://www.tse.org.tr",
+  "access": "paid",
+  "region": "Europe/Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "IN",
+  "country": "India",
+  "body": "BIS (IS)",
+  "url": "https://www.bis.gov.in",
+  "access": "freemium",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "CN",
+  "country": "China",
+  "body": "SAC / SAMR (GB)",
+  "url": "https://openstd.samr.gov.cn",
+  "access": "freemium",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "JP",
+  "country": "Japan",
+  "body": "JISC / JSA (JIS)",
+  "url": "https://www.jisc.go.jp",
+  "access": "freemium",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "KR",
+  "country": "South Korea",
+  "body": "KATS (KS)",
+  "url": "https://standard.go.kr",
+  "access": "freemium",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "TW",
+  "country": "Taiwan",
+  "body": "BSMI (CNS)",
+  "url": "https://www.bsmi.gov.tw",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "SG",
+  "country": "Singapore",
+  "body": "Enterprise Singapore (SS)",
+  "url": "https://www.enterprisesg.gov.sg",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "MY",
+  "country": "Malaysia",
+  "body": "Dept of Standards Malaysia (MS)",
+  "url": "https://www.jsm.gov.my",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "TH",
+  "country": "Thailand",
+  "body": "TISI (TIS)",
+  "url": "https://www.tisi.go.th",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "ID",
+  "country": "Indonesia",
+  "body": "BSN (SNI)",
+  "url": "https://www.bsn.go.id",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "VN",
+  "country": "Vietnam",
+  "body": "STAMEQ (TCVN)",
+  "url": "https://www.tcvn.gov.vn",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "PH",
+  "country": "Philippines",
+  "body": "BPS-DTI (PNS)",
+  "url": "https://bps.dti.gov.ph",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "PK",
+  "country": "Pakistan",
+  "body": "PSQCA (PS)",
+  "url": "https://www.psqca.com.pk",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "BD",
+  "country": "Bangladesh",
+  "body": "BSTI (BDS)",
+  "url": "https://www.bsti.gov.bd",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "LK",
+  "country": "Sri Lanka",
+  "body": "SLSI (SLS)",
+  "url": "https://www.slsi.lk",
+  "access": "paid",
+  "region": "Asia",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "SA",
+  "country": "Saudi Arabia",
+  "body": "SASO (SAUDI standards)",
+  "url": "https://www.saso.gov.sa",
+  "access": "freemium",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "AE",
+  "country": "UAE",
+  "body": "MoIAT (UAE.S)",
+  "url": "https://www.moiat.gov.ae",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "IL",
+  "country": "Israel",
+  "body": "SII (SI)",
+  "url": "https://www.sii.org.il",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "IR",
+  "country": "Iran",
+  "body": "ISIRI",
+  "url": "https://www.isiri.gov.ir",
+  "access": "paid",
+  "region": "Middle East",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "EG",
+  "country": "Egypt",
+  "body": "EOS (ES)",
+  "url": "https://www.eos.org.eg",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "ZA",
+  "country": "South Africa",
+  "body": "SABS (SANS)",
+  "url": "https://www.sabs.co.za",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "NG",
+  "country": "Nigeria",
+  "body": "SON (NIS)",
+  "url": "https://son.gov.ng",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "KE",
+  "country": "Kenya",
+  "body": "KEBS (KS)",
+  "url": "https://www.kebs.org",
+  "access": "paid",
+  "region": "Africa",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "AU",
+  "country": "Australia",
+  "body": "Standards Australia (AS)",
+  "url": "https://www.standards.org.au",
+  "access": "paid",
+  "region": "Oceania",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ },
+ {
+  "code": "NZ",
+  "country": "New Zealand",
+  "body": "Standards NZ (NZS)",
+  "url": "https://www.standards.govt.nz",
+  "access": "paid",
+  "region": "Oceania",
+  "verified": false,
+  "notes": "access is best-knowledge; confirm on the body's site"
+ }
+]

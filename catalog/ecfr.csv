@@ -1,0 +1,13 @@
+source,id,title,year,status,url,access,industries
+ecfr,CFR-10,Energy,2026,in force,https://www.ecfr.gov/current/title-10,free,nuclear;energy
+ecfr,CFR-14,Aeronautics and Space,2026,in force,https://www.ecfr.gov/current/title-14,free,aviation;aerospace
+ecfr,CFR-18,Conservation of Power and Water Resources,2026,in force,https://www.ecfr.gov/current/title-18,free,energy
+ecfr,CFR-21,Food and Drugs,2026,in force,https://www.ecfr.gov/current/title-21,free,food;medical;pharma
+ecfr,CFR-24,Housing and Urban Development,2026,in force,https://www.ecfr.gov/current/title-24,free,buildings
+ecfr,CFR-29,Labor,2026,in force,https://www.ecfr.gov/current/title-29,free,safety;construction;process-safety
+ecfr,CFR-30,Mineral Resources,2026,in force,https://www.ecfr.gov/current/title-30,free,mining;oil-gas
+ecfr,CFR-33,Navigation and Navigable Waters,2026,in force,https://www.ecfr.gov/current/title-33,free,maritime
+ecfr,CFR-40,Protection of Environment,2026,in force,https://www.ecfr.gov/current/title-40,free,environment;chemicals;oil-gas
+ecfr,CFR-46,Shipping,2026,in force,https://www.ecfr.gov/current/title-46,free,maritime
+ecfr,CFR-47,Telecommunication,2026,in force,https://www.ecfr.gov/current/title-47,free,telecom
+ecfr,CFR-49,Transportation,2026,in force,https://www.ecfr.gov/current/title-49,free,transport;pipelines;rail;automotive

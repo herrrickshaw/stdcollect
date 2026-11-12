@@ -1,0 +1,734 @@
+[
+ {
+  "id": "iso",
+  "name": "ISO – International Organization for Standardization",
+  "region": "Global",
+  "url": "https://www.iso.org/standards.html",
+  "access": "paid",
+  "free_part": "Online Browsing Platform previews (scope, terms); ISO 'publicly available' standards list",
+  "free_url": "https://www.iso.org/publicly-available-standards.html",
+  "industries": [
+   "all",
+   "quality",
+   "environment",
+   "oil-gas",
+   "medical",
+   "automotive",
+   "food",
+   "it-security",
+   "energy"
+  ],
+  "typical_price": "CHF 50-300 per document"
+ },
+ {
+  "id": "iec",
+  "name": "IEC – International Electrotechnical Commission",
+  "region": "Global",
+  "url": "https://webstore.iec.ch",
+  "access": "paid",
+  "free_part": "Electropedia (IEV terminology) free; read-only previews",
+  "free_url": "https://www.electropedia.org",
+  "industries": [
+   "electrical",
+   "electronics",
+   "energy",
+   "automation",
+   "medical"
+  ],
+  "typical_price": "CHF 50-400"
+ },
+ {
+  "id": "itu",
+  "name": "ITU-T / ITU-R Recommendations",
+  "region": "Global",
+  "url": "https://www.itu.int/rec/T-REC/en",
+  "access": "free",
+  "free_part": "All ITU-T recommendations free to download",
+  "free_url": "https://www.itu.int/rec/T-REC/en",
+  "industries": [
+   "telecom",
+   "it"
+  ],
+  "typical_price": "free",
+  "collector": "itu"
+ },
+ {
+  "id": "ietf",
+  "name": "IETF RFCs",
+  "region": "Global",
+  "url": "https://www.rfc-editor.org",
+  "access": "free",
+  "free_part": "All RFCs",
+  "free_url": "https://www.rfc-editor.org/rfc-index.xml",
+  "industries": [
+   "it",
+   "telecom",
+   "it-security"
+  ],
+  "typical_price": "free",
+  "collector": "rfc"
+ },
+ {
+  "id": "w3c",
+  "name": "W3C Standards",
+  "region": "Global",
+  "url": "https://www.w3.org/TR/",
+  "access": "free",
+  "free_part": "All",
+  "free_url": "https://www.w3.org/TR/",
+  "industries": [
+   "it",
+   "web"
+  ],
+  "typical_price": "free"
+ },
+ {
+  "id": "etsi",
+  "name": "ETSI",
+  "region": "Europe/Global",
+  "url": "https://www.etsi.org/standards",
+  "access": "free",
+  "free_part": "All ETSI standards free PDF",
+  "free_url": "https://www.etsi.org/standards-search",
+  "industries": [
+   "telecom",
+   "it",
+   "automotive-its"
+  ],
+  "typical_price": "free",
+  "collector": "etsi"
+ },
+ {
+  "id": "3gpp",
+  "name": "3GPP Specifications",
+  "region": "Global",
+  "url": "https://www.3gpp.org/specifications-technologies",
+  "access": "free",
+  "free_part": "All",
+  "free_url": "https://www.3gpp.org/ftp/Specs/archive",
+  "industries": [
+   "telecom"
+  ],
+  "typical_price": "free"
+ },
+ {
+  "id": "unece",
+  "name": "UNECE Vehicle Regulations (WP.29)",
+  "region": "Global",
+  "url": "https://unece.org/transport/vehicle-regulations",
+  "access": "free",
+  "free_part": "All UN Regulations and GTRs",
+  "free_url": "https://unece.org/transport/vehicle-regulations-wp29/standards/addenda-1958-agreement-regulations",
+  "industries": [
+   "automotive"
+  ],
+  "typical_price": "free"
+ },
+ {
+  "id": "codex",
+  "name": "Codex Alimentarius (FAO/WHO)",
+  "region": "Global",
+  "url": "https://www.fao.org/fao-who-codexalimentarius",
+  "access": "free",
+  "free_part": "All standards and codes of practice",
+  "free_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+  "industries": [
+   "food"
+  ],
+  "typical_price": "free"
+ },
+ {
+  "id": "imo",
+  "name": "IMO conventions (SOLAS, MARPOL…)",
+  "region": "Global",
+  "url": "https://www.imo.org",
+  "access": "paid",
+  "free_part": "Resolutions via IMODOCS (registration)",
+  "free_url": "https://docs.imo.org",
+  "industries": [
+   "maritime"
+  ],
+  "typical_price": "GBP 50-300"
+ },
+ {
+  "id": "icao",
+  "name": "ICAO Annexes / SARPs",
+  "region": "Global",
+  "url": "https://www.icao.int",
+  "access": "paid",
+  "free_part": "Some via ICAO store previews",
+  "free_url": "https://store.icao.int",
+  "industries": [
+   "aviation"
+  ],
+  "typical_price": "USD 50-250"
+ },
+ {
+  "id": "astm",
+  "name": "ASTM International",
+  "region": "US/Global",
+  "url": "https://www.astm.org",
+  "access": "paid",
+  "free_part": "Read-only reading room; many ASTM standards incorporated by reference in US regs are viewable",
+  "free_url": "https://www.astm.org/products-services/reading-room.html",
+  "industries": [
+   "materials",
+   "steel",
+   "petroleum",
+   "construction",
+   "plastics",
+   "chemicals",
+   "environment"
+  ],
+  "typical_price": "USD 50-150"
+ },
+ {
+  "id": "asme",
+  "name": "ASME",
+  "region": "US/Global",
+  "url": "https://www.asme.org/codes-standards",
+  "access": "paid",
+  "free_part": "Read-only access to selected IBR editions",
+  "free_url": "https://www.asme.org/codes-standards/publications-information/ibr",
+  "industries": [
+   "pressure-vessels",
+   "boilers",
+   "piping",
+   "power",
+   "mechanical"
+  ],
+  "typical_price": "USD 100-1000+ (BPVC sets ~USD 1000s)"
+ },
+ {
+  "id": "api",
+  "name": "API – American Petroleum Institute",
+  "region": "US/Global",
+  "url": "https://www.api.org/products-and-services/standards",
+  "access": "freemium",
+  "free_part": "Read-only access to many standards",
+  "free_url": "https://publications.api.org",
+  "industries": [
+   "oil-gas",
+   "refining",
+   "petrochemical",
+   "pipelines"
+  ],
+  "typical_price": "USD 100-600"
+ },
+ {
+  "id": "ieee",
+  "name": "IEEE Standards Association",
+  "region": "US/Global",
+  "url": "https://standards.ieee.org",
+  "access": "paid",
+  "free_part": "IEEE Get Program: free access to some standards (e.g. 802 series after 6 months)",
+  "free_url": "https://ieeexplore.ieee.org/browse/standards/get-program/page",
+  "industries": [
+   "electrical",
+   "power",
+   "it",
+   "telecom",
+   "automation"
+  ],
+  "typical_price": "USD 50-250"
+ },
+ {
+  "id": "nfpa",
+  "name": "NFPA",
+  "region": "US/Global",
+  "url": "https://www.nfpa.org/codes-and-standards",
+  "access": "freemium",
+  "free_part": "Free read-only online access to all codes (registration)",
+  "free_url": "https://www.nfpa.org/for-professionals/codes-and-standards/list-of-codes-and-standards",
+  "industries": [
+   "fire-safety",
+   "electrical",
+   "process-safety",
+   "buildings"
+  ],
+  "typical_price": "USD 100-300 print/PDF"
+ },
+ {
+  "id": "ul",
+  "name": "UL Standards & Engagement",
+  "region": "US/Global",
+  "url": "https://www.shopulstandards.com",
+  "access": "freemium",
+  "free_part": "Free view-only access to UL standards",
+  "free_url": "https://www.shopulstandards.com",
+  "industries": [
+   "electrical",
+   "product-safety",
+   "batteries",
+   "fire-safety"
+  ],
+  "typical_price": "USD 50-500"
+ },
+ {
+  "id": "ansi",
+  "name": "ANSI (Webstore / NSSN)",
+  "region": "US",
+  "url": "https://webstore.ansi.org",
+  "access": "paid",
+  "free_part": "IBR portal for incorporated standards",
+  "free_url": "https://ibr.ansi.org",
+  "industries": [
+   "all"
+  ],
+  "typical_price": "USD 50-500"
+ },
+ {
+  "id": "sae",
+  "name": "SAE International",
+  "region": "US/Global",
+  "url": "https://www.sae.org/standards",
+  "access": "paid",
+  "free_part": "Few; abstracts free",
+  "free_url": "https://www.sae.org/standards",
+  "industries": [
+   "automotive",
+   "aerospace"
+  ],
+  "typical_price": "USD 50-200"
+ },
+ {
+  "id": "aws",
+  "name": "AWS – American Welding Society",
+  "region": "US",
+  "url": "https://www.aws.org/standards",
+  "access": "freemium",
+  "free_part": "Free read-only on some via IBR",
+  "free_url": "https://pubs.aws.org",
+  "industries": [
+   "welding",
+   "construction",
+   "fabrication"
+  ],
+  "typical_price": "USD 100-400"
+ },
+ {
+  "id": "ampp",
+  "name": "AMPP (NACE/SSPC)",
+  "region": "US/Global",
+  "url": "https://www.ampp.org/standards",
+  "access": "paid",
+  "free_part": "-",
+  "free_url": "https://www.ampp.org/standards",
+  "industries": [
+   "corrosion",
+   "oil-gas",
+   "coatings"
+  ],
+  "typical_price": "USD 80-250"
+ },
+ {
+  "id": "isa",
+  "name": "ISA (ISA-84, ISA-95, ISA/IEC 62443)",
+  "region": "US/Global",
+  "url": "https://www.isa.org/standards-and-publications",
+  "access": "paid",
+  "free_part": "Some ISA99 drafts / summaries",
+  "free_url": "https://www.isa.org",
+  "industries": [
+   "instrumentation",
+   "automation",
+   "process-safety",
+   "ot-security"
+  ],
+  "typical_price": "USD 100-400"
+ },
+ {
+  "id": "aci",
+  "name": "ACI – American Concrete Institute",
+  "region": "US",
+  "url": "https://www.concrete.org",
+  "access": "paid",
+  "free_part": "-",
+  "free_url": "https://www.concrete.org",
+  "industries": [
+   "civil",
+   "construction"
+  ],
+  "typical_price": "USD 100-300"
+ },
+ {
+  "id": "aisc",
+  "name": "AISC",
+  "region": "US",
+  "url": "https://www.aisc.org/specifications",
+  "access": "free",
+  "free_part": "AISC 360 / 341 specifications free download",
+  "free_url": "https://www.aisc.org/publications/steel-standards",
+  "industries": [
+   "civil",
+   "steel-structures"
+  ],
+  "typical_price": "free"
+ },
+ {
+  "id": "asce",
+  "name": "ASCE",
+  "region": "US",
+  "url": "https://www.asce.org/publications-and-news/standards",
+  "access": "paid",
+  "free_part": "-",
+  "free_url": "https://www.asce.org",
+  "industries": [
+   "civil",
+   "structural"
+  ],
+  "typical_price": "USD 60-200"
+ },
+ {
+  "id": "aashto",
+  "name": "AASHTO",
+  "region": "US",
+  "url": "https://store.transportation.org",
+  "access": "paid",
+  "free_part": "-",
+  "free_url": "https://store.transportation.org",
+  "industries": [
+   "highways",
+   "bridges"
+  ],
+  "typical_price": "USD 100-500"
+ },
+ {
+  "id": "osha",
+  "name": "OSHA / eCFR (US federal regulations)",
+  "region": "US",
+  "url": "https://www.ecfr.gov",
+  "access": "free",
+  "free_part": "Full CFR text and API",
+  "free_url": "https://www.ecfr.gov/api/versioner/v1/titles.json",
+  "industries": [
+   "safety",
+   "environment",
+   "transport",
+   "nuclear",
+   "food-drug",
+   "mining"
+  ],
+  "typical_price": "free",
+  "collector": "ecfr"
+ },
+ {
+  "id": "nist",
+  "name": "NIST publications (FIPS, SP 800, handbooks)",
+  "region": "US",
+  "url": "https://csrc.nist.gov/publications",
+  "access": "free",
+  "free_part": "All",
+  "free_url": "https://csrc.nist.gov/publications",
+  "industries": [
+   "it-security",
+   "metrology",
+   "manufacturing"
+  ],
+  "typical_price": "free"
+ },
+ {
+  "id": "nasa",
+  "name": "NASA Technical Standards System",
+  "region": "US",
+  "url": "https://standards.nasa.gov",
+  "access": "free",
+  "free_part": "NASA-STD / NASA-HDBK free",
+  "free_url": "https://standards.nasa.gov",
+  "industries": [
+   "aerospace",
+   "space"
+  ],
+  "typical_price": "free",
+  "collector": "nasa"
+ },
+ {
+  "id": "assist",
+  "name": "ASSIST Quick Search – US DoD (MIL-STD, MIL-SPEC)",
+  "region": "US",
+  "url": "https://quicksearch.dla.mil",
+  "access": "free",
+  "free_part": "Most MIL standards free",
+  "free_url": "https://quicksearch.dla.mil",
+  "industries": [
+   "defense",
+   "aerospace",
+   "electronics"
+  ],
+  "typical_price": "free",
+  "notes": "quicksearch.dla.mil rejects automated clients (WAF); no collector. Search manually in a browser; most MIL-STD/MIL-SPEC PDFs are free."
+ },
+ {
+  "id": "lawresorg",
+  "name": "Public.Resource.Org (US IBR standards, Indian BIS standards)",
+  "region": "US/India",
+  "url": "https://law.resource.org",
+  "access": "free",
+  "free_part": "Incorporated-by-reference US standards; ~19,000 Indian Standards (BIS) on archive.org",
+  "free_url": "https://law.resource.org/pub/in/bis/",
+  "industries": [
+   "all",
+   "construction",
+   "electrical",
+   "food",
+   "textiles"
+  ],
+  "typical_price": "free",
+  "collector": "lawresorg_bis"
+ },
+ {
+  "id": "bis",
+  "name": "BIS – Bureau of Indian Standards",
+  "region": "India",
+  "url": "https://www.services.bis.gov.in",
+  "access": "freemium",
+  "free_part": "View-only on standards.bis.gov.in; hardcopy/PDF sale",
+  "free_url": "https://standards.bis.gov.in",
+  "industries": [
+   "all"
+  ],
+  "typical_price": "INR 100-5000"
+ },
+ {
+  "id": "bsi",
+  "name": "BSI – British Standards Institution",
+  "region": "UK",
+  "url": "https://knowledge.bsigroup.com",
+  "access": "paid",
+  "free_part": "Some free (PAS, few BS)",
+  "free_url": "https://www.bsigroup.com",
+  "industries": [
+   "all",
+   "construction",
+   "quality"
+  ],
+  "typical_price": "GBP 50-400"
+ },
+ {
+  "id": "din",
+  "name": "DIN / Beuth",
+  "region": "Germany",
+  "url": "https://www.beuth.de",
+  "access": "paid",
+  "free_part": "Some previews",
+  "free_url": "https://www.din.de",
+  "industries": [
+   "all"
+  ],
+  "typical_price": "EUR 50-500"
+ },
+ {
+  "id": "cen",
+  "name": "CEN-CENELEC (EN standards, via national bodies)",
+  "region": "Europe",
+  "url": "https://www.cencenelec.eu",
+  "access": "paid",
+  "free_part": "Harmonised standards list (OJEU) free; EN text via NSBs",
+  "free_url": "https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards_en",
+  "industries": [
+   "all",
+   "machinery",
+   "construction",
+   "medical"
+  ],
+  "typical_price": "EUR 50-400"
+ },
+ {
+  "id": "afnor",
+  "name": "AFNOR",
+  "region": "France",
+  "url": "https://normalisation.afnor.org",
+  "access": "paid",
+  "free_part": "-",
+  "free_url": "https://www.boutique.afnor.org",
+  "industries": [
+   "all"
+  ],
+  "typical_price": "EUR 50-300"
+ },
+ {
+  "id": "jis",
+  "name": "JSA / JIS (Japan)",
+  "region": "Japan",
+  "url": "https://www.jisc.go.jp/eng",
+  "access": "freemium",
+  "free_part": "JISC database: free read-only JIS viewing",
+  "free_url": "https://www.jisc.go.jp/app/jis/general/GnrJISSearch.html",
+  "industries": [
+   "all"
+  ],
+  "typical_price": "JPY 5000-20000"
+ },
+ {
+  "id": "kssn",
+  "name": "KATS / KSSN (Korea)",
+  "region": "Korea",
+  "url": "https://standard.go.kr",
+  "access": "freemium",
+  "free_part": "Free viewing of KS standards",
+  "free_url": "https://standard.go.kr",
+  "industries": [
+   "all"
+  ],
+  "typical_price": "KRW 10000-100000"
+ },
+ {
+  "id": "sac",
+  "name": "SAC / GB (China)",
+  "region": "China",
+  "url": "https://openstd.samr.gov.cn",
+  "access": "freemium",
+  "free_part": "Free read-only access to GB national standards (Chinese)",
+  "free_url": "https://openstd.samr.gov.cn/bzgk/gb/",
+  "industries": [
+   "all"
+  ],
+  "typical_price": "CNY 20-500"
+ },
+ {
+  "id": "sa",
+  "name": "Standards Australia / SAI Global",
+  "region": "Australia",
+  "url": "https://www.standards.org.au",
+  "access": "paid",
+  "free_part": "-",
+  "free_url": "https://store.standards.org.au",
+  "industries": [
+   "all",
+   "electrical",
+   "construction"
+  ],
+  "typical_price": "AUD 100-500"
+ },
+ {
+  "id": "csa",
+  "name": "CSA Group",
+  "region": "Canada",
+  "url": "https://www.csagroup.org/store",
+  "access": "freemium",
+  "free_part": "Some free read-only (e.g. CSA Z462 info)",
+  "free_url": "https://www.csagroup.org",
+  "industries": [
+   "electrical",
+   "oil-gas",
+   "construction"
+  ],
+  "typical_price": "CAD 100-500"
+ },
+ {
+  "id": "ashrae",
+  "name": "ASHRAE",
+  "region": "US/Global",
+  "url": "https://www.ashrae.org/technical-resources/standards-and-guidelines",
+  "access": "freemium",
+  "free_part": "Free read-only preview of standards",
+  "free_url": "https://www.ashrae.org/technical-resources/standards-and-guidelines/read-only-versions-of-ashrae-standards",
+  "industries": [
+   "hvac",
+   "buildings",
+   "energy"
+  ],
+  "typical_price": "USD 60-200"
+ },
+ {
+  "id": "tema",
+  "name": "TEMA (heat exchangers)",
+  "region": "US",
+  "url": "https://www.tema.org",
+  "access": "paid",
+  "free_part": "-",
+  "free_url": "https://www.tema.org",
+  "industries": [
+   "heat-exchangers",
+   "process"
+  ],
+  "typical_price": "USD 200+"
+ },
+ {
+  "id": "dnv",
+  "name": "DNV Standards and class rules",
+  "region": "Norway/Global",
+  "url": "https://www.dnv.com/rules-standards",
+  "access": "free",
+  "free_part": "Rules and recommended practices free (registration)",
+  "free_url": "https://rules.dnv.com",
+  "industries": [
+   "offshore",
+   "maritime",
+   "oil-gas",
+   "wind"
+  ],
+  "typical_price": "free"
+ },
+ {
+  "id": "iogp",
+  "name": "IOGP / Norsok",
+  "region": "Global/Norway",
+  "url": "https://www.iogp.org/bookstore/",
+  "access": "freemium",
+  "free_part": "IOGP reports free; NORSOK via Standards Norway",
+  "free_url": "https://www.iogp.org/bookstore/",
+  "industries": [
+   "oil-gas",
+   "offshore"
+  ],
+  "typical_price": "free-paid"
+ },
+ {
+  "id": "aiche",
+  "name": "CCPS / AIChE guidelines",
+  "region": "US",
+  "url": "https://www.aiche.org/ccps",
+  "access": "paid",
+  "free_part": "-",
+  "free_url": "https://www.aiche.org/resources/publications/books",
+  "industries": [
+   "process-safety",
+   "chemicals"
+  ],
+  "typical_price": "USD 100-300"
+ },
+ {
+  "id": "fda",
+  "name": "FDA consensus standards & guidance",
+  "region": "US",
+  "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
+  "access": "free",
+  "free_part": "Recognized standards database (metadata); text via SDOs",
+  "free_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
+  "industries": [
+   "medical",
+   "pharma"
+  ],
+  "typical_price": "free (metadata)"
+ },
+ {
+  "id": "gs1",
+  "name": "GS1 Standards",
+  "region": "Global",
+  "url": "https://www.gs1.org/standards",
+  "access": "free",
+  "free_part": "All GS1 standards",
+  "free_url": "https://www.gs1.org/standards",
+  "industries": [
+   "retail",
+   "logistics",
+   "healthcare"
+  ],
+  "typical_price": "free"
+ },
+ {
+  "id": "oasis",
+  "name": "OASIS / OGC / OMG / Khronos",
+  "region": "Global",
+  "url": "https://www.oasis-open.org/standards",
+  "access": "free",
+  "free_part": "All",
+  "free_url": "https://www.ogc.org/standards",
+  "industries": [
+   "it",
+   "geospatial"
+  ],
+  "typical_price": "free"
+ }
+]

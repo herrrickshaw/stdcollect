@@ -1,0 +1,87 @@
+source,id,title,year,status,url,access,industries
+nasa-ntss,NASA-HDBK-1004 (A),NASA DIGITAL ENGINEERING ACQUISITION FRAMEWORK HANDBOOK,2026,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-1004,free,aerospace;space
+nasa-ntss,NASA-HDBK-1005 (Baseline),NASA SPACE MISSION ARCHITECTURE FRAMEWORK (SMAF) HANDBOOK FOR UNCREWED SPACE MISSIONS,2021,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-1005,free,aerospace;space
+nasa-ntss,NASA-HDBK-1009 (A),NASA SYSTEMS MODELING HANDBOOK FOR SYSTEMS ENGINEERING,2025,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-1009,free,aerospace;space
+nasa-ntss,NASA-HDBK-2203 (d),NASA Software Engineering Handbook,2020,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-2203,free,aerospace;space
+nasa-ntss,NASA-HDBK-4001A (A),Electrical Grounding Architecture for Unmanned Spacecraft,2025,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-4001A,free,aerospace;space
+nasa-ntss,NASA-HDBK-4002 (B),Mitigating In-Space Charging Effects-A Guideline,2022,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-4002,free,aerospace;space
+nasa-ntss,NASA-HDBK-4006 (A),Low Earth Orbit Spacecraft Charging Design Handbook,2018,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-4006,free,aerospace;space
+nasa-ntss,NASA-HDBK-4007 (A),Spacecraft High-Voltage Paschen and Corona Design Handbook,2026,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-4007,free,aerospace;space
+nasa-ntss,NASA-HDBK-4008 (Baseline w/CHANGE 2),Programmable Logic Devices (PLD) Handbook,2013,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-4008,free,aerospace;space
+nasa-ntss,NASA-HDBK-4011 (Baseline),VERY HIGH-SPEED INTEGRATED CIRCUIT (VHSIC) HARDWARE DESCRIPTION LANGUAGE (VHDL) STYLE HANDBOOK,2022,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-4011,free,aerospace;space
+nasa-ntss,NASA-HDBK-5010 (Baseline w/CHANGE 1),"Fracture Control Implementation Handbook for Payloads, Experiments, and Similar Hardware",2005,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-5010,free,aerospace;space
+nasa-ntss,NASA-HDBK-5010-VOLUME_1 (Revision A),FRACTURE CONTROL IMPLEMENTATION HANDBOOK FOR SPACEFLIGHT HARDWARE: VOLUME 1: GUIDANCE FOR IMPLEMENTATION,2023,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-5010-VOLUME_1,free,aerospace;space
+nasa-ntss,NASA-HDBK-5010-VOLUME_2 (REVISION A),FRACTURE CONTROL IMPLEMENTATION HANDBOOK FOR SPACEFLIGHT HARDWARE VOLUME 2: EXAMPLE APPLICATIONS AND ADDITIONAL GUIDELINES,2024,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-5010-VOLUME_2,free,aerospace;space
+nasa-ntss,NASA-HDBK-5026 (Baseline),"Guidance On Strength, Fatigue, and Fracture Control Requirements for Additively Manufactured Spaceflight Hardware",2024,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-5026,free,aerospace;space
+nasa-ntss,NASA-HDBK-6007 (B WITH CHANGE 1),Handbook for Recommended Material Removal Processes for Advanced Ceramic Test Specimens and Components,2018,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-6007,free,aerospace;space
+nasa-ntss,NASA-HDBK-6024 (Baseline w/CHANGE 2),Spacecraft Polymers Atomic Oxygen Durability Handbook,2014,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-6024,free,aerospace;space
+nasa-ntss,NASA-HDBK-7009 (B),NASA HANDBOOK FOR MODELS AND SIMULATIONS: AN IMPLEMENTATION GUIDE FOR NASA-STD-7009B,2026,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-7009,free,aerospace;space
+nasa-ntss,NASA-HDBK-7010 (Baseline),Direct Field Acoustic Testing (DFAT),2016,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-7010,free,aerospace;space
+nasa-ntss,NASA-HDBK-8709.22 (Baseline),"Safety & Mission Assurance Acronyms, Abbreviations, & Definitions",2018,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-870922,free,aerospace;space
+nasa-ntss,NASA-HDBK-8709.24 (Baseline),Nasa Safety Culture Handbook,2015,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-870924,free,aerospace;space
+nasa-ntss,NASA-HDBK-8709.25 (Baseline),Human Factors Handbook Procedural Guidance and Tools,2023,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-870925,free,aerospace;space
+nasa-ntss,NASA-HDBK-8715.26 (Baseline),Information and Best Practices Related to NASA Nuclear Flight Safety for Space Flights Involving Space Nuclear Systems,2023,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-871526,free,aerospace;space
+nasa-ntss,NASA-HDBK-8719.14 (Baseline),Handbook for Limiting Orbital Debris,2008,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-871914,free,aerospace;space
+nasa-ntss,NASA-HDBK-8739.18 (Baseline),"Procedural Handbook for NASA Program and Project Management of Problems, Nonconformances, and Anomalies",2008,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-873918,free,aerospace;space
+nasa-ntss,NASA-HDBK-8739.19-2 (Baseline),"Measuring and Test Equipment Specifications, NASA Measurement Quality Assurance Handbook - ANNEX 2",2010,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-873919-2,free,aerospace;space
+nasa-ntss,NASA-HDBK-8739.19-3 (Baseline),"Measurement Uncertainty Analysis Principles and Methods, NASA Measurement Quality Assurance Handbook - ANNEX 3",2010,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-873919-3,free,aerospace;space
+nasa-ntss,NASA-HDBK-8739.19-4 (Baseline),"Estimation and Evaluation of Measurement Decision Risk, NASA Measurement Quality Assurance Handbook - ANNEX 4",2010,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-873919-4,free,aerospace;space
+nasa-ntss,NASA-HDBK-8739.21 (Baseline),Workmanship Manual for Electrostatic Discharge Control (Excluding Electrically Initiated Explosive Devices),2010,active,https://standards.nasa.gov/standard/NASA/NASA-HDBK-873921,free,aerospace;space
+nasa-ntss,NASA-SPEC-5022 (Baseline w/CHANGE 2),NASA Manufacturing and Test Requirements for Normally Closed Pyrovalves for Hazardous Flight Systems Applications,2015,active,https://standards.nasa.gov/standard/NASA/NASA-SPEC-5022,free,aerospace;space
+nasa-ntss,NASA-STD-10001 (Baseline),NASA BUILDING INFORMATION MODELING SCOPE OF SERVICES AND REQUIREMENTS FOR ARCHITECTS AND ENGINEERS,2020,active,https://standards.nasa.gov/standard/NASA/NASA-STD-10001,free,aerospace;space
+nasa-ntss,NASA-STD-10002 (Baseline),NASA FACILITIES DESIGN STANDARD,2021,active,https://standards.nasa.gov/standard/NASA/NASA-STD-10002,free,aerospace;space
+nasa-ntss,NASA-STD-1006 (A),SPACE SYSTEM PROTECTION STANDARD,2022,active,https://standards.nasa.gov/standard/NASA/NASA-STD-1006,free,aerospace;space
+nasa-ntss,NASA-STD-1008 (Baseline),CLASSIFICATIONS AND REQUIREMENTS FOR TESTING SYSTEMS AND HARDWARE TO BE EXPOSED TO DUST IN PLANETARY ENVIRONMENTS,2021,active,https://standards.nasa.gov/standard/NASA/NASA-STD-1008,free,aerospace;space
+nasa-ntss,NASA-STD-2806 (Basic),Conference Room Collaboration Minimum Hardware Configurations,2013,active,https://standards.nasa.gov/standard/NASA/NASA-STD-2806,free,aerospace;space
+nasa-ntss,NASA-STD-2818 (Ver. 4.0),Digital Television for NASA,2015,active,https://standards.nasa.gov/standard/NASA/NASA-STD-2818,free,aerospace;space
+nasa-ntss,NASA-STD-2821 (V2),Audio and Video Standards for Internet Resources,2020,active,https://standards.nasa.gov/standard/NASA/NASA-STD-2821,free,aerospace;space
+nasa-ntss,NASA-STD-2822 (2.0),Still and Motion Imagery Metadata Standard,2024,active,https://standards.nasa.gov/standard/NASA/NASA-STD-2822,free,aerospace;space
+nasa-ntss,NASA-STD-3001_VOL_1 (C),"NASA Spaceflight Human-System Standard Volume 1, Crew Health",2023,active,https://standards.nasa.gov/standard/NASA/NASA-STD-3001_VOL_1,free,aerospace;space
+nasa-ntss,NASA-STD-3001_VOL_2 (F),"NASA Spaceflight Human-System Standard Volume 2: Human Factors, Habitability, and Environmental Health",2026,active,https://standards.nasa.gov/standard/NASA/NASA-STD-3001_VOL_2,free,aerospace;space
+nasa-ntss,NASA-STD-4003 (A w/CHANGE 1),"Electrical Bonding for NASA Launch Vehicles, Spacecraft, Payloads, and Flight Equipment",2013,active,https://standards.nasa.gov/standard/NASA/NASA-STD-4003,free,aerospace;space
+nasa-ntss,NASA-STD-4005 (A w/CHANGE 1),Low Earth Orbit Spacecraft Charging Design Standard,2016,active,https://standards.nasa.gov/standard/NASA/NASA-STD-4005,free,aerospace;space
+nasa-ntss,NASA-STD-4010 (B),NASA Standard for Lightning Launch Commit Criteria for Space Flight,2026,active,https://standards.nasa.gov/standard/NASA/NASA-STD-4010,free,aerospace;space
+nasa-ntss,NASA-STD-5001 (B w/CHANGE 3),Structural Design and Test Factors of Safety for Spaceflight Hardware,2014,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5001,free,aerospace;space
+nasa-ntss,NASA-STD-5002 (B),Load Analyses of Spacecraft and Payloads,2026,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5002,free,aerospace;space
+nasa-ntss,NASA-STD-5005 (D w/CHANGE 2),Standard for The Design and Fabrication of Ground Support Equipment,2013,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5005,free,aerospace;space
+nasa-ntss,NASA-STD-5006 (A w/CHANGE 2),General Welding Requirements for Aerospace Materials,2015,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5006,free,aerospace;space
+nasa-ntss,NASA-STD-5008 (B w/CHANGE 2),"Protective Coating of Carbon Steel, Stainless Steel, and Aluminum on Launch Structures, Facilities, and Ground Support Equipment",2011,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5008,free,aerospace;space
+nasa-ntss,NASA-STD-5009 (C),Nondestructive Evaluation Requirements for Fracture Critical Metallic Components,2023,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5009,free,aerospace;space
+nasa-ntss,NASA-STD-5012 (C),Strength and Life Assessment Requirements for Liquid-Fueled Space Propulsion System Engines,2016,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5012,free,aerospace;space
+nasa-ntss,NASA-STD-5017 (B),Design and Development Requirements for Mechanisms,2022,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5017,free,aerospace;space
+nasa-ntss,NASA-STD-5018 (Baseline w/CHANGE 1),"Strength Design and Verification Criteria for Glass, Ceramics, and Windows in Human Space Flight Applications",2011,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5018,free,aerospace;space
+nasa-ntss,NASA-STD-5019 (A w/CHANGE 4),Fracture Control Requirements for Spaceflight Hardware,2016,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5019,free,aerospace;space
+nasa-ntss,NASA-STD-5020 (B),Requirements for Threaded Fastening Systems in Spaceflight Hardware,2021,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5020,free,aerospace;space
+nasa-ntss,NASA-STD-5023 (Baseline),Design and Verification Requirements for Spaceflight Valves,2026,active,https://standards.nasa.gov/standard/NASA/NASA-STD-5023,free,aerospace;space
+nasa-ntss,NASA-STD-6001 (B w/CHANGE 3),"Flammability, Offgassing, and Compatibility Requirements and Test Procedures",2011,active,https://standards.nasa.gov/standard/NASA/NASA-STD-6001,free,aerospace;space
+nasa-ntss,NASA-STD-6012 (A),Corrosion Protection for Space Flight Hardware,2022,active,https://standards.nasa.gov/standard/NASA/NASA-STD-6012,free,aerospace;space
+nasa-ntss,NASA-STD-6016 (C w/Change 1),Standard Materials and Processes Requirements for Spacecraft,2021,active,https://standards.nasa.gov/standard/NASA/NASA-STD-6016,free,aerospace;space
+nasa-ntss,NASA-STD-6030 (Baseline),ADDITIVE MANUFACTURING REQUIREMENTS FOR SPACEFLIGHT SYSTEMS,2021,active,https://standards.nasa.gov/standard/NASA/NASA-STD-6030,free,aerospace;space
+nasa-ntss,NASA-STD-6033 (Baseline),ADDITIVE MANUFACTURING REQUIREMENTS FOR EQUIPMENT AND FACILITY CONTROL,2021,active,https://standards.nasa.gov/standard/NASA/NASA-STD-6033,free,aerospace;space
+nasa-ntss,NASA-STD-7001 (c),Payload Vibroacoustic Test Criteria,2026,active,https://standards.nasa.gov/standard/NASA/NASA-STD-7001,free,aerospace;space
+nasa-ntss,NASA-STD-7002 (B w/Change 1),Payload Test Requirements,2018,active,https://standards.nasa.gov/standard/NASA/NASA-STD-7002,free,aerospace;space
+nasa-ntss,NASA-STD-7009 (B),Standard for Models and Simulations,2024,active,https://standards.nasa.gov/standard/NASA/NASA-STD-7009,free,aerospace;space
+nasa-ntss,NASA-STD-7012 (A),Leak Test Requirements,2023,active,https://standards.nasa.gov/standard/NASA/NASA-STD-7012,free,aerospace;space
+nasa-ntss,NASA-STD-7919.1 (Baseline with Change 1),NASA Commercial Aviation Services (CAS) Standard,2024,active,https://standards.nasa.gov/standard/NASA/NASA-STD-79191,free,aerospace;space
+nasa-ntss,NASA-STD-8719.11 (B),Standard for Fire Protection and Life Safety,2020,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871911,free,aerospace;space
+nasa-ntss,NASA-STD-8719.12 (B),"Safety Standard for Explosives, Propellants, and Pyrotechnics",2026,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871912,free,aerospace;space
+nasa-ntss,NASA-STD-8719.14 (C),Process for Limiting Orbital Debris,2021,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871914,free,aerospace;space
+nasa-ntss,NASA-STD-8719.17 (D),NASA Standard for Ground-Based Pressure Vessels and Pressurized Systems (PVS),2023,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871917,free,aerospace;space
+nasa-ntss,NASA-STD-8719.24 (A),NASA Payload Safety Requirements,2022,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871924,free,aerospace;space
+nasa-ntss,NASA-STD-8719.24-ANNEX (B),ANNEX TO NASA-STD-8719.24 NASA PAYLOAD SAFETY REQUIREMENTS:REQUIREMENTS TABLE,2022,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871924-ANNEX,free,aerospace;space
+nasa-ntss,NASA-STD-8719.25 (Baseline),Range Flight Safety Requirements,2018,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871925,free,aerospace;space
+nasa-ntss,NASA-STD-8719.26 (Baseline),NASA Requirements for Ground Based Non-Code Metallic Pressure Vessels,2021,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871926,free,aerospace;space
+nasa-ntss,NASA-STD-8719.27 (Baseline),Implementing Planetary Protection Requirements for Space Flight,2022,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871927,free,aerospace;space
+nasa-ntss,NASA-STD-8719.28 (Baseline),Wind Tunnel Model Systems Criteria,2022,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871928,free,aerospace;space
+nasa-ntss,NASA-STD-8719.29 (Baseline),NASA Technical Requirements for Human-Rating,2023,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871929,free,aerospace;space
+nasa-ntss,NASA-STD-8719.30 (Baseline),Standard for Meeting NASA Nuclear Flight Safety Requirements,2026,active,https://standards.nasa.gov/standard/NASA/NASA-STD-871930,free,aerospace;space
+nasa-ntss,NASA-STD-8719.9 (C),Lifting Standard,2024,active,https://standards.nasa.gov/standard/NASA/NASA-STD-87199,free,aerospace;space
+nasa-ntss,NASA-STD-8729.1 (A),Nasa Reliability and Maintainability (R&M) Standard for Spaceflight and Support Systems,2017,active,https://standards.nasa.gov/standard/NASA/NASA-STD-87291,free,aerospace;space
+nasa-ntss,NASA-STD-8739.1 (B),Workmanship Standard for Polymeric Application on Electronic Assemblies,2016,active,https://standards.nasa.gov/standard/NASA/NASA-STD-87391,free,aerospace;space
+nasa-ntss,NASA-STD-8739.10 (Baseline),"Electrical, Electronic, and Electromechanical (EEE) Parts Assurance Standard",2017,active,https://standards.nasa.gov/standard/NASA/NASA-STD-873910,free,aerospace;space
+nasa-ntss,NASA-STD-8739.12 (Revision A),Metrology & Calibration,2024,active,https://standards.nasa.gov/standard/NASA/NASA-STD-873912,free,aerospace;space
+nasa-ntss,NASA-STD-8739.14 (Baseline),"NASA Fastener Procurement, Receiving Inspection, and Storage Practices for NASA Mission Hardware",2020,active,https://standards.nasa.gov/standard/NASA/NASA-STD-873914,free,aerospace;space
+nasa-ntss,NASA-STD-8739.4 (A),"Workmanship Standard for Crimping, Interconnecting Cables, Harnesses, and Wiring",2016,active,https://standards.nasa.gov/standard/NASA/NASA-STD-87394,free,aerospace;space
+nasa-ntss,NASA-STD-8739.5 (A),"Workmanship Standard for Fiber Optic Terminations, Cable Assemblies, and Installation",2015,active,https://standards.nasa.gov/standard/NASA/NASA-STD-87395,free,aerospace;space
+nasa-ntss,NASA-STD-8739.6 (B),Implementation Requirements for NASA Workmanship Standards,2021,active,https://standards.nasa.gov/standard/NASA/NASA-STD-87396,free,aerospace;space
+nasa-ntss,NASA-STD-8739.8 (B),Software Assurance and Software Safety Standard,2022,active,https://standards.nasa.gov/standard/NASA/NASA-STD-87398,free,aerospace;space
