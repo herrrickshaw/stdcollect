@@ -1,0 +1,12 @@
+import { parseCsv, fail } from "./lib.mjs";
+const bis = parseCsv("catalog/lawresorg_bis.csv").rows.filter(r => /^IS\/(ISO|IEC)/.test(r.id));
+const cl = parseCsv("analysis/clauses.csv").rows;
+const covered = new Set(cl.map(r => r.url));
+const missing = bis.filter(r => !covered.has(r.url));
+if (missing.length) fail(missing.length + " standards not processed, e.g. " + missing[0].id);
+const real = cl.filter(r => r.clause);
+const stds = new Set(real.map(r => r.url));
+if (real.length < 5000 || stds.size < 300) fail(`only ${real.length} clauses from ${stds.size} standards`);
+const sp = parseCsv("analysis/specs.csv").rows;
+if (sp.length < 1000) fail("specs " + sp.length);
+console.log(`G10 verified (${real.length} clauses, ${stds.size} standards with clauses, ${sp.length} specs)`);

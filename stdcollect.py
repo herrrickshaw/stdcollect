@@ -11,13 +11,13 @@ list which standards bodies are free vs paid, by industry.
 Only metadata is collected by default; `download` fetches only documents from
 sources the registry marks free. Paid standards are listed, never scraped.
 """
-import urllib.error, argparse, csv, json, re, sys, time, urllib.request, urllib.parse
+import os, urllib.error, argparse, csv, json, re, sys, time, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
 HERE = Path(__file__).parent
 UA = "stdcollect/0.1 (personal research tool; polite, 1 req/s)"
-FIELDS = ["source", "id", "title", "year", "status", "url", "access", "industries"]
+FIELDS = ["source", "id", "title", "year", "status", "url", "access", "industries", "adopts_intl"]
 
 
 def get(url, binary=False):
@@ -199,7 +199,7 @@ def collect_china(limit):
     access is 'view-only'. ~72k records; 50/page, 1 req/s (~25 min for all)."""
     rows, page = [], 1
     while True:
-        h = get(f"https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&page={page}&pageSize=50")
+        h = get(f"https://openstd.samr.gov.cn/bzgk/std/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&page={page}&pageSize=50")
         found = 0
         for tr in re.findall(r"<tr>(.*?)</tr>", h, re.S):
             m = re.search(r"showInfo\('([0-9A-F]+)'\)", tr)
@@ -207,7 +207,7 @@ def collect_china(limit):
             if not m or len(cells) < 9: continue
             found += 1
             rows.append(dict(source="china-gb", id=cells[1], title=cells[4], year=cells[7][:4],
-                             status=cells[6] or cells[5], access="view-only",
+                             status=cells[6] or cells[5], access="view-only", adopts_intl="yes" if cells[3] == "采" else "no",
                              url=f"https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno={m.group(1)}",
                              industries="china;national-standard"))
             if limit and len(rows) >= limit: return rows
@@ -287,36 +287,42 @@ def collect_eu_harmonised(limit):
     idx = get(root + "/single-market/european-standards/harmonised-standards_en")
     pages = sorted(set(re.findall(r'href="(/single-market/goods/european-standards/harmonised-standards/[^"]+_en)"', idx)))
     pages = [p for p in pages if not re.search(r"formal-objections|-old_en|new-legislative", p)]
+    only = os.environ.get("STD_EU_ONLY")
+    if only: pages = [p for p in pages if p.rsplit("/", 1)[1][:-3] in only.split(",")]
+    pace = float(os.environ.get("STD_EU_PACE", "3"))
     rows, seen = [], set()
     for p in pages:
-        time.sleep(3)
+        time.sleep(pace)
         try:
             ph = get(root + p)
         except Exception as e:
             print(f"  skip {p}: {e}", file=sys.stderr); continue
-        links = [html.unescape(u) for u in re.findall(r'href="([^"]+)"', ph)
-                 if "SummaryList" in u and ".xlsx" in u.lower()]
-        links = [u if u.startswith("http") else root + u for u in links]
-        if not links: continue
-        time.sleep(1)
-        try:
-            wb = openpyxl.load_workbook(io.BytesIO(get(links[-1], binary=True)), read_only=True)
-        except Exception as e:
-            print(f"  skip xlsx {p}: {e}", file=sys.stderr); continue
+        links = [html.unescape(u) for u in re.findall(r'href="([^"]+)"', ph) if ".xlsx" in u.lower()]
+        links = [u if u.startswith("http") else root + u for u in dict.fromkeys(links)]
+        if not links:
+            print(f"  no spreadsheet on {p.rsplit('/', 1)[1]} (standards only inside OJ decisions)", file=sys.stderr); continue
         slug = p.rsplit("/", 1)[1][:-3]
-        for ws in wb:
-            for r in ws.iter_rows(values_only=True):
-                if not r or len(r) < 8 or not r[2] or r[0] in (None, "Legislation") or "Generated" in str(r[0]): continue
-                lines = [x.strip() for x in str(r[2]).split("\n") if x.strip()]
-                ident = lines[0]; title = lines[1] if len(lines) > 1 else ""
-                key = (r[0], ident)
-                if key in seen: continue
-                seen.add(key)
-                ym = re.search(r":(\d{4})", ident)
-                rows.append(dict(source="eu-harmonised", id=ident, title=title, year=ym.group(1) if ym else "",
-                                 status="withdrawn" if r[7] else "cited in OJEU", access="paid",
-                                 url=links[-1], industries=f"eu;{slug};{str(r[1]).lower()};{str(r[0])[:60]}"))
-                if limit and len(rows) >= limit: return rows
+        wbs = []
+        for lk in links:
+            time.sleep(pace)
+            try:
+                wbs.append((lk, openpyxl.load_workbook(io.BytesIO(get(lk, binary=True)), read_only=True)))
+            except Exception as e:
+                print(f"  skip xlsx {lk[-50:]}: {e}", file=sys.stderr)
+        for lk, wb in wbs:
+          for ws in wb:
+              for r in ws.iter_rows(values_only=True):
+                  if not r or len(r) < 8 or not r[2] or r[0] in (None, "Legislation") or "Generated" in str(r[0]): continue
+                  lines = [x.strip() for x in str(r[2]).split("\n") if x.strip()]
+                  ident = lines[0]; title = lines[1] if len(lines) > 1 else ""
+                  key = (r[0], ident)
+                  if key in seen: continue
+                  seen.add(key)
+                  ym = re.search(r":(\d{4})", ident)
+                  rows.append(dict(source="eu-harmonised", id=ident, title=title, year=ym.group(1) if ym else "",
+                                   status="withdrawn" if r[7] else "cited in OJEU", access="paid",
+                                   url=lk, industries=f"eu;{slug};{str(r[1]).lower()};{str(r[0])[:60]}"))
+                  if limit and len(rows) >= limit: return rows
     return rows
 
 
@@ -346,7 +352,50 @@ def collect_lawresorg_world(limit):
     return rows
 
 
-COLLECTORS = {"lawresorg_world": collect_lawresorg_world, "eu_harmonised": collect_eu_harmonised, "china": collect_china, "korea": collect_korea, "saudi": collect_saudi, "japan": collect_japan, "itu": collect_itu, "nasa": collect_nasa, "etsi": collect_etsi, "rfc": collect_rfc, "ecfr": collect_ecfr, "lawresorg_bis": collect_lawresorg_bis}
+IBR_SECTIONS = [(29, 1910, "1910.6", "safety;process-safety;general-industry"), (29, 1926, "1926.6", "construction;safety"),
+                (49, 171, "171.7", "transport;pipelines;hazmat"), (40, 60, "60.17", "environment;emissions"),
+                (40, 63, "63.14", "environment;chemicals;emissions"), (30, 18, "18.6", "mining;electrical"),
+                (46, 8, "8.110", "maritime"), (33, 127, "127.003", "maritime;lng"),
+                (10, 50, "50.55a", "nuclear;pressure-vessels"), (49, 192, "192.7", "pipelines;gas"), (49, 195, "195.3", "pipelines;liquids")]
+IBR_BODIES = ("ANSI|ASME|ASTM|API|NFPA|AWS|ISO|IEC|UL|IEEE|SAE|CGA|AISC|ASHRAE|AGA|ACI|AAMA|ISA|NEMA|TEMA|AWWA|ASSE|CSA|NACE|SSPC|"
+              "AASHTO|MSS|FCI|AISI|CEN|EN|DIN|IAPMO|ICC|NBBI|NB|AMCA|SMACNA|ABS|DNV|ASCE|AAR|CFR|TIA|ETSI|ITU|NIST|FIPS|ISEA|SFPA|HI|CTI")
+
+
+def collect_ecfr_ibr(limit):
+    """Standards named in US 'incorporation by reference' sections of selected CFR parts
+    (eCFR API). Links private standards (ASTM/ASME/API/NFPA...) to US regulation and sectors."""
+    import html
+    dates = {t["number"]: t["up_to_date_as_of"] for t in json.loads(get("https://www.ecfr.gov/api/versioner/v1/titles.json"))["titles"]}
+    rx = re.compile(rf"\b({IBR_BODIES})\s+((?:[A-Z]{{1,3}}[ -]?)?\d[\w./-]*(?:\s?[-/]\s?\d[\w./-]*)?)\b([^.;]{{0,110}})")
+    rows, seen = [], set()
+    for title, part, sec, ind in IBR_SECTIONS:
+        time.sleep(1)
+        url = f"https://www.ecfr.gov/api/versioner/v1/full/{dates[title]}/title-{title}.xml?part={part}&section={sec}"
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Encoding": "gzip"})
+            import gzip
+            raw = urllib.request.urlopen(req, timeout=120).read()
+            xml = (gzip.decompress(raw) if raw[:2] == b"\x1f\x8b" else raw).decode("utf-8", "replace")
+        except Exception as e:
+            print(f"  skip {title} CFR {sec}: {e}", file=sys.stderr); continue
+        n0 = len(rows)
+        for p in re.findall(r"<P[^>]*>(.*?)</P>", xml, re.S):
+            text = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", p))).strip()
+            for body, num, rest in rx.findall(text):
+                key = (title, sec, body, num.strip())
+                if key in seen: continue
+                seen.add(key)
+                ttl = re.split(r",? IBR|, incorporated", rest)[0].strip(" ,:")
+                rows.append(dict(source="ecfr-ibr", id=f"{body} {num.strip()}", title=ttl[:110], year="",
+                                 status="incorporated by reference", access="paid" if body not in ("NIST", "CFR", "FIPS") else "free",
+                                 url=f"https://www.ecfr.gov/current/title-{title}/section-{sec}",
+                                 industries=f"{ind};{body.lower()};cfr-{title}-{sec}"))
+                if limit and len(rows) >= limit: return rows
+        print(f"  {title} CFR {sec}: {len(rows) - n0}", file=sys.stderr)
+    return rows
+
+
+COLLECTORS = {"ecfr_ibr": collect_ecfr_ibr, "lawresorg_world": collect_lawresorg_world, "eu_harmonised": collect_eu_harmonised, "china": collect_china, "korea": collect_korea, "saudi": collect_saudi, "japan": collect_japan, "itu": collect_itu, "nasa": collect_nasa, "etsi": collect_etsi, "rfc": collect_rfc, "ecfr": collect_ecfr, "lawresorg_bis": collect_lawresorg_bis}
 
 
 # ---------------- commands ----------------
@@ -415,7 +464,7 @@ def cmd_collect(a):
             print(f"  FAILED {name}: {e}", file=sys.stderr); continue
         p = out / f"{name}.csv"
         with p.open("w", newline="") as f:
-            w = csv.DictWriter(f, FIELDS); w.writeheader(); w.writerows(rows)
+            w = csv.DictWriter(f, FIELDS, restval=""); w.writeheader(); w.writerows(rows)
         print(f"  {len(rows)} rows -> {p}", file=sys.stderr)
 
 

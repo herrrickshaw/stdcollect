@@ -7,7 +7,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 403,
+  "checked": "2026-11-13"
  },
  {
   "code": "CA",
@@ -17,7 +19,9 @@
   "access": "freemium",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 403,
+  "checked": "2026-11-13"
  },
  {
   "code": "MX",
@@ -27,7 +31,9 @@
   "access": "freemium",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "BR",
@@ -37,7 +43,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "AR",
@@ -47,7 +55,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "CL",
@@ -57,7 +67,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "CO",
@@ -67,7 +79,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "PE",
@@ -77,7 +91,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "GB",
@@ -87,7 +103,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "DE",
@@ -97,7 +115,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "FR",
@@ -107,7 +127,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "IT",
@@ -117,7 +139,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "ES",
@@ -127,7 +151,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "NL",
@@ -137,7 +163,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "BE",
@@ -147,7 +175,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "CH",
@@ -157,7 +187,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "AT",
@@ -167,7 +199,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "SE",
@@ -177,7 +211,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "NO",
@@ -187,7 +223,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "DK",
@@ -197,7 +235,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "FI",
@@ -207,7 +247,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "IE",
@@ -217,7 +259,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "PT",
@@ -227,7 +271,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "PL",
@@ -237,7 +283,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "CZ",
@@ -247,7 +295,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "HU",
@@ -257,7 +307,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "GR",
@@ -267,7 +319,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "RO",
@@ -277,7 +331,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 403,
+  "checked": "2026-11-13"
  },
  {
   "code": "RU",
@@ -287,7 +343,9 @@
   "access": "paid",
   "region": "Europe/Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "TR",
@@ -297,7 +355,9 @@
   "access": "paid",
   "region": "Europe/Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "IN",
@@ -307,7 +367,9 @@
   "access": "freemium",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "CN",
@@ -317,7 +379,9 @@
   "access": "freemium",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "JP",
@@ -327,7 +391,9 @@
   "access": "freemium",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world).",
+  "http_status": 502,
+  "checked": "2026-11-13"
  },
  {
   "code": "KR",
@@ -337,7 +403,9 @@
   "access": "freemium",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "TW",
@@ -347,7 +415,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "SG",
@@ -357,7 +427,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 403,
+  "checked": "2026-11-13"
  },
  {
   "code": "MY",
@@ -367,7 +439,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "TH",
@@ -377,7 +451,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world).",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "ID",
@@ -387,7 +463,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "VN",
@@ -397,7 +475,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "PH",
@@ -407,7 +487,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world).",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "PK",
@@ -417,7 +499,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "BD",
@@ -427,7 +511,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "LK",
@@ -437,7 +523,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "SA",
@@ -447,7 +535,9 @@
   "access": "freemium",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "AE",
@@ -457,7 +547,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "IL",
@@ -467,7 +559,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "IR",
@@ -477,7 +571,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "EG",
@@ -487,7 +583,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "ZA",
@@ -497,7 +595,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world).",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "NG",
@@ -507,7 +607,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "KE",
@@ -517,7 +619,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world).",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "AU",
@@ -527,7 +631,9 @@
   "access": "paid",
   "region": "Oceania",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world).",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "NZ",
@@ -537,7 +643,9 @@
   "access": "paid",
   "region": "Oceania",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world)."
+  "notes": "access is best-knowledge; confirm on the body's site Some standards incorporated in national law are free via Public.Resource.Org (collector: lawresorg_world).",
+  "http_status": 403,
+  "checked": "2026-11-13"
  },
  {
   "code": "BG",
@@ -547,7 +655,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "HR",
@@ -557,7 +667,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "SI",
@@ -567,7 +679,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "SK",
@@ -577,7 +691,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "LT",
@@ -587,7 +703,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 403,
+  "checked": "2026-11-13"
  },
  {
   "code": "LV",
@@ -597,7 +715,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "EE",
@@ -607,7 +727,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "LU",
@@ -617,7 +739,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "CY",
@@ -627,7 +751,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "IS",
@@ -637,7 +763,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "RS",
@@ -647,7 +775,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "UA",
@@ -657,7 +787,9 @@
   "access": "paid",
   "region": "Europe",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "EC",
@@ -667,7 +799,9 @@
   "access": "free",
   "region": "Americas",
   "verified": false,
-  "notes": "INEN standards published free via Public.Resource.Org"
+  "notes": "INEN standards published free via Public.Resource.Org",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "UY",
@@ -677,7 +811,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "PY",
@@ -687,7 +823,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "BO",
@@ -697,7 +835,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "VE",
@@ -707,7 +847,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "CR",
@@ -717,7 +859,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "PA",
@@ -727,7 +871,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "GT",
@@ -737,7 +883,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "DO",
@@ -747,7 +895,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "JM",
@@ -757,7 +907,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "TT",
@@ -767,7 +919,9 @@
   "access": "paid",
   "region": "Americas",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "MA",
@@ -777,7 +931,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "DZ",
@@ -787,7 +943,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "TN",
@@ -797,7 +955,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "GH",
@@ -807,7 +967,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "ET",
@@ -817,7 +979,9 @@
   "access": "freemium",
   "region": "Africa",
   "verified": false,
-  "notes": "Ethiopian standards in Public.Resource.Org"
+  "notes": "Ethiopian standards in Public.Resource.Org",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "UG",
@@ -827,7 +991,9 @@
   "access": "freemium",
   "region": "Africa",
   "verified": false,
-  "notes": "Some UNBS standards in Public.Resource.Org"
+  "notes": "Some UNBS standards in Public.Resource.Org",
+  "http_status": 403,
+  "checked": "2026-11-13"
  },
  {
   "code": "TZ",
@@ -837,7 +1003,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "ZW",
@@ -847,7 +1015,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "ZM",
@@ -857,7 +1027,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "SN",
@@ -867,7 +1039,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 500,
+  "checked": "2026-11-13"
  },
  {
   "code": "CI",
@@ -877,7 +1051,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "MU",
@@ -887,7 +1063,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "RW",
@@ -897,7 +1075,9 @@
   "access": "paid",
   "region": "Africa",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "JO",
@@ -907,7 +1087,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "LB",
@@ -917,7 +1099,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "KW",
@@ -927,7 +1111,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "QA",
@@ -937,7 +1123,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "OM",
@@ -947,7 +1135,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "BH",
@@ -957,7 +1147,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 403,
+  "checked": "2026-11-13"
  },
  {
   "code": "IQ",
@@ -967,7 +1159,9 @@
   "access": "paid",
   "region": "Middle East",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "KZ",
@@ -977,7 +1171,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "UZ",
@@ -987,7 +1183,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "HK",
@@ -997,7 +1195,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "NP",
@@ -1007,7 +1207,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "MM",
@@ -1017,7 +1219,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "KH",
@@ -1027,7 +1231,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "MN",
@@ -1037,7 +1243,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "BN",
@@ -1047,7 +1255,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  },
  {
   "code": "AF",
@@ -1057,7 +1267,9 @@
   "access": "paid",
   "region": "Asia",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "FJ",
@@ -1067,7 +1279,9 @@
   "access": "paid",
   "region": "Oceania",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": "URLError",
+  "checked": "2026-11-13"
  },
  {
   "code": "PG",
@@ -1077,6 +1291,8 @@
   "access": "paid",
   "region": "Oceania",
   "verified": false,
-  "notes": "access is best-knowledge; confirm on the body's site"
+  "notes": "access is best-knowledge; confirm on the body's site",
+  "http_status": 200,
+  "checked": "2026-11-13"
  }
 ]
