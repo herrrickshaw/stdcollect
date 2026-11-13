@@ -38,8 +38,8 @@ ISO 11660-1,ecfr-ibr,ecfr-ibr,ISO 11660-1,"2008(E), Cranes—Access, guards and 
 ISO 11660-2,ecfr-ibr,ecfr-ibr,ISO 11660-2,"1994(E), Cranes—Access, guards and restraints—Part 2: Mobile cranes, 1994 (“ISO 11660-2:19",https://www.ecfr.gov/current/title-29/section-1926.6
 ISO 11660-3,ecfr-ibr,ecfr-ibr,ISO 11660-3,"2008(E), Cranes—Access, guards and restraints—Part 3: Tower cranes, 2d ed",https://www.ecfr.gov/current/title-29/section-1926.6
 IEC 62282-6-100,ecfr-ibr,ecfr-ibr,IEC 62282-6-100,"2010(E), Fuel cell technologies—Part 6-100: Micro fuel cell power systems—Safety, Edition ",https://www.ecfr.gov/current/title-49/section-171.7
-IEC 62282-6-100,ecfr-ibr,ecfr-ibr,IEC 2012,"(E), Amendment 1 to IEC 62282-6-100: Fuel cell technologies—Part 6-100: Micro fuel cell po",https://www.ecfr.gov/current/title-49/section-171.7
 IEC 2012,ecfr-ibr,ecfr-ibr,IEC 2012,"(E), Amendment 1 to IEC 62282-6-100: Fuel cell technologies—Part 6-100: Micro fuel cell po",https://www.ecfr.gov/current/title-49/section-171.7
+IEC 62282-6-100,ecfr-ibr,ecfr-ibr,IEC 2012,"(E), Amendment 1 to IEC 62282-6-100: Fuel cell technologies—Part 6-100: Micro fuel cell po",https://www.ecfr.gov/current/title-49/section-171.7
 ISO 535-199,ecfr-ibr,ecfr-ibr,ISO 535-1991,"(E) Paper and board—Determination of water absorptiveness—Cobb method, 1991, into §§ 178",https://www.ecfr.gov/current/title-49/section-171.7
 ISO 1496-1,ecfr-ibr,ecfr-ibr,ISO 1496-1,"1990 (E)—Series 1 freight containers—Specification and testing, Part 1: General cargo cont",https://www.ecfr.gov/current/title-49/section-171.7
 ISO 1496-3,ecfr-ibr,ecfr-ibr,ISO 1496-3,(E)—Series 1 freight containers—Specification and testing—Part 3: Tank containers for liqu,https://www.ecfr.gov/current/title-49/section-171.7
@@ -1420,8 +1420,8 @@ ISO 28000,South Korea,korea-ks,KS A ISO28004,공급사슬 보안경영시스템 
 ISO 2827,South Korea,korea-ks,KS A ISO2827,사진 기술－전자식 플래시 장비－광 출력과 성능의 결정 방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO2827
 ISO 2854,South Korea,korea-ks,KS A ISO2854,데이터의 통계적 해석 방법 ─ 평균 및 분산의 검정방법과 추정방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO2854
 ISO 2855,South Korea,korea-ks,KS A ISO2855,방사성물질 — 운반용기 — 내용물 누출 및 방사선 누출에 대한 시험,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO2855
-ISO 2859-0,South Korea,korea-ks,KS A ISO2859-0,계수값 검사에 대한 샘플링검사 절차-제0부:KS A ISO 2859 샘플링검사 시스템 서론 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO2859-0
 ISO 2859,South Korea,korea-ks,KS A ISO2859-0,계수값 검사에 대한 샘플링검사 절차-제0부:KS A ISO 2859 샘플링검사 시스템 서론 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO2859-0
+ISO 2859-0,South Korea,korea-ks,KS A ISO2859-0,계수값 검사에 대한 샘플링검사 절차-제0부:KS A ISO 2859 샘플링검사 시스템 서론 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO2859-0
 ISO 2889,South Korea,korea-ks,KS A ISO2889,원자력 시설의 스택과 덕트로부터 공기중 방사능 물질의 시료 채취,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO2889
 ISO 29,South Korea,korea-ks,KS A ISO29,영화기술 - 8 mm R 타입 무성영화의 전면직접영사방식에서의 영사기 사용법 - 규정 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO29
 ISO 2906,South Korea,korea-ks,KS A ISO2906,영화 기술－35 mm 영화용 카메라 애퍼처에서의 이미지 영역－위치와 치수,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO2906
@@ -2162,10 +2162,10 @@ ISO 12131-3,South Korea,korea-ks,KS B ISO12131-3,플레인 베어링 — 정상 
 ISO 12132,South Korea,korea-ks,KS B ISO12132,플레인 베어링 — 얇은 벽 분할 베어링의 품질보증 — 고장모드 영향분석(FMEA) 설계,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12132
 ISO 12140-1,South Korea,korea-ks,KS B ISO12140-1,"농업용 트레일러와 피견인 장비 — 드로우바 잭 — 제1부: 안전 설계, 시험방법 및 허용 기준",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12140-1
 ISO 12149,South Korea,korea-ks,KS B ISO12149,일반용 볼트체결식 강제 글로우브 밸브,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12149
-ISO 12151-1,South Korea,korea-ks,KS B ISO12151-1,유압 유체 동력 및 일반용 이음 - 호스 피팅 - 제1부 : ISO 8434-3의 O링면 실 끝이 있는 호스 피팅 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12151-1
 ISO 8434-3,South Korea,korea-ks,KS B ISO12151-1,유압 유체 동력 및 일반용 이음 - 호스 피팅 - 제1부 : ISO 8434-3의 O링면 실 끝이 있는 호스 피팅 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12151-1
-ISO 12151-2,South Korea,korea-ks,KS B ISO12151-2,유압 유체 동력 및 일반용 이음 - 호스 피팅 - 제2부 : O링을 사용하는 ISO 8434-1 및 ISO 8434-4 24° 원추형 연결구 끝이 있는 호스 피팅,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12151-2
+ISO 12151-1,South Korea,korea-ks,KS B ISO12151-1,유압 유체 동력 및 일반용 이음 - 호스 피팅 - 제1부 : ISO 8434-3의 O링면 실 끝이 있는 호스 피팅 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12151-1
 ISO 8434-1,South Korea,korea-ks,KS B ISO12151-2,유압 유체 동력 및 일반용 이음 - 호스 피팅 - 제2부 : O링을 사용하는 ISO 8434-1 및 ISO 8434-4 24° 원추형 연결구 끝이 있는 호스 피팅,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12151-2
+ISO 12151-2,South Korea,korea-ks,KS B ISO12151-2,유압 유체 동력 및 일반용 이음 - 호스 피팅 - 제2부 : O링을 사용하는 ISO 8434-1 및 ISO 8434-4 24° 원추형 연결구 끝이 있는 호스 피팅,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12151-2
 ISO 12151-3,South Korea,korea-ks,KS B ISO12151-3,유압 유체 동력 및 일반용 이음 - 호스 피팅 - 제3부 : ISO 6162 플랜지 끝이 있는 호스 피팅 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12151-3
 ISO 6162,South Korea,korea-ks,KS B ISO12151-3,유압 유체 동력 및 일반용 이음 - 호스 피팅 - 제3부 : ISO 6162 플랜지 끝이 있는 호스 피팅 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12151-3
 ISO 12164-1,South Korea,korea-ks,KS B ISO12164-1,플랜지 접촉면 홀로테이퍼 인터페이스 - 1부: 섕크 - 치수 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO12164-1
@@ -2466,8 +2466,8 @@ ISO 14963,South Korea,korea-ks,KS B ISO14963,기계진동과 충격 — 교량�
 ISO 14964,South Korea,korea-ks,KS B ISO14964,기계진동과 충격-고정 구조물의 진동-진동의 측정 및 평가의 품질관리에 대한 특정 요구사항 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO14964
 ISO 14982,South Korea,korea-ks,KS B ISO14982,농림업용 기계 ― 전자파 적합성 ― 시험방법과 허용기준,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO14982
 ISO 14997,South Korea,korea-ks,KS B ISO14997,광학과 포토닉스 ― 광학 부품 표면 결함에 대한 시험 방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO14997
-ISO 14999-4,South Korea,korea-ks,KS B ISO14999-4,광학 및 포토닉스 — 광학계와 광학 요소에 대한 간섭측정 — 제4부: KS B ISO 10110에 명시된 공차의 해석과 평가,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO14999-4
 ISO 10110,South Korea,korea-ks,KS B ISO14999-4,광학 및 포토닉스 — 광학계와 광학 요소에 대한 간섭측정 — 제4부: KS B ISO 10110에 명시된 공차의 해석과 평가,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO14999-4
+ISO 14999-4,South Korea,korea-ks,KS B ISO14999-4,광학 및 포토닉스 — 광학계와 광학 요소에 대한 간섭측정 — 제4부: KS B ISO 10110에 명시된 공차의 해석과 평가,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO14999-4
 ISO 15004,South Korea,korea-ks,KS B ISO15004,안과 기기 — 기본 요구사항과 시험방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO15004
 ISO 15011-4,South Korea,korea-ks,KS B ISO15011-4,용접 및 관련 공정에서의 안전과 보건 — 용접퓸과 가스포집을 위한 시험방법 — 제4부: 퓸 데이터 시트,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO15011-4
 ISO 21904-2,South Korea,korea-ks,KS B ISO21904-2,용접 및 관련 공정에서의 안전과 보건 — 용접퓸 포집 및 분리장비 — 제2부：분리 효율의 시험 및 표식요건,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO21904-2
@@ -3150,8 +3150,8 @@ ISO 3834-1,South Korea,korea-ks,KS B ISO3834-1,금속재료의 용융용접 품�
 ISO 3834-2,South Korea,korea-ks,KS B ISO3834-2,금속재료의 용융용접 품질 요구사항 — 제2부：포괄적 품질 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3834-2
 ISO 3834-3,South Korea,korea-ks,KS B ISO3834-3,금속재료 용융용접 품질 요구사항 — 제3부：표준 품질 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3834-3
 ISO 3834-4,South Korea,korea-ks,KS B ISO3834-4,금속재료의 용융용접 품질 요구사항 — 제4부：기초 품질 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3834-4
-ISO 3834,South Korea,korea-ks,KS B ISO3834-5,"금속 재료의 용융 용접 품질 요구사항 — 제5부: KS B ISO 3834－2, KS B ISO 3834－3 또는 KS B ISO 3834－4의 품질 요구사항에 ",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3834-5
 ISO 3834-5,South Korea,korea-ks,KS B ISO3834-5,"금속 재료의 용융 용접 품질 요구사항 — 제5부: KS B ISO 3834－2, KS B ISO 3834－3 또는 KS B ISO 3834－4의 품질 요구사항에 ",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3834-5
+ISO 3834,South Korea,korea-ks,KS B ISO3834-5,"금속 재료의 용융 용접 품질 요구사항 — 제5부: KS B ISO 3834－2, KS B ISO 3834－3 또는 KS B ISO 3834－4의 품질 요구사항에 ",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3834-5
 ISO 3835,South Korea,korea-ks,KS B ISO3835,포도재배와 포도주 제조에 대한 장비 - 용어 - Part 4 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3835
 ISO 3846,South Korea,korea-ks,KS B ISO3846,유량측정 - 직사각형 광정 위어를 이용한 개수로의 유량측정,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3846
 ISO 3857-2,South Korea,korea-ks,KS B ISO3857-2,"압축기, 공압공구 및 기계 ― 용어 ― 압축기 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3857-2
@@ -3201,8 +3201,8 @@ ISO 4126-7,South Korea,korea-ks,KS B ISO4126-7,과압 방지 안전장치 ─ �
 ISO 4126-9,South Korea,korea-ks,KS B ISO4126-9,과압방지 안전장치 - 제9부: 독립형 파열판 안전장치를 제외한 안전장치 적용 및 설치,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO4126-9
 ISO 4136,South Korea,korea-ks,KS B ISO4136,금속재료 용접부의 파괴 시험 — 횡방향 인장시험,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO4136
 ISO 4142,South Korea,korea-ks,KS B ISO4142,실험실용 유리 기구 -시험관,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO4142
-ISO 4144,South Korea,korea-ks,KS B ISO4144,배관작업 - B ISO 7-1에 따르는 나사 붙이 스테인리스강 관이음쇠 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO4144
 ISO 7-1,South Korea,korea-ks,KS B ISO4144,배관작업 - B ISO 7-1에 따르는 나사 붙이 스테인리스강 관이음쇠 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO4144
+ISO 4144,South Korea,korea-ks,KS B ISO4144,배관작업 - B ISO 7-1에 따르는 나사 붙이 스테인리스강 관이음쇠 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO4144
 ISO 4145,South Korea,korea-ks,KS B ISO4145,나사 압력조임 비합금강 관이음쇠 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO4145
 ISO 4156,South Korea,korea-ks,KS B ISO4156,"직선 원통 인벌류트 스플라인 — 미터 모듈, 사이드 끼워 맞춤 — 일반 사항, 제원 및 검사 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO4156
 ISO 4156-1,South Korea,korea-ks,KS B ISO4156-1,"직선 원통형 인벌류트 스플라인 ― 모듈, 사이드 피트 ― 제1부: 일반사항",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO4156-1
@@ -3485,8 +3485,8 @@ ISO 6105,South Korea,korea-ks,KS B ISO6105,연삭제 제품 ― 석재류 가공
 ISO 6106,South Korea,korea-ks,KS B ISO6106,연삭제품 ─ 초연삭재의 입도 검사,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO6106
 ISO 261,South Korea,korea-ks,KS B ISO6149-1,유체 동력 및 일반용 연결부 - ISO 261 나사산과 O-링 실링을 가진 포트와 스터드 엔드 - 제 1 부 : 엔드가 잘린 하우징 내의 O-링 실을 가진 포트 ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO6149-1
 ISO 6149-1,South Korea,korea-ks,KS B ISO6149-1,유체 동력 및 일반용 연결부 - ISO 261 나사산과 O-링 실링을 가진 포트와 스터드 엔드 - 제 1 부 : 엔드가 잘린 하우징 내의 O-링 실을 가진 포트 ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO6149-1
-ISO 261,South Korea,korea-ks,KS B ISO6149-2,"유체 동력 및 일반용 연결부 - ISO 261 나사산과 O-링 실링을 가진 포트와 스터드 엔드 - 제 2 부 : 고 사용압력용(S 시리즈) 스터드 엔드 - 치수,",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO6149-2
 ISO 6149-2,South Korea,korea-ks,KS B ISO6149-2,"유체 동력 및 일반용 연결부 - ISO 261 나사산과 O-링 실링을 가진 포트와 스터드 엔드 - 제 2 부 : 고 사용압력용(S 시리즈) 스터드 엔드 - 치수,",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO6149-2
+ISO 261,South Korea,korea-ks,KS B ISO6149-2,"유체 동력 및 일반용 연결부 - ISO 261 나사산과 O-링 실링을 가진 포트와 스터드 엔드 - 제 2 부 : 고 사용압력용(S 시리즈) 스터드 엔드 - 치수,",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO6149-2
 ISO 261,South Korea,korea-ks,KS B ISO6149-3,유체 동력 및 일반용 연결부 - ISO 261 나사산과 O-링 실링을 가진 포트와 스터드 엔드 - 제 3 부 : 저 사용압력용 (L 시리즈) 스터드 엔드 - 치수,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO6149-3
 ISO 6149-3,South Korea,korea-ks,KS B ISO6149-3,유체 동력 및 일반용 연결부 - ISO 261 나사산과 O-링 실링을 가진 포트와 스터드 엔드 - 제 3 부 : 저 사용압력용 (L 시리즈) 스터드 엔드 - 치수,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO6149-3
 ISO 6150,South Korea,korea-ks,KS B ISO6150,"공압 유체 동력 - 1 MPa, 1.6 MPa 및 2.5 MPa의 최대 작동압력용 실린더형 신속 작동 커플링 - 플러그 연결 치수, 시방서, 적용 지침과 시험",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO6150
@@ -3693,8 +3693,8 @@ ISO 7369,South Korea,korea-ks,KS B ISO7369,배관작업-금속호스 및 호스 
 ISO 7371,South Korea,korea-ks,KS B ISO7371,가정용 냉장기기 - 저온실이 있거나 또는 없는 냉장고- 특성과 시험방법 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7371
 ISO 7388-1,South Korea,korea-ks,KS B ISO7388-1,"자동 공구 교환 장치용 7/24 테이퍼 툴 섕크 - 제1부 : A, AD, AF, U, UD, UF형 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7388-1
 ISO 7388-2,South Korea,korea-ks,KS B ISO7388-2,"자동 공구 교환 장치용 7/24 테이퍼 툴 섕크 - 제2부: J, JD 및 JF 형 섕크의 치수 및 호칭 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7388-2
-ISO 888,South Korea,korea-ks,KS B ISO7411,큰 맞변거리를 가진 고장력 구조용 6각 볼트(ISO 888에 따른 나사부 길이) — 제품 등급 C — 강도 구분 8.8 및 10.9,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7411
 ISO 7411,South Korea,korea-ks,KS B ISO7411,큰 맞변거리를 가진 고장력 구조용 6각 볼트(ISO 888에 따른 나사부 길이) — 제품 등급 C — 강도 구분 8.8 및 10.9,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7411
+ISO 888,South Korea,korea-ks,KS B ISO7411,큰 맞변거리를 가진 고장력 구조용 6각 볼트(ISO 888에 따른 나사부 길이) — 제품 등급 C — 강도 구분 8.8 및 10.9,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7411
 ISO 7412,South Korea,korea-ks,KS B ISO7412,큰 맞변거리를 가진 고장력 구조용 6각 볼트(짧은 나사부 길이) — 제품 등급 C — 강도 구분 8.8 및 10.9,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7412
 ISO 7413,South Korea,korea-ks,KS B ISO7413,"용융 아연 도금(오버사이즈 탭) 구조용 6각 너트, 유형 1 — 제품 등급 A 및 B — 강도 구분 5, 6 및 8",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7413
 ISO 7414,South Korea,korea-ks,KS B ISO7414,"큰 맞변거리를 가진 구조용 6각 너트, 유형 1 — 제품 등급 B — 강도 구분 10",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7414
@@ -3711,8 +3711,8 @@ ISO 7464,South Korea,korea-ks,KS B ISO7464,토공기계 — 견인력의 측정�
 ISO 7465,South Korea,korea-ks,KS B ISO7465,승객용 엘리베이터 및 덤웨이터 ─ 카 및 균형추 가이드 레일 — T형,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7465
 ISO 7475,South Korea,korea-ks,KS B ISO7475,기계진동-평형기계-측정 스테이션 용 밀폐함 및 기타 보호수단 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7475
 ISO 748,South Korea,korea-ks,KS B ISO748,유량측정 ― 개수로의 유체 흐름 측정 ― 점 유속 측정을 이용한 유속 면적법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO748
-ISO 7483,South Korea,korea-ks,KS B ISO7483,ISO 7005 플랜지에 사용되는 개스킷의 치수 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7483
 ISO 7005,South Korea,korea-ks,KS B ISO7483,ISO 7005 플랜지에 사용되는 개스킷의 치수 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7483
+ISO 7483,South Korea,korea-ks,KS B ISO7483,ISO 7005 플랜지에 사용되는 개스킷의 치수 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7483
 ISO 7500-1,South Korea,korea-ks,KS B ISO7500-1,금속재료의 정적일축 시험기 검증 - 제1부 : 인장/압축시험기 - 힘 측정계의 교정과 검증 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7500-1
 ISO 7500-2,South Korea,korea-ks,KS B ISO7500-2,금속재료 - 정적 일축시험기의 검증 - 제2부 : 인장 크리프 시험기 - 적용하중의 검증 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7500-2
 ISO 7506,South Korea,korea-ks,KS B ISO7506,섬유기계 및 부속품-자카드기 인입용 종광의 번호 매김 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7506
@@ -4187,10 +4187,10 @@ ISO 9956-10,South Korea,korea-ks,KS B ISO9956-10,금속재료용 용접 절차 �
 ISO 9956-11,South Korea,korea-ks,KS B ISO9956-11,금속재료용 용접 절차 규격 및 승인 - 제11부 레이저 빔 용접에 대한 용접 절차 규격서 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9956-11
 ISO 9956-3,South Korea,korea-ks,KS B ISO9956-3,금속재료의 용접절차서 및 승인 : 제 3 부 강의 아크 용접에 대한 용접 절차 시험 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9956-3
 ISO 9956-7,South Korea,korea-ks,KS B ISO9956-7,금속재료용 용접 절차 규격 및 승인 - 제7부 아크용접표준 용접절차에 의한 승인 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9956-7
-ISO 9974-1,South Korea,korea-ks,KS B ISO9974-1,일반용 및 유체 동력용 연결 장치 - ISO 261 나사산과 탄성중합체 또는 금속 대 금속 실링을 가진 포트 및 스터드 엔드 - 제 1부 : 나사 가공된 포트 (,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9974-1
 ISO 261,South Korea,korea-ks,KS B ISO9974-1,일반용 및 유체 동력용 연결 장치 - ISO 261 나사산과 탄성중합체 또는 금속 대 금속 실링을 가진 포트 및 스터드 엔드 - 제 1부 : 나사 가공된 포트 (,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9974-1
-ISO 261,South Korea,korea-ks,KS B ISO9974-2,일반용 및 유체 동력용 연결 장치 - ISO 261 나사산과 탄성중합체 또는 금속 대 금속 실링을 가진 포트 및 스터드 엔드 - 제 2부: 탄성중합체 실링(E 형,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9974-2
+ISO 9974-1,South Korea,korea-ks,KS B ISO9974-1,일반용 및 유체 동력용 연결 장치 - ISO 261 나사산과 탄성중합체 또는 금속 대 금속 실링을 가진 포트 및 스터드 엔드 - 제 1부 : 나사 가공된 포트 (,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9974-1
 ISO 9974-2,South Korea,korea-ks,KS B ISO9974-2,일반용 및 유체 동력용 연결 장치 - ISO 261 나사산과 탄성중합체 또는 금속 대 금속 실링을 가진 포트 및 스터드 엔드 - 제 2부: 탄성중합체 실링(E 형,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9974-2
+ISO 261,South Korea,korea-ks,KS B ISO9974-2,일반용 및 유체 동력용 연결 장치 - ISO 261 나사산과 탄성중합체 또는 금속 대 금속 실링을 가진 포트 및 스터드 엔드 - 제 2부: 탄성중합체 실링(E 형,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9974-2
 ISO 261,South Korea,korea-ks,KS B ISO9974-3,일반용 및 유체 동력용 연결 장치 - ISO 261 나사산과 탄성중합체 또는 금속 대 금속 실링을 가진 포트 및 스터드 엔드 - 제 3부: 금속 대 금속 실링(B,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9974-3
 ISO 9974-3,South Korea,korea-ks,KS B ISO9974-3,일반용 및 유체 동력용 연결 장치 - ISO 261 나사산과 탄성중합체 또는 금속 대 금속 실링을 가진 포트 및 스터드 엔드 - 제 3부: 금속 대 금속 실링(B,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9974-3
 ISO 9980,South Korea,korea-ks,KS B ISO9980,벨트 구동 - V 벨트용 홈붙이 풀리(유효 너비를 기초로한 시스템)-홈의 기하학적 검사 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO9980
@@ -4484,8 +4484,8 @@ IEC 60099-3,South Korea,korea-ks,KS C IEC60099-3,서지 피뢰기 — 제3부: �
 IEC 60099-4,South Korea,korea-ks,KS C IEC60099-4,서지 피뢰기 — 제4부: 교류 시스템용 산화 금속형 갭리스 서지 피뢰기,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60099-4
 IEC 60099-5,South Korea,korea-ks,KS C IEC60099-5,서지 피뢰기 ─ 제5부: 선정 및 적용에 대한 권고사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60099-5
 IEC 60099-6,South Korea,korea-ks,KS C IEC60099-6,서지 피뢰기 — 제6부: 정격 52 kV 이하용 직병렬 갭 구조를 갖춘 서지 피뢰기,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60099-6
-IEC 60099-7,South Korea,korea-ks,KS C IEC60099-7,"서지 피뢰기 — 제7부: KS C IEC 60099-1, 60099-4, 60099-6, 61643-1, 1643-12, 61643-21, 61643-311, 6",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60099-7
 IEC 60099-1,South Korea,korea-ks,KS C IEC60099-7,"서지 피뢰기 — 제7부: KS C IEC 60099-1, 60099-4, 60099-6, 61643-1, 1643-12, 61643-21, 61643-311, 6",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60099-7
+IEC 60099-7,South Korea,korea-ks,KS C IEC60099-7,"서지 피뢰기 — 제7부: KS C IEC 60099-1, 60099-4, 60099-6, 61643-1, 1643-12, 61643-21, 61643-311, 6",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60099-7
 IEC 60099-8,South Korea,korea-ks,KS C IEC60099-8,서지 피뢰기 ─ 제8부: 1 kV 초과 교류계통 가공 송전 및 배전 선로용 외부 직렬 갭형 금속 산화물 서지 피뢰기(EGLA),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60099-8
 IEC 60104,South Korea,korea-ks,KS C IEC60104,가공전선용 알루미늄－마그네슘－실리콘 합금선 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60104
 IEC 60105,South Korea,korea-ks,KS C IEC60105,모선재료로 사용되는 산업용 정제 알루미늄에 대한 권고사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60105
@@ -4594,8 +4594,8 @@ IEC 60169-27,South Korea,korea-ks,KS C IEC60169-27,"무선주파수 커넥터 �
 IEC 60169-28,South Korea,korea-ks,KS C IEC60169-28,R.F. 커넥터 - 제28부 : 외부도체의 내경이 5.6 ㎜인 스냅식 커플링형 R.F. 동축 커넥터 - 특성 임피던스 75Ω (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60169-28
 IEC 60169-3,South Korea,korea-ks,KS C IEC60169-3,R.F. 커넥터 ― 제3부: 쌍평형 가공 궤전선용 2핀 커넥터 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60169-3
 IEC 60169-4,South Korea,korea-ks,KS C IEC60169-4,R.F. 커넥터 ― 제4부: 외부도체의 내경이 16 ㎜ (0.63 인치)인 나사잠금식 R.F. 동축 커넥터 - 특성임피던스 50 Ω (형식 7-16) (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60169-4
-IEC 60169-5,South Korea,korea-ks,KS C IEC60169-5,R.F. 커넥터 ― 제5부: 96 IEC 50-17 이상의 케이블용 R.F. 동축 커넥터 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60169-5
 IEC 50-17,South Korea,korea-ks,KS C IEC60169-5,R.F. 커넥터 ― 제5부: 96 IEC 50-17 이상의 케이블용 R.F. 동축 커넥터 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60169-5
+IEC 60169-5,South Korea,korea-ks,KS C IEC60169-5,R.F. 커넥터 ― 제5부: 96 IEC 50-17 이상의 케이블용 R.F. 동축 커넥터 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60169-5
 IEC 60169-6,South Korea,korea-ks,KS C IEC60169-6,R.F. 커넥터 ― 제6부: 96 IEC 75-17 또는 그 이상의 케이블용 R.F. 동축 커넥터 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60169-6
 IEC 75-17,South Korea,korea-ks,KS C IEC60169-6,R.F. 커넥터 ― 제6부: 96 IEC 75-17 또는 그 이상의 케이블용 R.F. 동축 커넥터 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60169-6
 IEC 60169-7,South Korea,korea-ks,KS C IEC60169-7,R.F. 커넥터 ― 제7부: 외부도체의 내경이 9.5 ㎜ (0.374 인치)인 삽입잠금식 R.F. 동축 커넥터 - 특성임피던스 50 Ω (형식 C) (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60169-7
@@ -5968,8 +5968,8 @@ IEC 60867,South Korea,korea-ks,KS C IEC60867,절연유-합성방향족 탄화수
 IEC 60870-1-1,South Korea,korea-ks,KS C IEC60870-1-1,원격제어 장비 및 시스템 ─ 제1부: 일반 고려사항 ─ 제1절: 일반 규정,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60870-1-1
 IEC 60870-1-2,South Korea,korea-ks,KS C IEC60870-1-2,원격 제어 장치 및 시스템 — 제1부 일반 사항 — 제2절: 규격에 대한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60870-1-2
 IEC 60870-1-3,South Korea,korea-ks,KS C IEC60870-1-3,원격제어 장비 및 시스템 ─ 제1부: 일반 고려사항 ─ 제3절: 용어집,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60870-1-3
-IEC 60870,South Korea,korea-ks,KS C IEC60870-1-4,"원격제어 장비 및 시스템 ─ 제1부: 일반 고려사항 ─ 제4절: 원격제어 데이터 전송 및 IEC 60870-5, IEC 60870-6 표준 구성의 기본 측면",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60870-1-4
 IEC 60870-1-4,South Korea,korea-ks,KS C IEC60870-1-4,"원격제어 장비 및 시스템 ─ 제1부: 일반 고려사항 ─ 제4절: 원격제어 데이터 전송 및 IEC 60870-5, IEC 60870-6 표준 구성의 기본 측면",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60870-1-4
+IEC 60870,South Korea,korea-ks,KS C IEC60870-1-4,"원격제어 장비 및 시스템 ─ 제1부: 일반 고려사항 ─ 제4절: 원격제어 데이터 전송 및 IEC 60870-5, IEC 60870-6 표준 구성의 기본 측면",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60870-1-4
 IEC 60870-1-5,South Korea,korea-ks,KS C IEC60870-1-5,원격제어 장비 및 시스템 ─ 제1부: 일반 고려사항 ─ 제5절: IEC 60870-5 통신규약을 사용한 전송시스템의 자료 통합에 대한 변환기를 사용한 모뎀 전송 ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60870-1-5
 IEC 60870-5,South Korea,korea-ks,KS C IEC60870-1-5,원격제어 장비 및 시스템 ─ 제1부: 일반 고려사항 ─ 제5절: IEC 60870-5 통신규약을 사용한 전송시스템의 자료 통합에 대한 변환기를 사용한 모뎀 전송 ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60870-1-5
 IEC 60870-2-1,South Korea,korea-ks,KS C IEC60870-2-1,원격제어장치 및 시스템-제2부: 작동조건-제1절: 전원 및 전기자기 적합성,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60870-2-1
@@ -6797,8 +6797,8 @@ IEC 61400-24,South Korea,korea-ks,KS C IEC61400-24,풍력발전기 ― 제24부:
 IEC 61400-3,South Korea,korea-ks,KS C IEC61400-3,풍력발전기-제3부 : 해상용 풍력발전기에 대한 설계 요구조건,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61400-3
 IEC 61400-4,South Korea,korea-ks,KS C IEC61400-4,풍력발전기 ― 제4부: 풍력발전기 기어박스 설계 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61400-4
 IEC 61427,South Korea,korea-ks,KS C IEC61427,태양광발전 에너지시스템(PVES)에 사용하는 이차 단전지 및 전지 - 일반요구사항 및 시험방법 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61427
-ISO 7000-113,South Korea,korea-ks,KS C IEC61429,국제 재활용 기호 (ISO 7000-1135)에 의한 이차전지 표시,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61429
 IEC 61429,South Korea,korea-ks,KS C IEC61429,국제 재활용 기호 (ISO 7000-1135)에 의한 이차전지 표시,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61429
+ISO 7000-113,South Korea,korea-ks,KS C IEC61429,국제 재활용 기호 (ISO 7000-1135)에 의한 이차전지 표시,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61429
 IEC 61430,South Korea,korea-ks,KS C IEC61430,이차전지 셀 및 전지 — 폭발 위해요인을 줄이도록 설계된 장치의 성능 검토 시험방법 — 시동용 납축전지,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61430
 IEC 61434,South Korea,korea-ks,KS C IEC61434,알칼리 또는 기타 비산성 전해질을 포함하는 이차전지 셀 및 전지 — 알칼리 이차전지 셀 및 전지의 전류 표시법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61434
 IEC 61436,South Korea,korea-ks,KS C IEC61436,밀폐형 충전용 Ni/MH 단전지 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61436
@@ -6835,8 +6835,8 @@ IEC 61508-2,South Korea,korea-ks,KS C IEC61508-2,전기/전자/프로그램 가�
 IEC 61508-3,South Korea,korea-ks,KS C IEC61508-3,전기/전자/프로그램 가능한 전자장치 안전 관련 시스템의 기능 안전성 - 제3부: 소프트웨어 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61508-3
 IEC 61508-4,South Korea,korea-ks,KS C IEC61508-4,전기/전자/프로그램 가능한 전자장치 안전관련 시스템의 기능안전성 ― 제4부: 정의 및 약어,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61508-4
 IEC 61508-5,South Korea,korea-ks,KS C IEC61508-5,프로그램 가능한 전자장치 안전관련 시스템의 기능안전성 ― 제5부: 안전무결성수준 결정 방법의 예,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61508-5
-IEC 61508-6,South Korea,korea-ks,KS C IEC61508-6,전기/전자/프로그램 가능한 전자장치 안전관련 시스템의 기능안전성 ― 제6부: KS C IEC 61508-2와 KS C IEC 61508-3의 적용지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61508-6
 IEC 61508-2,South Korea,korea-ks,KS C IEC61508-6,전기/전자/프로그램 가능한 전자장치 안전관련 시스템의 기능안전성 ― 제6부: KS C IEC 61508-2와 KS C IEC 61508-3의 적용지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61508-6
+IEC 61508-6,South Korea,korea-ks,KS C IEC61508-6,전기/전자/프로그램 가능한 전자장치 안전관련 시스템의 기능안전성 ― 제6부: KS C IEC 61508-2와 KS C IEC 61508-3의 적용지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61508-6
 IEC 61508-7,South Korea,korea-ks,KS C IEC61508-7,전기/전자/프로그램 가능한 전자장치 안전관련 시스템의 기능안전성 ― 제7부: 기법 및 수단의 개요,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61508-7
 IEC 61511-1,South Korea,korea-ks,KS C IEC61511-1,"프로세스 산업을 위한 계측 제어 시스템의 기능 안전 — 제1부: 일반 구조, 시스템 소프트웨어 정의 및 하드웨어 요구 사항",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61511-1
 IEC 61511-2,South Korea,korea-ks,KS C IEC61511-2,프로세스 산업을 위한 계측 제어 시스템의 기능 안전 — 제2부: 제1부의 응용 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61511-2
@@ -6907,8 +6907,8 @@ IEC 61580-7,South Korea,korea-ks,KS C IEC61580-7,도파관 측정방법 — 제7
 IEC 61580-8,South Korea,korea-ks,KS C IEC61580-8,도파관의 측정방법제8부: 도파관 전력 유지 능력,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61580-8
 IEC 61580-9,South Korea,korea-ks,KS C IEC61580-9,도파관 측정 방법 ― 제9부: 직사각형 도파관의 경계면에서의 반사 계수,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61580-9
 IEC 61582,South Korea,korea-ks,KS C IEC61582,"방사선방호계측, 체내검사계수계 - 휴대형, 운반형 및 고정형 장비의 분류, 일반요건 및 시험절차",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61582
-IEC 60917,South Korea,korea-ks,KS C IEC61587-3,"전자 기기용 기계구조 - IEC 60917 및 60297의 시험 - 제 3 부 : 캐비넷, 랙 및 서브랙의 전자 차폐 성능 시험 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61587-3
 IEC 61587-3,South Korea,korea-ks,KS C IEC61587-3,"전자 기기용 기계구조 - IEC 60917 및 60297의 시험 - 제 3 부 : 캐비넷, 랙 및 서브랙의 전자 차폐 성능 시험 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61587-3
+IEC 60917,South Korea,korea-ks,KS C IEC61587-3,"전자 기기용 기계구조 - IEC 60917 및 60297의 시험 - 제 3 부 : 캐비넷, 랙 및 서브랙의 전자 차폐 성능 시험 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61587-3
 IEC 61591,South Korea,korea-ks,KS C IEC61591,가정용 레인지 후드 및 기타 조리용 연기 추출기 - 성능 측정 방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61591
 IEC 61592,South Korea,korea-ks,KS C IEC61592,가정용 전기기기-소비자 패널 시험에 관한 안내,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61592
 IEC 61595-3,South Korea,korea-ks,KS C IEC61595-3,"전문가용 멀티채널 디지털 오디오 테이프 레코더(DATR), 릴-투-릴 시스템 — 제3부: 16비트 매체를 위한 24비트 동작",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61595-3
@@ -7013,8 +7013,8 @@ IEC 61779-4,South Korea,korea-ks,KS C IEC61779-4,가연성 가스 검출·측정
 IEC 61779-5,South Korea,korea-ks,KS C IEC61779-5,가연성 가스 검출·측정용 전기 장치 — 제5부: 가연성 가스 부피분율 검출용 그룹 Ⅱ 기기의 성능 요건,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61779-5
 IEC 61779-6,South Korea,korea-ks,KS C IEC61779-6,"가연성 가스 검출·측정용 전기 장치 — 제6부: 장치의 선정, 설치, 사용 및 유지 보수 지침",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61779-6
 IEC 61784-1,South Korea,korea-ks,KS C IEC61784-1,산업 통신 네트워크 — 프로파일 — 제1부: 필드버스 프로파일,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61784-1
-ISO/IEC 8802-3,South Korea,korea-ks,KS C IEC61784-2,산업 통신 네트워크 — 프로파일 — 제2부: ISO/IEC 8802-3 기반 실시간 네트워크를 위하여 추가된 필드버스 프로파일,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61784-2
 IEC 61784-2,South Korea,korea-ks,KS C IEC61784-2,산업 통신 네트워크 — 프로파일 — 제2부: ISO/IEC 8802-3 기반 실시간 네트워크를 위하여 추가된 필드버스 프로파일,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61784-2
+ISO/IEC 8802-3,South Korea,korea-ks,KS C IEC61784-2,산업 통신 네트워크 — 프로파일 — 제2부: ISO/IEC 8802-3 기반 실시간 네트워크를 위하여 추가된 필드버스 프로파일,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61784-2
 IEC 61784-5-13,South Korea,korea-ks,KS C IEC61784-5-13,산업 통신 네트워크 ― 프로파일 ― 제5-13부: 필드버스 설치 ― CPF13 설치 프로파일,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61784-5-13
 IEC 61784-5-17,South Korea,korea-ks,KS C IEC61784-5-17,산업 통신 네트워크 ― 프로파일 ― 제5-17부: 필드버스 설치 ― CPF 17 설치 프로파일,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61784-5-17
 IEC 61784-5-8,South Korea,korea-ks,KS C IEC61784-5-8,산업 통신 네트워크 ― 프로파일 ― 제5-8부 :필드버스 설치 ― CPF8 설치 프로파일,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61784-5-8
@@ -7114,23 +7114,23 @@ IEC 61922,South Korea,korea-ks,KS C IEC61922,고주파 유도 전열설비 — �
 IEC 61923,South Korea,korea-ks,KS C IEC61923,가정용 및 이와 유사한 전기 기기의 성능 측정 방법 — 반복성 및 재현성 평가,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61923
 IEC 61925,South Korea,korea-ks,KS C IEC61925,멀티미디어 시스템 및 기기 ― 멀티미디어 홈 서버 시스템 ― 홈 서버 용어,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61925
 IEC 61931,South Korea,korea-ks,KS C IEC61931,광섬유 통신 용어,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61931
-IEC 61935-3,South Korea,korea-ks,KS C IEC61935-3,평형 및 동축형 정보기술 케이블링의 시험 ― 제3부 : ISO/IEC 15018 및 관련 표준에 의한 케이블 설치,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61935-3
 ISO/IEC 15018,South Korea,korea-ks,KS C IEC61935-3,평형 및 동축형 정보기술 케이블링의 시험 ― 제3부 : ISO/IEC 15018 및 관련 표준에 의한 케이블 설치,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61935-3
+IEC 61935-3,South Korea,korea-ks,KS C IEC61935-3,평형 및 동축형 정보기술 케이블링의 시험 ― 제3부 : ISO/IEC 15018 및 관련 표준에 의한 케이블 설치,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61935-3
 IEC 61936-1,South Korea,korea-ks,KS C IEC61936-1,교류 1kV 초과 및 직류 1.5kV 초과 전력설비 ― 제1부: 교류,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61936-1
-IEC 60958,South Korea,korea-ks,KS C IEC61937-1,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제1부: 일반,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-1
 IEC 61937-1,South Korea,korea-ks,KS C IEC61937-1,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제1부: 일반,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-1
-IEC 60958,South Korea,korea-ks,KS C IEC61937-2,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제2부: 버스트(burst) 정보,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-2
+IEC 60958,South Korea,korea-ks,KS C IEC61937-1,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제1부: 일반,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-1
 IEC 61937-2,South Korea,korea-ks,KS C IEC61937-2,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제2부: 버스트(burst) 정보,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-2
+IEC 60958,South Korea,korea-ks,KS C IEC61937-2,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제2부: 버스트(burst) 정보,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-2
 IEC 61937-3,South Korea,korea-ks,KS C IEC61937-3,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제3부: AC-3 및 개선된 AC-3 포맷에 따른 비선,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-3
 IEC 60958,South Korea,korea-ks,KS C IEC61937-3,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제3부: AC-3 및 개선된 AC-3 포맷에 따른 비선,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-3
 IEC 61937-4,South Korea,korea-ks,KS C IEC61937-4,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제4부: MPEG 오디오 포맷에 따른 비선형 PCM 비,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-4
 IEC 60958,South Korea,korea-ks,KS C IEC61937-4,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제4부: MPEG 오디오 포맷에 따른 비선형 PCM 비,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-4
-IEC 60958,South Korea,korea-ks,KS C IEC61937-5,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제5부: DTS(Digital Theater Syste,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-5
 IEC 61937-5,South Korea,korea-ks,KS C IEC61937-5,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제5부: DTS(Digital Theater Syste,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-5
-IEC 60958,South Korea,korea-ks,KS C IEC61937-6,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제6부: MPEG-2 AAC 및 MPEG-4 AAC 오,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-6
+IEC 60958,South Korea,korea-ks,KS C IEC61937-5,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제5부: DTS(Digital Theater Syste,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-5
 IEC 61937-6,South Korea,korea-ks,KS C IEC61937-6,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제6부: MPEG-2 AAC 및 MPEG-4 AAC 오,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-6
-IEC 60958,South Korea,korea-ks,KS C IEC61937-7,"디지털 오디오 — IEC 60958을 적용하는 비선형 PCM으로 부호화된 오디오 비트 스트림을 위한 접속 — 제7부: ATRAC, ATRAC2/3 및 ATRAC-",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-7
+IEC 60958,South Korea,korea-ks,KS C IEC61937-6,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제6부: MPEG-2 AAC 및 MPEG-4 AAC 오,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-6
 IEC 61937-7,South Korea,korea-ks,KS C IEC61937-7,"디지털 오디오 — IEC 60958을 적용하는 비선형 PCM으로 부호화된 오디오 비트 스트림을 위한 접속 — 제7부: ATRAC, ATRAC2/3 및 ATRAC-",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-7
+IEC 60958,South Korea,korea-ks,KS C IEC61937-7,"디지털 오디오 — IEC 60958을 적용하는 비선형 PCM으로 부호화된 오디오 비트 스트림을 위한 접속 — 제7부: ATRAC, ATRAC2/3 및 ATRAC-",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-7
 IEC 61937-8,South Korea,korea-ks,KS C IEC61937-8,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제8부: 윈도우 미디어 오디오(WMA) 프로페셔널 포맷,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-8
 IEC 60958,South Korea,korea-ks,KS C IEC61937-8,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제8부: 윈도우 미디어 오디오(WMA) 프로페셔널 포맷,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-8
 IEC 61937-9,South Korea,korea-ks,KS C IEC61937-9,디지털 오디오 — IEC 60958을 적용한 비선형 PCM 부호화된 오디오 비트스트림을 위한 인터페이스 — 제9부: MAT 포맷에 따른 비선형 PCM 비트스트림,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61937-9
@@ -7355,8 +7355,8 @@ IEC 62271-203,South Korea,korea-ks,KS C IEC62271-203,고압 개폐장치 및 제
 IEC 62271-205,South Korea,korea-ks,KS C IEC62271-205,고전압 개폐장치 및 제어장치 ― 제205부: 정격전압 52 kV 초과 소형 개폐장치 어셈블리,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62271-205
 IEC 62271-207,South Korea,korea-ks,KS C IEC62271-207,고전압 개폐장치 및 제어장치 ― 제207부: 52 kV 이상 정격전압용 가스절연 개폐장치 어셈블리의 내진검증,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62271-207
 IEC 62271-209,South Korea,korea-ks,KS C IEC62271-209,고전압 개폐장치 및 제어장치 ― 제209부: 52 kV 이상 정격 전압용 가스절연 금속피복 개폐장치의 케이블 접속 ― 압출절연 유입케이블 ― 유입 및 건식 케이블,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62271-209
-IEC 62271-3,South Korea,korea-ks,KS C IEC62271-3,고압 개폐장치와 제어장치 — 제3부: KS C IEC 61850 기반의 디지털 인터페이스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62271-3
 IEC 61850,South Korea,korea-ks,KS C IEC62271-3,고압 개폐장치와 제어장치 — 제3부: KS C IEC 61850 기반의 디지털 인터페이스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62271-3
+IEC 62271-3,South Korea,korea-ks,KS C IEC62271-3,고압 개폐장치와 제어장치 — 제3부: KS C IEC 61850 기반의 디지털 인터페이스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62271-3
 IEC 62275,South Korea,korea-ks,KS C IEC62275,배선 시스템 ― 전기설비용 케이블 타이,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62275
 IEC 62276,South Korea,korea-ks,KS C IEC62276,표면 탄성파 소자 응용을 위한 단결정 웨이퍼 — 규격 및 측정방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62276
 IEC 62278,South Korea,korea-ks,KS C IEC62278,"철도 적용 - 신뢰성, 가용성, 유지 보수성, 안전성(RAMS) 관련 시방서 및 입증",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62278
@@ -7426,8 +7426,8 @@ IEC 62351-3,South Korea,korea-ks,KS C IEC62351-3,전력 시스템 관리 및 관
 IEC 62351-4,South Korea,korea-ks,KS C IEC62351-4,전력 시스템 관리 및 관련 정보 교환 — 데이터와 통신 보안 — 제4부: MMS 및 파생어를 포함한 프로파일,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62351-4
 IEC 60870,South Korea,korea-ks,KS C IEC62351-5,전력 시스템 관리 및 관련 정보 교환 — 데이터와 통신보안 — 제5부: KS C IEC 60870—5와 파생물에 대한 보안,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62351-5
 IEC 62351-5,South Korea,korea-ks,KS C IEC62351-5,전력 시스템 관리 및 관련 정보 교환 — 데이터와 통신보안 — 제5부: KS C IEC 60870—5와 파생물에 대한 보안,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62351-5
-IEC 62351-6,South Korea,korea-ks,KS C IEC62351-6,전력 시스템 관리 및 관련 정보 교환 — 데이터와 통신 보안 — 제6부: IEC 61850의 보안,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62351-6
 IEC 61850,South Korea,korea-ks,KS C IEC62351-6,전력 시스템 관리 및 관련 정보 교환 — 데이터와 통신 보안 — 제6부: IEC 61850의 보안,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62351-6
+IEC 62351-6,South Korea,korea-ks,KS C IEC62351-6,전력 시스템 관리 및 관련 정보 교환 — 데이터와 통신 보안 — 제6부: IEC 61850의 보안,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62351-6
 IEC 62356-1,South Korea,korea-ks,KS C IEC62356-1,비디오 기록 — 12.65 mm 형식 D-11 포맷 — 제1부: 테이프 기록,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62356-1
 IEC 62357,South Korea,korea-ks,KS C IEC62357,"전력시스템 통제와 이와 결합된 통신 - 객체 모델과 서비스, 프로토콜을 위한 참조구조 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62357
 IEC 62360,South Korea,korea-ks,KS C IEC62360,종합 정보 디지털 방송(ISDB)을 위한 위성 및 지상파 수신기의 기본 명세,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62360
@@ -7458,10 +7458,10 @@ IEC 62439-1,South Korea,korea-ks,KS C IEC62439-1,산업 통신 네트워크 ― 
 IEC 62439-7,South Korea,korea-ks,KS C IEC62439-7,산업 통신 네트워크 ― 고가용성 자동화 네트워크 ― 제7부: 링 기반의 이중화 프로토콜(RRP),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62439-7
 IEC 62440,South Korea,korea-ks,KS C IEC62440,정격 전압 450/750 V 이하 전기 케이블 — 사용 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62440
 IEC 62446,South Korea,korea-ks,KS C IEC62446,"계통연계형 태양광발전시스템 — 시스템 문서, 시운전 시험 및 검사를 위한 최소 요구조건 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62446
-IEC 61784,South Korea,korea-ks,KS C IEC62453-303-2,"필드 장치 툴(FDT) 인터페이스 규정 ― 제303-2부: 통신 프로파일 통합 ― IEC 61784 CP 3/4, CP 3/5, CP 3/6",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62453-303-2
 IEC 62453-303-2,South Korea,korea-ks,KS C IEC62453-303-2,"필드 장치 툴(FDT) 인터페이스 규정 ― 제303-2부: 통신 프로파일 통합 ― IEC 61784 CP 3/4, CP 3/5, CP 3/6",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62453-303-2
-IEC 61784,South Korea,korea-ks,KS C IEC62453-306,필드 장치 툴(FDT) 인터페이스 규정 ― 제306부: 통신 프로파일 통합 ― IEC 61784 CPF 6,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62453-306
+IEC 61784,South Korea,korea-ks,KS C IEC62453-303-2,"필드 장치 툴(FDT) 인터페이스 규정 ― 제303-2부: 통신 프로파일 통합 ― IEC 61784 CP 3/4, CP 3/5, CP 3/6",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62453-303-2
 IEC 62453-306,South Korea,korea-ks,KS C IEC62453-306,필드 장치 툴(FDT) 인터페이스 규정 ― 제306부: 통신 프로파일 통합 ― IEC 61784 CPF 6,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62453-306
+IEC 61784,South Korea,korea-ks,KS C IEC62453-306,필드 장치 툴(FDT) 인터페이스 규정 ― 제306부: 통신 프로파일 통합 ― IEC 61784 CPF 6,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62453-306
 IEC 62453-309,South Korea,korea-ks,KS C IEC62453-309,필드 장치 툴(FDT) 인터페이스 규정 ― 제309부: 통신 프로파일 통합 ― IEC 61784 CPF 9,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62453-309
 IEC 61784,South Korea,korea-ks,KS C IEC62453-309,필드 장치 툴(FDT) 인터페이스 규정 ― 제309부: 통신 프로파일 통합 ― IEC 61784 CPF 9,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62453-309
 IEC 62455,South Korea,korea-ks,KS C IEC62455,인터넷 프로토콜(IP) 및 전송 스트림(TS) 기반 서비스 접근,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62455
@@ -8064,8 +8064,8 @@ ISO 6208,South Korea,korea-ks,KS D ISO6208,니켈및니켈합금판 및 박판�
 ISO 6283,South Korea,korea-ks,KS D ISO6283,정련 니켈 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO6283
 ISO 629,South Korea,korea-ks,KS D ISO629,강 및 주철 ─ 망가니즈의 정량 ─ 분광광도법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO629
 ISO 630-2,South Korea,korea-ks,KS D ISO630-2,구조용 강 - 제2부 : 열간중공 형강의 기술적 인수인도사항 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO630-2
-ISO 2064,South Korea,korea-ks,KS D ISO6303,ISO 2064 포함되지 않은 압력용기 강 - 제1부 - 제6부 : 장시간 파단응력 특성 유도 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO6303
 ISO 6303,South Korea,korea-ks,KS D ISO6303,ISO 2064 포함되지 않은 압력용기 강 - 제1부 - 제6부 : 장시간 파단응력 특성 유도 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO6303
+ISO 2064,South Korea,korea-ks,KS D ISO6303,ISO 2064 포함되지 않은 압력용기 강 - 제1부 - 제6부 : 장시간 파단응력 특성 유도 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO6303
 ISO 6316,South Korea,korea-ks,KS D ISO6316,구조용 열간압연 강대 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO6316
 ISO 6317,South Korea,korea-ks,KS D ISO6317,일반용 및 드로잉용 열간압연 탄소 강대,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO6317
 ISO 6351,South Korea,korea-ks,KS D ISO6351,"니켈 잉곳의 은, 비스무트, 카드뮴, 코발트, 구리, 철, 망가니즈, 납 및 아연 정량방법 ― 불꽃 원자흡수 분광법",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO6351
@@ -8151,8 +8151,8 @@ ISO 7539-5,South Korea,korea-ks,KS D ISO7539-5,금속 및 합금의 부식 - 응
 ISO 7539-6,South Korea,korea-ks,KS D ISO7539-6,응력부식 시험- 제6부 : 예비균열이 있는 시편의 준비 및 사용,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO7539-6
 ISO 7583,South Korea,korea-ks,KS D ISO7583,알루미늄 및 알루미늄 합금의 양극산화 ― 용어 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO7583
 ISO 7595,South Korea,korea-ks,KS D ISO7595,와이어 로프용 소켓 제조 절차 ― 용융 금속 소켓팅 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO7595
-ISO 7-1,South Korea,korea-ks,KS D ISO7598,ISO7-1에 따른 나사가공용 스테인리스 강관 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO7598
 ISO 7598,South Korea,korea-ks,KS D ISO7598,ISO7-1에 따른 나사가공용 스테인리스 강관 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO7598
+ISO 7-1,South Korea,korea-ks,KS D ISO7598,ISO7-1에 따른 나사가공용 스테인리스 강관 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO7598
 ISO 7625,South Korea,korea-ks,KS D ISO7625,초경합금을 제외한 소결 금속 재료 — 탄소 함유량의 정량을 위한 화학분석 시료 준비,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO7625
 ISO 7627-1,South Korea,korea-ks,KS D ISO7627-1,초경합금 ― 불꽃 원자흡수 분광법 ― 제1부: 일반적인 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO7627-1
 ISO 7627-2,South Korea,korea-ks,KS D ISO7627-2,"초경합금 ― 불꽃 원자흡수 분광법 ― 제2부: 칼슘, 칼륨, 마그네슘 및 나트륨 정량방법(질량분율 0.001%~0.02%함유)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20D%20ISO7627-2
@@ -9247,8 +9247,8 @@ ISO 14044,South Korea,korea-ks,KS I ISO14044,환경경영 — 전과정 평가 �
 ISO 14046,South Korea,korea-ks,KS I ISO14046,"환경경영 ― 물발자국 ― 원칙, 요구사항 및 지침",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14046
 ISO 14047,South Korea,korea-ks,KS I ISO14047,환경경영 ― 전과정평가 ― KS I ISO 14044의 영향평가 적용사례,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14047
 ISO 14044,South Korea,korea-ks,KS I ISO14047,환경경영 ― 전과정평가 ― KS I ISO 14044의 영향평가 적용사례,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14047
-ISO 14044,South Korea,korea-ks,KS I ISO14049,환경경영 ― 전과정평가 ― KS I ISO 14044의 목적 및 범위 정의와 목록분석 적용 사례,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14049
 ISO 14049,South Korea,korea-ks,KS I ISO14049,환경경영 ― 전과정평가 ― KS I ISO 14044의 목적 및 범위 정의와 목록분석 적용 사례,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14049
+ISO 14044,South Korea,korea-ks,KS I ISO14049,환경경영 ― 전과정평가 ― KS I ISO 14044의 목적 및 범위 정의와 목록분석 적용 사례,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14049
 ISO 14050,South Korea,korea-ks,KS I ISO14050,환경경영 — 용어,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14050
 ISO 14062,South Korea,korea-ks,KS I ISO14062,환경경영 — 제품설계 및 개발에의 환경측면 통합 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14062
 ISO 14063,South Korea,korea-ks,KS I ISO14063,환경경영 — 환경의사소통 — 지침 및 사례,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14063
@@ -12622,8 +12622,8 @@ ISO 9969,South Korea,korea-ks,KS M ISO9969,열가소성 플라스틱 관 — 원
 ISO 9986,South Korea,korea-ks,KS M ISO9986,신발 겉창용 복합 코르크 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO9986
 ISO 9988-1,South Korea,korea-ks,KS M ISO9988-1,플라스틱 ㅡ 폴리옥시메틸렌(POM) 성형 및 압출 재료 ㅡ 제1부: 호칭 체계 및 시방의 기본,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO9988-1
 ISO 9988-2,South Korea,korea-ks,KS M ISO9988-2,플라스틱 ㅡ 폴리옥시메틸렌(POM) 성형 및 압출 재료 ㅡ 제2부: 시험편 제작 및 물성 측정,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO9988-2
-ISO 9001,South Korea,korea-ks,KS Q ISO10017,품질경영 — KS Q ISO 9001:2015를 위한 통계적 기법에 대한 가이던스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO10017
 ISO 10017,South Korea,korea-ks,KS Q ISO10017,품질경영 — KS Q ISO 9001:2015를 위한 통계적 기법에 대한 가이던스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO10017
+ISO 9001,South Korea,korea-ks,KS Q ISO10017,품질경영 — KS Q ISO 9001:2015를 위한 통계적 기법에 대한 가이던스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO10017
 ISO 17218,South Korea,korea-ks,KS P ISO17218,일회용 멸균 호침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20P%20ISO17218
 IEC 60601-2-13,South Korea,korea-ks,KS P IEC60601-2-13,의료용 전기장치 - 제2-13부 : 마취장치의 안전에 대한 특정 요구조건 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20P%20IEC60601-2-13
 IEC 60601-2-20,South Korea,korea-ks,KS P IEC60601-2-20,운반용보육기 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20P%20IEC60601-2-20
@@ -13518,8 +13518,8 @@ ISO 2416,South Korea,korea-ks,KS R ISO2416,승용차 ─ 질량 분포,https://s
 ISO 2534,South Korea,korea-ks,KS R ISO2534,도로 차량 ─ 엔진 시험 코드 ─ 총 출력,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO2534
 ISO 2575,South Korea,korea-ks,KS R ISO2575,"도로 차량 ─ 제어, 지시 및 안내 표시에 대한 기호",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO2575
 ISO 26262-1,South Korea,korea-ks,KS R ISO26262-1,도로 차량 ― 기능안전 ― 제 1부: 용어,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-1
-ISO 26262-10,South Korea,korea-ks,KS R ISO26262-10,도로차량 ― 기능안전 ― 제 10부: KS R ISO26262에 대한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-10
 ISO 26262,South Korea,korea-ks,KS R ISO26262-10,도로차량 ― 기능안전 ― 제 10부: KS R ISO26262에 대한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-10
+ISO 26262-10,South Korea,korea-ks,KS R ISO26262-10,도로차량 ― 기능안전 ― 제 10부: KS R ISO26262에 대한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-10
 ISO 26262-2,South Korea,korea-ks,KS R ISO26262-2,도로 차량 ― 기능안전 ― 제 2부: 기능안전 관리,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-2
 ISO 26262-3,South Korea,korea-ks,KS R ISO26262-3,도로 차량 ― 기능안전 ― 제 3부: 개념 단계,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-3
 ISO 26262-4,South Korea,korea-ks,KS R ISO26262-4,도로 차량 ― 기능안전 ― 제 4부: 시스템 수준의 제품 개발,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-4
@@ -13892,8 +13892,8 @@ ISO 15985,South Korea,korea-ks,KS T ISO15985,플라스틱 ― 혐기적 분해�
 ISO 16101,South Korea,korea-ks,KS T ISO16101,포장 — 위험물 수송용 포장 — 플라스틱 적합성 시험 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20T%20ISO16101
 ISO 16103,South Korea,korea-ks,KS T ISO16103,포장 ─ 위험물 수송 포장 ─ 재생 플라스틱 재료,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20T%20ISO16103
 ISO 16104,South Korea,korea-ks,KS T ISO16104,위험물 수송포장의 시험 방법 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20T%20ISO16104
-ISO 9001,South Korea,korea-ks,KS T ISO16106,"포장 ─ 위험물 수송포장 ─ 위험물 포장, 중형 산적용기(IBCs) 및 대형포장 ─ KS A ISO 9001 적용지침",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20T%20ISO16106
 ISO 16106,South Korea,korea-ks,KS T ISO16106,"포장 ─ 위험물 수송포장 ─ 위험물 포장, 중형 산적용기(IBCs) 및 대형포장 ─ KS A ISO 9001 적용지침",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20T%20ISO16106
+ISO 9001,South Korea,korea-ks,KS T ISO16106,"포장 ─ 위험물 수송포장 ─ 위험물 포장, 중형 산적용기(IBCs) 및 대형포장 ─ KS A ISO 9001 적용지침",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20T%20ISO16106
 ISO 16467,South Korea,korea-ks,KS T ISO16467,포장 ― 위험물 수송을 위한 포장 ― 중형 산적용기(IBCs)의 시험방법 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20T%20ISO16467
 ISO 16883,South Korea,korea-ks,KS T ISO16883,포장 ─ 위험물 수송 포장 ─ 대형 포장물의 시험방법 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20T%20ISO16883
 ISO 1807,South Korea,korea-ks,KS T ISO1807,벌크성 물체를 위한 연속 이송 기계 장치 ― 사각 또는 경사형 용기를 갖는 진동 컨베이어 및 진동 또는 왕복 피더,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20T%20ISO1807
@@ -14619,8 +14619,8 @@ ISO/IEC 14515-1,South Korea,korea-ks,KS X ISO/IEC14515-1,정보 기술 - 이식 
 ISO/IEC 14515-2,South Korea,korea-ks,KS X ISO/IEC14515-2,정보 기술 - 이식 가능 운영 체제 인터페이스(POSIX)의 적합성 시험 방법 - 제2부 : 쉘과 유틸리티 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC14515-2
 ISO/IEC 14568,South Korea,korea-ks,KS X ISO/IEC14568,정보 기술 - 트리 구조 도표용 다이어그램 변환 언어(DXL),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC14568
 ISO/IEC 14662,South Korea,korea-ks,KS X ISO/IEC14662,개방형 EDI 참조 모델,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC14662
-IEC 14755,South Korea,korea-ks,KS X ISO/IEC14755,정보기술 ― 키보드 등 입력 장치를 사용한 UCS 코드의 입력 방법(ISO IEC 14755) (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC14755
 ISO/IEC 14755,South Korea,korea-ks,KS X ISO/IEC14755,정보기술 ― 키보드 등 입력 장치를 사용한 UCS 코드의 입력 방법(ISO IEC 14755) (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC14755
+IEC 14755,South Korea,korea-ks,KS X ISO/IEC14755,정보기술 ― 키보드 등 입력 장치를 사용한 UCS 코드의 입력 방법(ISO IEC 14755) (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC14755
 ISO/IEC 14840,South Korea,korea-ks,KS X ISO/IEC14840,정보기술 — 정보 교환용 12.65 mm 광폭 자기 테이프 카트리지 — 나선형 스캔 기록 — 데이터-D3-1 포맷,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC14840
 ISO/IEC 15408-1,South Korea,korea-ks,KS X ISO/IEC15408-1,정보기술 ― 보안기술 ― 정보기술보안 평가기준 ― 제1부: 개요와 일반모델,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC15408-1
 ISO/IEC 15408-2,South Korea,korea-ks,KS X ISO/IEC15408-2,정보기술 ― 보안기술 ― 정보기술보안 평가기준 ― 제2부: 보안기능 컴포넌트,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC15408-2
@@ -14871,16 +14871,16 @@ ISO 13606-5,South Korea,korea-ks,KS X ISO13606-5,보건의료정보 — 전자�
 ISO 13616,South Korea,korea-ks,KS X ISO13616:2011,금융 서비스 — 국제은행계좌번호(IBAN) — 제1부: 국제은행계좌번호의 구조,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13616%3A2011
 ISO 13655,South Korea,korea-ks,KS X ISO13655,그래픽 기술 — 인쇄 이미지에 대한 분광 측정 및 측색 계산,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13655
 ISO 13656,South Korea,korea-ks,KS X ISO13656,그래픽기술 - 인쇄 프로세스 조절 또는 인쇄물과 검사 평가를 위한 반사 농도계와 반사 색도계의 적용 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13656
-ISO 10756,South Korea,korea-ks,KS X ISO13928,"ISO 10755, ISO 10756, ISO 10757, ISO 10758 그리고 ISO 10759를 위한 응용 지침서 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13928
-ISO 10757,South Korea,korea-ks,KS X ISO13928,"ISO 10755, ISO 10756, ISO 10757, ISO 10758 그리고 ISO 10759를 위한 응용 지침서 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13928
-ISO 10755,South Korea,korea-ks,KS X ISO13928,"ISO 10755, ISO 10756, ISO 10757, ISO 10758 그리고 ISO 10759를 위한 응용 지침서 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13928
 ISO 13928,South Korea,korea-ks,KS X ISO13928,"ISO 10755, ISO 10756, ISO 10757, ISO 10758 그리고 ISO 10759를 위한 응용 지침서 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13928
+ISO 10755,South Korea,korea-ks,KS X ISO13928,"ISO 10755, ISO 10756, ISO 10757, ISO 10758 그리고 ISO 10759를 위한 응용 지침서 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13928
+ISO 10757,South Korea,korea-ks,KS X ISO13928,"ISO 10755, ISO 10756, ISO 10757, ISO 10758 그리고 ISO 10759를 위한 응용 지침서 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13928
 ISO 10759,South Korea,korea-ks,KS X ISO13928,"ISO 10755, ISO 10756, ISO 10757, ISO 10758 그리고 ISO 10759를 위한 응용 지침서 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13928
 ISO 10758,South Korea,korea-ks,KS X ISO13928,"ISO 10755, ISO 10756, ISO 10757, ISO 10758 그리고 ISO 10759를 위한 응용 지침서 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13928
+ISO 10756,South Korea,korea-ks,KS X ISO13928,"ISO 10755, ISO 10756, ISO 10757, ISO 10758 그리고 ISO 10759를 위한 응용 지침서 (폐지)",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO13928
 ISO 14648-1,South Korea,korea-ks,KS X ISO14648-1,마이크로그래픽스 — 단일 내부 표시 장치를 이용하여 영상을 생성하는 컴퓨터 출력 마이크로필름 기록기의 품질 관리 — 제1부: 소프트웨어 시험 도표의 특성,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO14648-1
 ISO 14648-2,South Korea,korea-ks,KS X ISO14648-2,마이크로그래픽스 — 단일 내부 표시 장치를 이용하여 영상을 생성하는 컴퓨터 출력 마이크로필름 기록기의 품질 관리 — 제2부: 사용 방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO14648-2
-ISO 12640,South Korea,korea-ks,KS X ISO14672,그래픽 기술 — ISO 12640에 정의된 자연 SCID 영상의 통계,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO14672
 ISO 14672,South Korea,korea-ks,KS X ISO14672,그래픽 기술 — ISO 12640에 정의된 자연 SCID 영상의 통계,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO14672
+ISO 12640,South Korea,korea-ks,KS X ISO14672,그래픽 기술 — ISO 12640에 정의된 자연 SCID 영상의 통계,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO14672
 ISO 14813-6,South Korea,korea-ks,KS X ISO14813-6,지능형 교통 시스템 — ITS 분야의 참조 모델 아키텍처 — 제6부: ASN.1 사용,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO14813-6
 ISO 14814,South Korea,korea-ks,KS X ISO14814,지능형 교통 시스템 — 차량 및 장비 자동 인식 — 참조 아키텍처 및 용어,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO14814
 ISO 14817,South Korea,korea-ks,KS X ISO14817,지능형 교통 시스템 - 교통 정보 및 제어시스템(TICS) - ITS/TICS 중앙 데이터 등록소 및 ITS/TICS 데이터사전을 위한 요구 사항 (폐지),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO14817
@@ -15232,8 +15232,8 @@ ISO 50003,South Korea,korea-ks,KS A ISO50003,에너지경영시스템 — 에너
 ISO 16117,South Korea,korea-ks,KS A ISO16117,핵 임계 안전성 — 가상임계사고의 핵분열수 추정,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO16117
 ISO 6980-2,South Korea,korea-ks,KS A ISO6980-2,원자력 에너지 — 기준 베타 입자 방사선 — 제2부: 방사선장을 특징짓는 기본 물리량과 관련된 교정(근본) 원칙,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO6980-2
 ISO 6980-3,South Korea,korea-ks,KS A ISO6980-3,원자력 에너지 — 기준 베타 입자 방사선 — 제3부: 면적선량계와 개인선량계의 교정 및 베타선 에너지와 입사각의 함수로서의 각 선량계 반응도 결정,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO6980-3
-ISO 50001,South Korea,korea-ks,KS A ISO50004,"에너지경영시스템 — KS A ISO 50001 에너지경영시스템의 실행, 유지 및 개선을 위한 지침",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO50004
 ISO 50004,South Korea,korea-ks,KS A ISO50004,"에너지경영시스템 — KS A ISO 50001 에너지경영시스템의 실행, 유지 및 개선을 위한 지침",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO50004
+ISO 50001,South Korea,korea-ks,KS A ISO50004,"에너지경영시스템 — KS A ISO 50001 에너지경영시스템의 실행, 유지 및 개선을 위한 지침",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO50004
 ISO 50006,South Korea,korea-ks,KS A ISO50006,에너지경영시스템 — 에너지베이스라인(EnB) 및 에너지성과지표(EnPI)를 이용한 에너지성과 측정 — 일반 원칙 및 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO50006
 ISO 50015,South Korea,korea-ks,KS A ISO50015,에너지경영시스템 — 조직의 에너지성과 측정 및 검증 — 일반 원칙 및 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO50015
 ISO 9241-210,South Korea,korea-ks,KS A ISO9241-210,인간-시스템 상호작용의 인간공학-제210부:상호작용 시스템을 위한 인간중심 디자인,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO9241-210
@@ -15285,8 +15285,8 @@ ISO 27913,South Korea,korea-ks,KS A ISO27913,"이산화탄소 포집, 수송 및
 ISO 24551,South Korea,korea-ks,KS A ISO24551,인간공학 ─ 접근 가능한 설계 ─ 소비자 제품의 음성 안내,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO24551
 ISO 24508,South Korea,korea-ks,KS A ISO24508,인간공학 ─ 접근성 설계 ─ 촉각 기호와 설계를 위한 가이드라인,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO24508
 ISO 24509,South Korea,korea-ks,KS A ISO24509,인간공학 ─ 접근성 설계 ─ 모든 연령의 사람을 위한 글자의 최소 가독 크기 추정 방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO24509
-ISO 22313,South Korea,korea-ks,KS A ISO22313,보안 및 회복력 ─ 업무 연속성 관리시스템 ─ KS A ISO 22301의 적용 가이던스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO22313
 ISO 22301,South Korea,korea-ks,KS A ISO22313,보안 및 회복력 ─ 업무 연속성 관리시스템 ─ KS A ISO 22301의 적용 가이던스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO22313
+ISO 22313,South Korea,korea-ks,KS A ISO22313,보안 및 회복력 ─ 업무 연속성 관리시스템 ─ KS A ISO 22301의 적용 가이던스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO22313
 ISO 22341,South Korea,korea-ks,KS A ISO22341,보안 및 회복력 ─ 보호 보안 ─ 범죄예방환경설계(CPTED) 가이드라인,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO22341
 ISO 22383,South Korea,korea-ks,KS A ISO22383,"보안 및 회복력 — 제품 및 문서의 진품성, 무결성 및 신뢰성 — 물질적 재화 진품입증솔루션의 선택 및 성능평가 가이드라인",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20A%20ISO22383
 ISO 29991,South Korea,korea-ks,KS S ISO29991,언어학습서비스 — 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20S%20ISO29991
@@ -15713,8 +15713,8 @@ ISO 14139,South Korea,korea-ks,KS B ISO14139,유량측정 ― 구조물을 이�
 ISO 22975-1,South Korea,korea-ks,KS B ISO22975-1,태양 에너지 — 태양열 집열기 구성품 및 재료 — 제1부: 진공관 — 내구성 및 성능,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO22975-1
 ISO 22975-2,South Korea,korea-ks,KS B ISO22975-2,태양 에너지 — 태양열 집열기 구성품 및 재료 — 제2부: 태양열용 히트파이프 — 내구성 및 성능,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO22975-2
 ISO 22975-5,South Korea,korea-ks,KS B ISO22975-5,태양 에너지 — 태양열 집열기 구성품 및 재료 — 제5부: 단열재 내구성 및 성능,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO22975-5
-ISO 8100-2,South Korea,korea-ks,KS B ISO/TS8100-3,승객과 화물 운송용 엘리베이터 — 제3부: KS B ISO 8100-1 또는 KS B ISO 8100-2에 포함되지 않은 기타 표준들(ASME A17.1/CSA ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO/TS8100-3
 ISO 8100-1,South Korea,korea-ks,KS B ISO/TS8100-3,승객과 화물 운송용 엘리베이터 — 제3부: KS B ISO 8100-1 또는 KS B ISO 8100-2에 포함되지 않은 기타 표준들(ASME A17.1/CSA ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO/TS8100-3
+ISO 8100-2,South Korea,korea-ks,KS B ISO/TS8100-3,승객과 화물 운송용 엘리베이터 — 제3부: KS B ISO 8100-1 또는 KS B ISO 8100-2에 포함되지 않은 기타 표준들(ASME A17.1/CSA ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO/TS8100-3
 ISO 8100-2,South Korea,korea-ks,KS B ISO8100-2,"승객과 화물 운송용 엘리베이터 — 제2부: 엘리베이터 부품의 설계 규칙, 계산, 검사 및 시험",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO8100-2
 ISO 8102-20,South Korea,korea-ks,KS B ISO8102-20,"엘리베이터, 에스컬레이터 및 무빙워크에 대한 전기적 요구사항 — 제20부: 사이버 보안",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO8102-20
 ISO 22915-11,South Korea,korea-ks,KS B ISO22915-11,산업용 트럭 – 안정도 검증 – 제11부: 산업용 신축식 리치 트럭,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO22915-11
@@ -15750,8 +15750,8 @@ ISO 22423,South Korea,korea-ks,KS B ISO22423,"포일 베어링 — 포일 스러
 ISO 1132-1,South Korea,korea-ks,KS B ISO1132-1,구름 베어링 — 공차 — 제1부: 용어와 정의,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO1132-1
 ISO 1132-2,South Korea,korea-ks,KS B ISO1132-2,구름 베어링 — 공차 — 제2부: 측정과 게이지 검사의 원칙과 방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO1132-2
 ISO 7146-2,South Korea,korea-ks,KS B ISO7146-2,플레인 베어링 — 메탈 동압 베어링 손상의 외관과 특성화 — 제2부: 캐비테이션 침식과 대응방안,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO7146-2
-ISO 3834,South Korea,korea-ks,KS B ISO3834-6,금속 재료의 용융 용접에 대한 품질 요구사항 — 제6부: KS B ISO 3834 시리즈의 이행지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3834-6
 ISO 3834-6,South Korea,korea-ks,KS B ISO3834-6,금속 재료의 용융 용접에 대한 품질 요구사항 — 제6부: KS B ISO 3834 시리즈의 이행지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3834-6
+ISO 3834,South Korea,korea-ks,KS B ISO3834-6,금속 재료의 용융 용접에 대한 품질 요구사항 — 제6부: KS B ISO 3834 시리즈의 이행지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO3834-6
 ISO 19675,South Korea,korea-ks,KS B ISO19675,비파괴검사 — 초음파탐상검사 — 위상배열검사(PAUT)용 교정 블록 시방,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO19675
 ISO 24378,South Korea,korea-ks,KS B ISO24378,사료기기 - 용어,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20B%20ISO24378
 IEC 62047-5,South Korea,korea-ks,KS C IEC62047-5,반도체 소자 — 초소형 전자기계소자 — 제5부: RF MEMS 스위치,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62047-5
@@ -16114,8 +16114,8 @@ IEC 61810-3,South Korea,korea-ks,KS C IEC61810-3,전기기계식 기본형 계�
 IEC 62282-4-102,South Korea,korea-ks,KS C IEC62282-4-102,연료전지 기술 ㅡ 제4-102부: 산업용 전동트럭용 연료전지 시스템 ㅡ 성능 시험방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62282-4-102
 IEC 61557-15,South Korea,korea-ks,KS C IEC61557-15,"교류 1 000 V 및 직류 1 500 V 이하 저압 배전 계통의 전기적 안전성 — 보호 수단의 시험, 측정 또는 감시용 장비 — 제15부: IT 시스템의 절연감",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61557-15
 IEC 61850,South Korea,korea-ks,KS C IECTR61850-90-1,전력 유틸리티 자동화를 위한 통신 네트워크 및 시스템－제90－1부: 변전소간 통신을 위한 IEC 61850 사용,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTR61850-90-1
-IEC 61850-7-6,South Korea,korea-ks,KS C IEC61850-7-6,전력 유틸리티 자동화를 위한 통신 네트워크 및 시스템－제7-6부: IEC 61850을 사용한 기본 애플리케이션 프로파일(BAP)의 정의에 대한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61850-7-6
 IEC 61850,South Korea,korea-ks,KS C IEC61850-7-6,전력 유틸리티 자동화를 위한 통신 네트워크 및 시스템－제7-6부: IEC 61850을 사용한 기본 애플리케이션 프로파일(BAP)의 정의에 대한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61850-7-6
+IEC 61850-7-6,South Korea,korea-ks,KS C IEC61850-7-6,전력 유틸리티 자동화를 위한 통신 네트워크 및 시스템－제7-6부: IEC 61850을 사용한 기본 애플리케이션 프로파일(BAP)의 정의에 대한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61850-7-6
 IEC 61850,South Korea,korea-ks,KS C IECTS61850-7-7,전력 유틸리티 자동화를 위한 통신 네트워크 및 시스템－제7-7부: 툴을 위한 KS C IEC 61850 관련 데이터 모델의 기계 처리 가능 포맷,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS61850-7-7
 IEC 61968-8,South Korea,korea-ks,KS C IEC61968-8,전력회사의 애플리케이션 통합-배전관리를 위한 시스템 인터페이스－제8부: 고객 운영을 위한 인터페이스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61968-8
 IEC 62351-7,South Korea,korea-ks,KS C IEC62351-7,전력 시스템 관리 및 관련 정보 교환－데이터와 통신 보안－제7부: 네트워크와 시스템 관리(NSM) 데이터 객체 모델,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62351-7
@@ -16297,8 +16297,8 @@ IEC 60455-3-8,South Korea,korea-ks,KS C IEC60455-3-8,전기절연용 반응성 �
 IEC 60674-3-8,South Korea,korea-ks,KS C IEC60674-3-8,전기용 플라스틱 필름 — 제3부: 개별 재료에 대한 규격 — 제8절: 전기 절연용 균형 2축 배향 폴리에틸렌 나프탈레이트(PEN) 필름,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC60674-3-8
 IEC 60068,South Korea,korea-ks,KS C IECTR60721-4-2,환경 조건의 분류 — 제4-2부: IEC 60068의 환경 시험에 대한 IEC 60721-3의 환경 조건 등급들의 상관 관계 및 변환에 대한 지침 — 운송,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTR60721-4-2
 IEC 60721-3,South Korea,korea-ks,KS C IECTR60721-4-2,환경 조건의 분류 — 제4-2부: IEC 60068의 환경 시험에 대한 IEC 60721-3의 환경 조건 등급들의 상관 관계 및 변환에 대한 지침 — 운송,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTR60721-4-2
-IEC 60068,South Korea,korea-ks,KS C IECTS60721-4-3,환경 조건의 분류 — 제4-3부: KS C IEC 60068의 환경 시험에 대한 KS C IEC 60721-3 시리즈의 환경 조건 등급들의 상관관계 및 변환에 대,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS60721-4-3
 IEC 60721,South Korea,korea-ks,KS C IECTS60721-4-3,환경 조건의 분류 — 제4-3부: KS C IEC 60068의 환경 시험에 대한 KS C IEC 60721-3 시리즈의 환경 조건 등급들의 상관관계 및 변환에 대,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS60721-4-3
+IEC 60068,South Korea,korea-ks,KS C IECTS60721-4-3,환경 조건의 분류 — 제4-3부: KS C IEC 60068의 환경 시험에 대한 KS C IEC 60721-3 시리즈의 환경 조건 등급들의 상관관계 및 변환에 대,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS60721-4-3
 IEC 60068,South Korea,korea-ks,KS C IECTR60721-4-4,환경 조건의 분류 — 제4-4부: IEC 60068의 환경 시험에 대한 IEC 60721-3의 환경 조건 등급들의 상관 관계 및 변환에 대한 지침 — 실외 장소에,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTR60721-4-4
 IEC 60721-3,South Korea,korea-ks,KS C IECTR60721-4-4,환경 조건의 분류 — 제4-4부: IEC 60068의 환경 시험에 대한 IEC 60721-3의 환경 조건 등급들의 상관 관계 및 변환에 대한 지침 — 실외 장소에,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTR60721-4-4
 IEC 62497-2,South Korea,korea-ks,KS C IEC62497-2:2010,철도 적용 ─ 절연 협조 ─ 제2부: 과전압 및 관련 보호,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62497-2%3A2010
@@ -16393,9 +16393,9 @@ IEC 61340-4-7,South Korea,korea-ks,KS C IEC61340-4-7,정전기학 — 제4-7부:
 IEC 61340-4-8,South Korea,korea-ks,KS C IEC61340-4-8,정전기학 — 제4-8부: 구체적 적용 분야에 대한 표준 시험방법 — ESD 차폐성 — 봉투,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61340-4-8
 IEC 61340-4-9,South Korea,korea-ks,KS C IEC61340-4-9,정전기학 – 제4-9부: 구체적 적용 분야에 대한 표준 시험방법 – 의류,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC61340-4-9
 IEC 61175,South Korea,korea-ks,KS C IECTS62771,"KS C IEC 81346-1 및 IEC 81346-2, IEC 61175, KS C IEC 61666, KS C IEC 81714-3의 내용을 다루는 정보 모델",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS62771
-IEC 81346-1,South Korea,korea-ks,KS C IECTS62771,"KS C IEC 81346-1 및 IEC 81346-2, IEC 61175, KS C IEC 61666, KS C IEC 81714-3의 내용을 다루는 정보 모델",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS62771
-IEC 81346-2,South Korea,korea-ks,KS C IECTS62771,"KS C IEC 81346-1 및 IEC 81346-2, IEC 61175, KS C IEC 61666, KS C IEC 81714-3의 내용을 다루는 정보 모델",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS62771
 IEC 61666,South Korea,korea-ks,KS C IECTS62771,"KS C IEC 81346-1 및 IEC 81346-2, IEC 61175, KS C IEC 61666, KS C IEC 81714-3의 내용을 다루는 정보 모델",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS62771
+IEC 81346-2,South Korea,korea-ks,KS C IECTS62771,"KS C IEC 81346-1 및 IEC 81346-2, IEC 61175, KS C IEC 61666, KS C IEC 81714-3의 내용을 다루는 정보 모델",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS62771
+IEC 81346-1,South Korea,korea-ks,KS C IECTS62771,"KS C IEC 81346-1 및 IEC 81346-2, IEC 61175, KS C IEC 61666, KS C IEC 81714-3의 내용을 다루는 정보 모델",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IECTS62771
 IEC 62847,South Korea,korea-ks,KS C IEC62847,철도 적용 — 철도 차량 — 전기 커넥터 — 요구사항 및 시험 방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62847
 IEC 62486,South Korea,korea-ks,KS C IEC62486,철도 적용 — 집전 시스템 — 팬터그래프와 전차선 사이 상호작용에 대한 기술기준 (자유접근 달성을 위함),https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62486
 IEC 62625-1,South Korea,korea-ks,KS C IEC62625-1,전자 철도 장비 — 차상 운행 자료 기록 시스템 — 1부: 시스템 사양,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20C%20IEC62625-1
@@ -16761,8 +16761,8 @@ ISO 19289,South Korea,korea-ks,KS I ISO19289,공기질 - 기상학 - 기상관�
 ISO 21413,South Korea,korea-ks,KS I ISO21413,우물 내 지하수위 수동 측정방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO21413
 ISO 14686,South Korea,korea-ks,KS I ISO14686,"수리상수 결정 ─ 우물 양수 시험 ─ 설계, 수행, 사용에 대한 고려사항 및 지침",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14686
 ISO 14644-16,South Korea,korea-ks,KS I ISO14644-16,클린룸 및 제어된 환경 — 제16부: 클린룸 및 격리 장비에서의 에너지효율,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14644-16
-ISO 14002-1,South Korea,korea-ks,KS I ISO14002-1,환경경영시스템 — 환경 주제 영역 내의 환경 측면 및 여건을 다루기 위한 KS I ISO 14001 사용 지침 — 제1부: 일반사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14002-1
 ISO 14001,South Korea,korea-ks,KS I ISO14002-1,환경경영시스템 — 환경 주제 영역 내의 환경 측면 및 여건을 다루기 위한 KS I ISO 14001 사용 지침 — 제1부: 일반사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14002-1
+ISO 14002-1,South Korea,korea-ks,KS I ISO14002-1,환경경영시스템 — 환경 주제 영역 내의 환경 측면 및 여건을 다루기 위한 KS I ISO 14001 사용 지침 — 제1부: 일반사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14002-1
 ISO 14007,South Korea,korea-ks,KS I ISO14007,환경경영 — 환경 비용 및 편익 결정을 위한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14007
 ISO 14008,South Korea,korea-ks,KS I ISO14008,환경영향 및 관련된 환경측면에 대한 금전적 평가,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14008
 ISO 14033,South Korea,korea-ks,KS I ISO14033,환경경영 — 정량적 환경정보 — 지침 및 예시,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO14033
@@ -16788,8 +16788,8 @@ ISO 24516-3,South Korea,korea-ks,KS I ISO24516-3,상 · 하수도 시스템의 �
 ISO 24518,South Korea,korea-ks,KS I ISO24518,상 · 하수도 서비스와 관련된 활동 — 상 · 하수도 사업자의 위기관리,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO24518
 ISO 24521,South Korea,korea-ks,KS I ISO24521,상 • 하수도 서비스와 관련된 활동 — 개인하수도 서비스 관리 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO24521
 ISO 24523,South Korea,korea-ks,KS I ISO24523,상 • 하수도 시스템과 관련된 서비스 활동 — 상 • 하수도 사업자의 벤치마킹 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO24523
-ISO 24510,South Korea,korea-ks,KS I ISOTR24514,"상 · 하수도 서비스와 관련된 활동 — KS I ISO 24510, KS I ISO 24511 및 KS I ISO 24512 관련 방법론을 활용한 성과지표 사용 ",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISOTR24514
 ISO 24511,South Korea,korea-ks,KS I ISOTR24514,"상 · 하수도 서비스와 관련된 활동 — KS I ISO 24510, KS I ISO 24511 및 KS I ISO 24512 관련 방법론을 활용한 성과지표 사용 ",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISOTR24514
+ISO 24510,South Korea,korea-ks,KS I ISOTR24514,"상 · 하수도 서비스와 관련된 활동 — KS I ISO 24510, KS I ISO 24511 및 KS I ISO 24512 관련 방법론을 활용한 성과지표 사용 ",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISOTR24514
 ISO 21226,South Korea,korea-ks,KS I ISO21226,토양의 질 — 토양 자력측정방법을 이용한 독성 원소로 오염된 토양의 선별 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO21226
 ISO 28902-1,South Korea,korea-ks,KS I ISO28902-1,공기질―환경기상학―제1부: 라이다를 이용한 가시거리 지상 원격관측,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO28902-1
 ISO 20468-3,South Korea,korea-ks,KS I ISO20468-3,물 재이용 처리기술의 성능평가 지침 — 제3부: 오존처리기술,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20I%20ISO20468-3
@@ -17105,8 +17105,8 @@ ISO 14960-2,South Korea,korea-ks,KS M ISO14960-2,튜브리스 타이어 ─ 밸�
 ISO 1133-2,South Korea,korea-ks,KS M ISO1133-2,플라스틱 － 열가소성 플라스틱의 용융 질량 흐름률(MFR) 및 용융 체적 흐름률(MVR)의 측정 － 제2부: 시간-온도 이력 및/또는 수분에 민감한 물질을 위한 ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO1133-2
 ISO 6964,South Korea,korea-ks,KS M ISO6964,폴리올레핀 관 및 이음관 ㅡ 소성 및 열분해로 카본 블랙 함유량 측정 ㅡ 시험 방법 및 기본 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO6964
 ISO 3233-1,South Korea,korea-ks,KS M ISO3233-1,도료와 바니시 — 비휘발분의 부피분율 측정 — 제1부: 도장된 시험 패널을 사용해서 비휘발분을 측정하고 아르키메데스 원리로 건조 도막 밀도를 측정하기 위한 방법,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO3233-1
-ISO 3251,South Korea,korea-ks,KS M ISO3233-2,도료와 바니시 — 비휘발분의 부피분율 측정 — 제2부: KS M ISO 3251에 따른 비휘발분 함량 측정 및 아르키메데스 원리를 이용한 도장 시험 패널에 대한 ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO3233-2
 ISO 3233-2,South Korea,korea-ks,KS M ISO3233-2,도료와 바니시 — 비휘발분의 부피분율 측정 — 제2부: KS M ISO 3251에 따른 비휘발분 함량 측정 및 아르키메데스 원리를 이용한 도장 시험 패널에 대한 ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO3233-2
+ISO 3251,South Korea,korea-ks,KS M ISO3233-2,도료와 바니시 — 비휘발분의 부피분율 측정 — 제2부: KS M ISO 3251에 따른 비휘발분 함량 측정 및 아르키메데스 원리를 이용한 도장 시험 패널에 대한 ,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO3233-2
 ISO 3233-3,South Korea,korea-ks,KS M ISO3233-3,도료와 바니시 — 비휘발분의 부피분율 측정 — 제3부: 도료의 밀도와 도료 내 희석제 밀도로부터 KS M ISO 3251에 따라 측정한 비휘발분 함량 계산에 의한,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO3233-3
 ISO 16474-1,South Korea,korea-ks,KS M ISO16474-1,도료와 바니시 ㅡ 실험실 광원에 의한 폭로 시험방법 ㅡ 제1부: 일반 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO16474-1
 ISO 16474-2,South Korea,korea-ks,KS M ISO16474-2,도료와 바니시 ㅡ 실험실 광원에 의한 폭로 시험방법 ㅡ 제2부: 제논-아크 램프,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20M%20ISO16474-2
@@ -17555,8 +17555,8 @@ ISO 7870-6,South Korea,korea-ks,KS Q ISO7870-6,관리도 — 제6부: EWMA 관�
 ISO 9001,South Korea,korea-ks,KS Q ISOTS9002,품질경영시스템 ─ ISO9001:2015의 적용을 위한 가이드라인,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISOTS9002
 ISO 45001,South Korea,korea-ks,KS Q ISO45001,안전보건경영시스템 — 요구사항 및 활용 가이던스,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO45001
 ISO 31000,South Korea,korea-ks,KS Q ISO31000,리스크관리 — 가이드라인,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO31000
-ISO 2859,South Korea,korea-ks,KS Q ISO28590,계수형 샘플링검사 절차 ― 계수형 샘플링검사용 KS Q ISO 2859 시리즈 표준의 개요,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO28590
 ISO 28590,South Korea,korea-ks,KS Q ISO28590,계수형 샘플링검사 절차 ― 계수형 샘플링검사용 KS Q ISO 2859 시리즈 표준의 개요,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO28590
+ISO 2859,South Korea,korea-ks,KS Q ISO28590,계수형 샘플링검사 절차 ― 계수형 샘플링검사용 KS Q ISO 2859 시리즈 표준의 개요,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO28590
 ISO 28591,South Korea,korea-ks,KS Q ISO28591,계수형 축차 샘플링검사 방식,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO28591
 ISO 28592,South Korea,korea-ks,KS Q ISO28592,생산자위험품질(PRQ) 및 소비자위험품질(CRQ) 지표형 최소 샘플크기 계수형 2회 샘플링검사 방식,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO28592
 ISO 28593,South Korea,korea-ks,KS Q ISO28593,계수형 합격판정 샘플링검사 절차 ― 출검품질 통제를 위한 신용도 원리 기반 합격판정개수 0 샘플링검사 시스템,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20Q%20ISO28593
@@ -17663,8 +17663,8 @@ ISO 13064-1,South Korea,korea-ks,KS R ISO13064-1,배터리-전기 모페드와 �
 ISO 13064-2,South Korea,korea-ks,KS R ISO13064-2,배터리-전기 모페드와 모터사이클 — 성능 — 제2부: 도로 운전 특성,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO13064-2
 ISO 18300,South Korea,korea-ks,KS R ISO18300,전기자동차 — 납 축전지 또는 커패시터와 연결된 리튬이온 배터리 시스템의 시험 제원,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO18300
 ISO 27145-4,South Korea,korea-ks,KS R ISO27145-4,도로 차량 — 세계적 조화 온보드 진단(WWH-OBD) 통신 요구사항의 구현 — 제4부: 차량과 시험 장비 간 연결,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO27145-4
-ISO 26262-12,South Korea,korea-ks,KS R ISO26262-12,도로 차량 — 기능 안전 — 제12부: 모터사이클에 대한 KS R ISO 26262 적용,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-12
 ISO 26262,South Korea,korea-ks,KS R ISO26262-12,도로 차량 — 기능 안전 — 제12부: 모터사이클에 대한 KS R ISO 26262 적용,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-12
+ISO 26262-12,South Korea,korea-ks,KS R ISO26262-12,도로 차량 — 기능 안전 — 제12부: 모터사이클에 대한 KS R ISO 26262 적용,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-12
 ISO 19206-1,South Korea,korea-ks,KS R ISO19206-1,"도로 차량 — 능동 안전 기능 평가를 위한 표적 차량, 취약한 도로 사용자 및 기타 물체의 시험 장치 — 제1부: 승용차 후미 표적에 대한 요구사항",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO19206-1
 ISO 19206-2,South Korea,korea-ks,KS R ISO19206-2,"도로 차량 — 능동 안전 기능 평가를 위한 표적 차량, 취약한 도로 사용자 및 기타 물체의 시험 장치 — 제2부: 보행자 표적에 대한 요구사항",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO19206-2
 ISO 27145-6,South Korea,korea-ks,KS R ISO27145-6,도로 차량 — 세계적 조화 온보드 진단(WWH-OBD) 통신 요구사항의 구현 — 제6부: 외부 시험 장비,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO27145-6
@@ -17686,8 +17686,8 @@ ISO 19642-7,South Korea,korea-ks,KS R ISO19642-7,"도로 차량 — 자동차 �
 ISO 19642-8,South Korea,korea-ks,KS R ISO19642-8,"도로 차량 — 자동차 케이블 — 제8부: 30 V a.c. 또는 60 V d.c. 원형, 시스형, 차폐형 또는 비차폐형 다중 또는 단일 코어 알루미늄 도체 케이블",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO19642-8
 ISO 19642-9,South Korea,korea-ks,KS R ISO19642-9,"도로 차량 — 자동차 케이블 — 제9부: 600 V a.c. 또는 900 V d.c. 및 1 000 V a.c. 또는 1 500 V d.c. 원형, 시스형, 차폐",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO19642-9
 ISO 19642-10,South Korea,korea-ks,KS R ISO19642-10,"도로 차량 — 자동차 케이블 — 제10부: 600 V a.c. 또는 900 V d.c. 및 1 000 V a.c. 또는 1 500 V d.c. 원형, 시스형, 차",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO19642-10
-ISO 26262-11,South Korea,korea-ks,KS R ISO26262-11,도로 차량 — 기능 안전 — 제11부: 반도체에 KS R ISO 26262의 적용에 관한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-11
 ISO 26262,South Korea,korea-ks,KS R ISO26262-11,도로 차량 — 기능 안전 — 제11부: 반도체에 KS R ISO 26262의 적용에 관한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-11
+ISO 26262-11,South Korea,korea-ks,KS R ISO26262-11,도로 차량 — 기능 안전 — 제11부: 반도체에 KS R ISO 26262의 적용에 관한 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO26262-11
 ISO 20080,South Korea,korea-ks,KS R ISO20080,"도로 차량 — 원격 진단 지원을 위한 정보 — 일반 요구사항, 정의 및 유즈케이스",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO20080
 IEC 61851-25,South Korea,korea-ks,KS R IEC61851-25,전기자동차 전도성 충전시스템 — 제25부: 전기적 분리 보호형 직류 전기자동차 전원공급장치,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20IEC61851-25
 ISO 19453-1,South Korea,korea-ks,KS R ISO19453-1,도로 차량 — 전기자동차 구동 시스템의 전기 및 전자 장비에 대한 환경조건과 시험 — 제1부: 일반사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20R%20ISO19453-1
@@ -18056,8 +18056,8 @@ ISO 10303-112,South Korea,korea-ks,KS X ISO10303-112,산업 자동화 시스템 
 ISO 8000-8,South Korea,korea-ks,KS X ISO8000-8,데이터 품질 — 제8부: 정보 및 데이터 품질: 개념 및 측정,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO8000-8
 IEC 62443-4-1,South Korea,korea-ks,KS X IEC62443-4-1,산업제어시스템 보안 — 제4-1부: 안전한 제품 개발 생명주기 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20IEC62443-4-1
 ISO/IEC 30071-1,South Korea,korea-ks,KS X ISO/IEC30071-1,정보기술 — 사용자 인터페이스 접근성 개발 — 제1부: 접근 가능한 ICT 제품 및 서비스 개발을 위한 실무지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC30071-1
-ISO/IEC 27701,South Korea,korea-ks,KS X ISO/IEC27701,보안기술 ─ 개인정보 보호 관리를 위한 KS X ISO/IEC 27001과 KS X ISO/IEC 27002의 확장 ─ 요구사항과 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC27701
 ISO/IEC 27002,South Korea,korea-ks,KS X ISO/IEC27701,보안기술 ─ 개인정보 보호 관리를 위한 KS X ISO/IEC 27001과 KS X ISO/IEC 27002의 확장 ─ 요구사항과 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC27701
+ISO/IEC 27701,South Korea,korea-ks,KS X ISO/IEC27701,보안기술 ─ 개인정보 보호 관리를 위한 KS X ISO/IEC 27001과 KS X ISO/IEC 27002의 확장 ─ 요구사항과 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC27701
 ISO/IEC 27001,South Korea,korea-ks,KS X ISO/IEC27701,보안기술 ─ 개인정보 보호 관리를 위한 KS X ISO/IEC 27001과 KS X ISO/IEC 27002의 확장 ─ 요구사항과 지침,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC27701
 ISO/IEC 18039,South Korea,korea-ks,KS X ISO/IEC18039:2019,"정보 기술 — 컴퓨터 그래픽, 영상 처리 및 환경 데이터 표현 — 혼합/증강현실(MAR) 기준 모델",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC18039%3A2019
 ISO/IEC 21823-1,South Korea,korea-ks,KS X ISO/IEC21823-1:2019,사물인터넷(IoT) — 사물인터넷시스템의 상호운용성 — 1부: 프레임워크,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC21823-1%3A2019
@@ -18148,8 +18148,8 @@ ISO 20228,South Korea,korea-ks,KS X ISO20228,통역 서비스 — 법률 통역 
 ISO 20771,South Korea,korea-ks,KS X ISO20771,법률 번역 — 요구사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO20771
 ISO 12616-1,South Korea,korea-ks,KS X ISO12616-1,다국어 커뮤니케이션을 지원하는 전문용어 연구 ─ 제1부: 번역 지향 전문용어 편찬의 기본 사항,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO12616-1
 ISO 19160-3,South Korea,korea-ks,KS X ISO19160-3,주소 - 제3부: 주소 데이터 품질,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO19160-3
-ISO/IEC 19794,South Korea,korea-ks,KS X ISO/IECTR49794,정보기술 — ID문서에 대한 ISO/IEC 19794:2005 시리즈에서 ISO/IEC 39794 시리즈로의 전환 사례,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IECTR49794
 ISO/IEC 39794,South Korea,korea-ks,KS X ISO/IECTR49794,정보기술 — ID문서에 대한 ISO/IEC 19794:2005 시리즈에서 ISO/IEC 39794 시리즈로의 전환 사례,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IECTR49794
+ISO/IEC 19794,South Korea,korea-ks,KS X ISO/IECTR49794,정보기술 — ID문서에 대한 ISO/IEC 19794:2005 시리즈에서 ISO/IEC 39794 시리즈로의 전환 사례,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IECTR49794
 ISO/IEC 23220-1,South Korea,korea-ks,KS X ISO/IEC23220-1,개인 식별용 카드 및 보안 장치 — 모바일 장치를 통한 ID 관리를 위한 빌딩 블록 — 제1부: 모바일 eID 시스템의 일반 시스템 아키텍처,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO/IEC23220-1
 ISO 19170-1,South Korea,korea-ks,KS X ISO19170-1,지리정보 - 이산 전역 그리드 체계 사양 - 제1부: 핵심 참조 체계 및 연산 그리고 등면적 지구 참조 체계,https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO19170-1
 ISO 22400-1,South Korea,korea-ks,KS X ISO22400-1,"자동화 시스템 및 통합 — 제조 운영 관리를 위한 핵심성과지표(KPI) — 제1부: 개요, 개념 및 용어",https://standard.go.kr/KSCI/standardIntro/getStandardSearchList.do?ksNo=KS%20X%20ISO22400-1

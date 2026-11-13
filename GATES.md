@@ -4,10 +4,10 @@ OWNS: stdcollect.py, catalog/**, analysis/**, countries.json, registry.json, RES
 
 Scope: close every pending item from the linkage research: China adoption flag, wider EU coverage, eCFR incorporated-by-reference links, computed sector chains, degree of equivalence, Japan JISC, country URL checks, report refresh, and a clean pushed repo.
 
-- [ ] G1: china.csv carries an adopts_intl column for every one of >=70000 rows, with both yes and no values
+- [x] G1: china.csv carries an adopts_intl column for every one of >=70000 rows, with both yes and no values
   CHECK: node analysis/verify/g1.mjs
   EXPECT: G1 verified
-  EVIDENCE: pending
+  EVIDENCE: exit=0; shell=/bin/sh; cwd=/Users/umashankar/standards; path=8ce7a6ec4399/26 entries; EXPECT=matched; output-sha256=5305f3d187c0b15991b89b7178e903bfb72e806effa896293b2616084ffad452; output-bytes=52
 
 - [ ] G2: eu_harmonised.csv covers at least 25 distinct legislations
   CHECK: node analysis/verify/g2.mjs
