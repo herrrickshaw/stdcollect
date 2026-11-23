@@ -1,0 +1,5 @@
+[run]
+source = stdcollect, analysis
+omit =
+    tests/*
+    */conftest.py
