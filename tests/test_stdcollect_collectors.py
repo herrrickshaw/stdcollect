@@ -257,6 +257,13 @@ def _china_tr(h, gb, adopt, title, status, date, extra="-"):
     return f"<tr><a onclick=\"showInfo('{h}')\">i</a>" + "".join(f"<td>{c}</td>" for c in cells) + "</tr>"
 
 
+def test_china_rows_need_nine_cells(monkeypatch):
+    base = "https://openstd.samr.gov.cn/bzgk/std/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&page={}&pageSize=50"
+    eight = "<tr><a onclick=\"showInfo('AB12')\">i</a>" + "".join(f"<td>{c}</td>" for c in "12345678") + "</tr>"
+    fake_get(monkeypatch, {base.format(1): eight})
+    assert sc.collect_china(None) == []
+
+
 def test_collect_china(monkeypatch):
     base = "https://openstd.samr.gov.cn/bzgk/std/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&page={}&pageSize=50"
     p1 = (_china_tr("AB12", "GB/T 1-2020", "采", "Title A", "现行", "2020-05-01")
@@ -385,7 +392,8 @@ def _eu_setup(monkeypatch, monkeypatch_env=True):
                ("Generated on 2026", "x", "ignored", 0, 0, 0, 0, 0),
                ("Dir", "T", None, 0, 0, 0, 0, 0),
                ("Dir", "T", "short", 0, 0),
-               None]]
+               None, ("Dir", "T", "EN 7:2000\nSeven cells", 0, 0, 0, 0),
+               ("L" * 80, "T", "EN 8:2001\nLong legislation", 0, 0, 0, 0, None)]]
     return pages, {b"A": rows_a, b"B": RuntimeError("bad xlsx"),
                    b"T": [[("Toy Directive", "Toys", "EN 71-1:2014+A1\nToy safety", 0, 0, 0, 0, None)]]}
 
@@ -395,8 +403,9 @@ def test_collect_eu_harmonised(monkeypatch, capsys):
     fake_get(monkeypatch, pages)
     _install_openpyxl(monkeypatch, books)
     rows = sc.collect_eu_harmonised(None)
-    assert [r["id"] for r in rows] == ["EN 1234:2010", "EN 9999", "EN 71-1:2014+A1"]
-    r0, r1, r2 = rows
+    assert [r["id"] for r in rows] == ["EN 1234:2010", "EN 9999", "EN 8:2001", "EN 71-1:2014+A1"]    # 7-column row skipped
+    r0, r1, rl, r2 = rows
+    assert rl["industries"] == "eu;machinery;t;" + "L" * 60                         # legislation name cut at 60 chars
     assert r0["title"] == "Machine safety" and r0["year"] == "2010" and r0["status"] == "cited in OJEU"
     assert r0["industries"] == "eu;machinery;type a;Directive 2006/42/EC" and r0["access"] == "paid"
     assert r1["status"] == "withdrawn" and r1["title"] == "" and r1["year"] == ""
@@ -437,6 +446,15 @@ def test_eu_harmonised_pace_from_env(monkeypatch, _no_sleep):
     _install_openpyxl(monkeypatch, books)
     sc.collect_eu_harmonised(None)
     assert set(_no_sleep) == {2.5}
+
+
+def test_eu_harmonised_default_pace_is_three_seconds(monkeypatch, _no_sleep):
+    pages, books = _eu_setup(monkeypatch)
+    monkeypatch.delenv("STD_EU_PACE", raising=False)
+    fake_get(monkeypatch, pages)
+    _install_openpyxl(monkeypatch, books)
+    sc.collect_eu_harmonised(None)
+    assert set(_no_sleep) == {3.0}
 
 
 def test_eu_harmonised_requires_openpyxl(monkeypatch):
@@ -501,11 +519,15 @@ def test_collect_ecfr_ibr(monkeypatch, capsys):
     fake_get(monkeypatch, {"https://www.ecfr.gov/api/versioner/v1/titles.json": TITLES})
     xml = ("<DIV><P>ASTM A106-19a Standard Specification for Seamless Carbon Steel Pipe, IBR approved for this section.</P>"
            "<P>NIST SP 800-53, security controls; API 650 Welded Tanks, incorporated by reference. ASTM A106-19a again.</P>"
-           "<P>Nothing relevant here.</P></DIV>").encode()
+           "<P>Nothing relevant here.</P><P>FIPS 140-2 Security Requirements, IBR approved.</P>"
+           "<P>ASME B31.3 " + "very long title " * 12 + ", IBR approved.</P></DIV>").encode()
     reqs = _ibr_urlopen(monkeypatch, lambda u: gzip.compress(xml) if "part=1910&" in u else (xml if "part=1926" in u else RuntimeError("500")))
     rows = sc.collect_ecfr_ibr(None)
     ids = [(r["id"], r["access"]) for r in rows]
     assert ids[0] == ("ASTM A106-19a", "paid")
+    assert ("FIPS 140-2", "free") in ids and ("ASME B31.3", "paid") in ids
+    long = [r for r in rows if r["id"] == "ASME B31.3"][0]
+    assert len(long["title"]) == 109        # 110-char capture, leading space stripped
     assert ("NIST SP 800-53", "free") in ids and any(i[0].startswith("API 650") for i in ids)
     assert len([r for r in rows if r["id"] == "ASTM A106-19a" and "1910.6" in r["url"]]) == 1    # de-duplicated within a section
     r0 = rows[0]

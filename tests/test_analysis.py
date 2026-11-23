@@ -294,3 +294,100 @@ def test_sector_chains(analysis, capsys):
     ibr = read_csv(analysis.root / "analysis" / "ibr_sector_bodies.csv")
     assert ibr == [["cfr_section", "bodies_incorporated"], ["cfr-29-1910.6", "ASTM (2); API (1)"]]
     assert capsys.readouterr().out.strip() == "5 sector rows; 1 bridge standards; 1 CFR sections"
+
+
+# ---------------- boundary / truncation checks ----------------
+def test_clauses_reads_up_to_three_megabytes_and_truncates_headings(analysis, monkeypatch):
+    write_catalog(analysis.root, "lawresorg_bis.csv", BIS[:1])
+    long_heading = "Z" + "a" * 90                                    # 91 chars: the HEAD regex allows it, the writer cuts to 90
+    text = ("filler line\n" * 500) + f" 7 {long_heading}\n"           # heading sits beyond the first 6 kB
+    asked = []
+
+    class R(Resp):
+        def read(self, n=None):
+            asked.append(n)
+            return super().read(n)
+
+    import urllib.request
+    monkeypatch.setattr(urllib.request, "urlopen", lambda req, timeout: R(text))
+    import time
+    monkeypatch.setattr(time, "sleep", lambda s: None)
+    analysis("clauses_in.py")
+    rows = read_csv(analysis.root / "analysis" / "clauses.csv")
+    assert asked == [3_000_000]
+    assert [r[1] for r in rows[1:]] == ["7"] and len(rows[1][2]) == 90 and rows[1][2] == long_heading[:90]
+
+
+def test_clauses_treats_403_like_404(analysis, monkeypatch):
+    write_catalog(analysis.root, "lawresorg_bis.csv", BIS[:1])
+    calls, sleeps = fake_urlopen(monkeypatch, lambda u: http_error(403))
+    analysis("clauses_in.py")
+    assert len(calls) == 1 and read_csv(analysis.root / "analysis" / "clauses.csv")[1][2] == "(text unavailable)"
+
+
+def test_degree_reads_first_40000_bytes_and_cuts_evidence_at_160(analysis, monkeypatch):
+    write_catalog(analysis.root, "lawresorg_bis.csv", BIS[:1])
+    pad = "a" * 8000
+    ev = ("p" * 80) + " identical with " + ("q" * 80)
+    asked = []
+
+    class R(Resp):
+        def read(self, n=None):
+            asked.append(n)
+            return super().read(n)
+
+    import urllib.request, time
+    monkeypatch.setattr(urllib.request, "urlopen", lambda req, timeout: R(pad + ". " + ev))
+    monkeypatch.setattr(time, "sleep", lambda s: None)
+    analysis("degree_in.py")
+    row = read_csv(analysis.root / "analysis" / "degree.csv")[1]
+    assert asked == [40000] and row[2] == "identical" and len(row[3]) == 160
+
+
+def test_key_regex_accepts_three_dash_groups(analysis):
+    key = analysis("link_standards.py")["key"]
+    assert key("ISO 10303-21-1-2") == {"ISO 10303-21-1-2"}
+    assert key("ISO 10303-21-1-2-9") == {"ISO 10303-21-1-2"}
+
+
+def test_link_standards_reads_60_chars_of_national_titles(analysis):
+    title = "x" * 45 + " ISO 12 and trailing text"
+    write_catalog(analysis.root, "a.csv", [dict(source="china-gb", id="GB 1", title=title, url="u")])
+    analysis("link_standards.py")
+    assert {r[0] for r in read_csv(analysis.root / "analysis" / "links.csv")[1:]} == {"ISO 12"}
+
+
+def test_clusters_national_ids_capped_at_300_chars(analysis):
+    rows = [dict(source="bis-public-resource", id=f"ISO 9001 variant {i:03d}", title="t", url="u") for i in range(40)]
+    write_catalog(analysis.root, "a.csv", rows)
+    analysis("link_standards.py")
+    cl = read_csv(analysis.root / "analysis" / "clusters.csv")
+    assert len(cl[1][3]) == 300
+
+
+def test_sector_chains_caps_and_orders(analysis):
+    ks = [dict(source="korea-ks", id=f"KS C ISO {i}", title="t", industries="electrical;electronics") for i in range(1, 14)]
+    ks += [dict(source="korea-ks", id="KS D ISO 1", title="t", industries="metals;steel"),
+            dict(source="korea-ks", id="KS D ISO 2", title="t", industries="metals;steel"),
+            dict(source="korea-ks", id="KS H ISO 1", title="t", industries="food")]
+    write_catalog(analysis.root, "k.csv", ks)
+    analysis("sector_chains.py")
+    chains = read_csv(analysis.root / "analysis" / "sector_chains.csv")
+    counts = [int(r[2]) for r in chains[1:]]
+    assert counts == [13, 2, 1]                                                      # most standards first
+    assert chains[1][3].count(";") == 11 and len(chains[1][3].split("; ")) == 12     # top 12 recurring standards only
+    bridges = read_csv(analysis.root / "analysis" / "sector_bridges.csv")
+    by = {r[0]: r for r in bridges[1:]}
+    assert by["ISO 1"][1] == "3" and by["ISO 2"][1] == "2"                           # a standard in exactly two sectors bridges
+    assert [r[0] for r in bridges[1:]][0] == "ISO 1"                                 # sorted by sector count desc
+    assert "ISO 3" not in by
+
+
+def test_sector_bridges_sector_list_capped_at_300(analysis):
+    rows = []
+    for i in range(20):
+        rows.append(dict(source="eu-harmonised", id="EN ISO 7", title="t", industries=f"eu;{'sector' * 5}{i:02d};a;b"))
+    write_catalog(analysis.root, "e.csv", rows)
+    analysis("sector_chains.py")
+    b = read_csv(analysis.root / "analysis" / "sector_bridges.csv")
+    assert len(b[1][2]) == 300
